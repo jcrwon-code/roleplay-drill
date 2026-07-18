@@ -38,9 +38,28 @@
 
   <script src="app.js"></script>
   <script>
+    // iOS home-screen apps don't reliably re-check for a new service worker on
+    // their own. Force an update check every time the app is opened/foregrounded,
+    // and auto-reload once a new version takes over, so updates always show up
+    // without the user having to delete and re-add the home screen icon.
     if ("serviceWorker" in navigator) {
-      window.addEventListener("load", () => {
-        navigator.serviceWorker.register("sw.js").catch((e) => console.warn("SW registration failed", e));
+      let refreshing = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+      });
+
+      window.addEventListener("load", async () => {
+        const reg = await navigator.serviceWorker.register("sw.js").catch((e) => {
+          console.warn("SW registration failed", e);
+          return null;
+        });
+        if (!reg) return;
+        reg.update();
+        document.addEventListener("visibilitychange", () => {
+          if (document.visibilityState === "visible") reg.update();
+        });
       });
     }
   </script>
