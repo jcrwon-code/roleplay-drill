@@ -5,8 +5,10 @@ const roleAnswerBtn = document.getElementById("roleAnswerBtn");
 const roleQuestionBtn = document.getElementById("roleQuestionBtn");
 const setupEl = document.getElementById("setup");
 const drillEl = document.getElementById("drill");
-const roleLabelEl = document.getElementById("roleLabel");
-const lineTextEl = document.getElementById("lineText");
+const questionBlockEl = document.getElementById("questionBlock");
+const answerBlockEl = document.getElementById("answerBlock");
+const questionTextEl = document.getElementById("questionText");
+const answerTextEl = document.getElementById("answerText");
 const statusEl = document.getElementById("statusText");
 const repEl = document.getElementById("repText");
 
@@ -146,30 +148,32 @@ async function runScenario(fileName, vad) {
   for (let i = 0; i < scenario.turns.length && !stopped; i++) {
     const turn = scenario.turns[i];
     repEl.textContent = `${i + 1} / ${scenario.turns.length}`;
+    questionTextEl.textContent = turn.question;
+    answerTextEl.textContent = turn.answer;
 
     if (myRole === "answer") {
       // AI asks, I answer.
-      roleLabelEl.textContent = "AI asks";
-      lineTextEl.textContent = turn.question;
+      questionBlockEl.classList.add("active");
+      answerBlockEl.classList.remove("active");
       statusEl.textContent = "Listening to AI...";
       await playAudio(audioDir + turn.questionAudio);
       if (stopped) break;
 
-      roleLabelEl.textContent = "Your turn to answer";
-      lineTextEl.textContent = turn.answer;
+      questionBlockEl.classList.remove("active");
+      answerBlockEl.classList.add("active");
       statusEl.textContent = "Speak now...";
       await vad.waitForSpeechThenSilence();
       statusEl.textContent = "";
     } else {
       // I ask, AI answers.
-      roleLabelEl.textContent = "Your turn to ask";
-      lineTextEl.textContent = turn.question;
+      questionBlockEl.classList.add("active");
+      answerBlockEl.classList.remove("active");
       statusEl.textContent = "Speak now...";
       await vad.waitForSpeechThenSilence();
       if (stopped) break;
 
-      roleLabelEl.textContent = "AI answers";
-      lineTextEl.textContent = turn.answer;
+      questionBlockEl.classList.remove("active");
+      answerBlockEl.classList.add("active");
       statusEl.textContent = "Listening to AI...";
       await playAudio(audioDir + turn.answerAudio);
       statusEl.textContent = "";
@@ -177,9 +181,9 @@ async function runScenario(fileName, vad) {
   }
 
   if (!stopped) {
-    roleLabelEl.textContent = "";
-    lineTextEl.textContent = "Scenario complete!";
-    statusEl.textContent = "";
+    questionBlockEl.classList.remove("active");
+    answerBlockEl.classList.remove("active");
+    statusEl.textContent = "Scenario complete!";
   }
 }
 

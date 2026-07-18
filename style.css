@@ -1,19 +1,26 @@
 * { box-sizing: border-box; }
+html, body {
+  height: 100%;
+}
 body {
   margin: 0;
   font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
   background: #fafafa;
   color: #1a1a1a;
+}
+
+#setup {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
 }
 
-#setup, #drill {
+#setup {
   width: 100%;
   max-width: 640px;
   padding: 32px;
+  margin: 0 auto;
 }
 
 .hidden { display: none; }
@@ -72,38 +79,83 @@ button:disabled { opacity: 0.4; cursor: default; }
   color: #fff;
 }
 
-.roleLabel {
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: #888;
-  margin-bottom: 12px;
+/* Full-screen drill layout: question and answer both always visible,
+   each filling half the screen, with the currently-active one highlighted. */
+#drill {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  height: 100dvh;
+  padding: 20px;
+  padding-top: max(20px, env(safe-area-inset-top));
+  padding-bottom: max(20px, env(safe-area-inset-bottom));
 }
 
-.line {
-  font-size: 30px;
-  font-weight: 600;
-  line-height: 1.4;
-  margin-bottom: 28px;
-  min-height: 4.2em;
+.topBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 12px;
 }
 
 .status {
   font-size: 15px;
   color: #888;
-  min-height: 20px;
 }
 
 .rep {
   font-size: 13px;
   color: #bbb;
-  margin-top: 4px;
-  margin-bottom: 24px;
+}
+
+.linesWrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 0;
+}
+
+.lineBlock {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 16px;
+  padding: 24px;
+  background: #f0f0f0;
+  color: #999;
+  transition: background 0.25s, color 0.25s;
+  overflow-y: auto;
+}
+
+.lineBlock.active {
+  background: #eef3ff;
+  color: #1a1a1a;
+}
+
+.roleTag {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  margin-bottom: 10px;
+}
+
+.lineText {
+  font-size: 7vw;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+@media (min-width: 640px) {
+  .lineText { font-size: 34px; }
 }
 
 .stopBtn {
   background: #fff;
   color: #b00020;
   border: 1px solid #f0c0c8;
+  margin-top: 16px;
 }
