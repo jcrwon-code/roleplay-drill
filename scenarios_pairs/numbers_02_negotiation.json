@@ -1,0 +1,245 @@
+{
+  "name": "numbers_02_negotiation",
+  "turns": [
+    {
+      "question": "Is there any room to negotiate on this price?",
+      "questionAudio": "q000.mp3",
+      "answer": "Maybe a little, I could do sixty instead of seventy.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Would you take fifty for it?",
+      "questionAudio": "q001.mp3",
+      "answer": "I can't go that low, but sixty-five works.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Can you do any better than eighty?",
+      "questionAudio": "q002.mp3",
+      "answer": "I can knock off five, so seventy-five.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "What's your best price on this?",
+      "questionAudio": "q003.mp3",
+      "answer": "My best price is ninety, and that's already a deal.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Would you consider forty for the pair?",
+      "questionAudio": "q004.mp3",
+      "answer": "I could do forty-five, that's the lowest I can go.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Can we settle somewhere around a hundred?",
+      "questionAudio": "q005.mp3",
+      "answer": "Sure, let's just say a hundred even.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Is thirty your final offer?",
+      "questionAudio": "q006.mp3",
+      "answer": "No, I can come down to twenty-five if that helps.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Would you meet me halfway at fifty-five?",
+      "questionAudio": "q007.mp3",
+      "answer": "Deal, fifty-five it is.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Can you throw in free delivery if I pay in full?",
+      "questionAudio": "q008.mp3",
+      "answer": "Sure, I can waive the delivery fee for that.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Is there a discount if I buy two instead of one?",
+      "questionAudio": "q009.mp3",
+      "answer": "Yeah, buying two brings it down to eighty each.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Would you take cash for a lower price?",
+      "questionAudio": "q010.mp3",
+      "answer": "Yeah, cash works, I'll drop it to seventy for that.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Can we agree on seventy-five instead of ninety?",
+      "questionAudio": "q011.mp3",
+      "answer": "Let's meet at eighty, that's fair for both of us.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Is there any flexibility on the quoted price?",
+      "questionAudio": "q012.mp3",
+      "answer": "A little, I can go down about ten percent.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Would one hundred and twenty work for both items?",
+      "questionAudio": "q013.mp3",
+      "answer": "That's a bit low, but one thirty would work.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Can you give me a discount for buying in bulk?",
+      "questionAudio": "q014.mp3",
+      "answer": "Sure, ten units or more gets you fifteen percent off.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Is sixty the lowest you'll go?",
+      "questionAudio": "q015.mp3",
+      "answer": "I could stretch to fifty-five, but that's it.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Would you accept thirty-five as a final price?",
+      "questionAudio": "q016.mp3",
+      "answer": "That works, thirty-five it is.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Can we split the difference between forty and sixty?",
+      "questionAudio": "q017.mp3",
+      "answer": "Sure, fifty sounds fair to me.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Is there a lower price if I skip the warranty?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yeah, without the warranty it's ten dollars less.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Would you knock off the tax if I pay upfront?",
+      "questionAudio": "q019.mp3",
+      "answer": "I can't waive tax, but I'll throw in a small discount.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Can I get a better deal if I refer a friend?",
+      "questionAudio": "q020.mp3",
+      "answer": "Absolutely, you'd both get ten percent off.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Is ninety-five negotiable at all?",
+      "questionAudio": "q021.mp3",
+      "answer": "A little, I could do ninety flat.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Would you go lower if I take it today?",
+      "questionAudio": "q022.mp3",
+      "answer": "Sure, same-day purchase gets you five off.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Can we agree on a round number, like a hundred?",
+      "questionAudio": "q023.mp3",
+      "answer": "That works for me, let's call it a hundred.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Is there wiggle room if I pay in two installments?",
+      "questionAudio": "q024.mp3",
+      "answer": "Not much, maybe five dollars less overall.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Would twenty-five be too low for you?",
+      "questionAudio": "q025.mp3",
+      "answer": "It's a bit low, but I could do thirty.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Can you match the price I saw somewhere else?",
+      "questionAudio": "q026.mp3",
+      "answer": "If you show me, I'll try to match it.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Is there a discount for returning customers?",
+      "questionAudio": "q027.mp3",
+      "answer": "Yes, returning customers get an automatic ten percent off.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Would you consider seventy if I buy two?",
+      "questionAudio": "q028.mp3",
+      "answer": "Yeah, seventy each for two works for me.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Can we finalize at eighty-five instead of a hundred?",
+      "questionAudio": "q029.mp3",
+      "answer": "Let's do ninety, that's as low as I can go.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Is there any discount available right now?",
+      "questionAudio": "q030.mp3",
+      "answer": "Yes, there's a seasonal discount of twenty percent.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Would you take a trade plus some cash?",
+      "questionAudio": "q031.mp3",
+      "answer": "Sure, depending on the trade value, that could work.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Can I get a better rate for a longer contract?",
+      "questionAudio": "q032.mp3",
+      "answer": "Yes, a longer term brings the monthly rate down.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Is there room to negotiate the delivery fee?",
+      "questionAudio": "q033.mp3",
+      "answer": "A little, I can cut it in half.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Would forty-five work better for you than fifty?",
+      "questionAudio": "q034.mp3",
+      "answer": "It's close, let's settle at forty-seven fifty.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "Can you do a discount if I leave a review?",
+      "questionAudio": "q035.mp3",
+      "answer": "Sure, I'll knock off five percent for that.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Is there any flex if I commit to a subscription?",
+      "questionAudio": "q036.mp3",
+      "answer": "Yes, subscribing knocks the price down significantly.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Would you accept store credit instead of a refund?",
+      "questionAudio": "q037.mp3",
+      "answer": "I can offer a bit extra if you take store credit.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Can we agree somewhere between thirty and forty?",
+      "questionAudio": "q038.mp3",
+      "answer": "Let's settle at thirty-five, right in the middle.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Is there a discount for paying the full year upfront?",
+      "questionAudio": "q039.mp3",
+      "answer": "Yes, paying annually saves you two months' worth.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

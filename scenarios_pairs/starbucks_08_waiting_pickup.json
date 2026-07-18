@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_08_waiting_pickup",
+  "turns": [
+    {
+      "question": "It'll be just a few minutes, is that okay?",
+      "questionAudio": "q000.mp3",
+      "answer": "Sure, no problem, I'll wait over there.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Can I call your name when it's ready?",
+      "questionAudio": "q001.mp3",
+      "answer": "Yes, that works, thank you.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Would you like to wait at the counter or a table?",
+      "questionAudio": "q002.mp3",
+      "answer": "I'll just wait at the counter, thanks.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "It's coming right up, thanks for your patience.",
+      "questionAudio": "q003.mp3",
+      "answer": "No worries, take your time.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Can you check if this drink is mine?",
+      "questionAudio": "q004.mp3",
+      "answer": "Let me check the name real quick.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Is this the caramel macchiato for Sarah?",
+      "questionAudio": "q005.mp3",
+      "answer": "Yes, that's me, thank you.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Sorry for the wait, we're a bit backed up.",
+      "questionAudio": "q006.mp3",
+      "answer": "It's totally fine, I'm not in a rush.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Can you double-check the name on this cup?",
+      "questionAudio": "q007.mp3",
+      "answer": "Sure, it says Michael, is that you?",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Your drink should be ready any moment now.",
+      "questionAudio": "q008.mp3",
+      "answer": "Great, thank you for the update.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Is this the grande iced latte for Kevin?",
+      "questionAudio": "q009.mp3",
+      "answer": "Yes, that's mine, thank you.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Would you like an update on your order status?",
+      "questionAudio": "q010.mp3",
+      "answer": "Sure, that would be helpful, thanks.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Can you confirm this order is correct?",
+      "questionAudio": "q011.mp3",
+      "answer": "Let me check -- yes, this looks right.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "It looks like your order's almost done.",
+      "questionAudio": "q012.mp3",
+      "answer": "Perfect, I'll wait just a bit longer.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Is this the mobile order under Jessica?",
+      "questionAudio": "q013.mp3",
+      "answer": "Yes, that's me, thank you.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Sorry, we're just finishing up your drink now.",
+      "questionAudio": "q014.mp3",
+      "answer": "No worries at all, thanks for letting me know.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Can you check if my order came in yet?",
+      "questionAudio": "q015.mp3",
+      "answer": "Let me check the screen real quick.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Your order number is forty-two, does that sound right?",
+      "questionAudio": "q016.mp3",
+      "answer": "Yes, that's the one, thank you.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Would you like me to remake that for you?",
+      "questionAudio": "q017.mp3",
+      "answer": "Yes, please, that would be great.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Is this the tall cold brew for David?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yes, that's mine, thanks so much.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Your food will be out in just a second.",
+      "questionAudio": "q019.mp3",
+      "answer": "Perfect, thank you for letting me know.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Can I get you anything while you wait?",
+      "questionAudio": "q020.mp3",
+      "answer": "No, I'm all set, thank you.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Is the order under the name Ashley ready?",
+      "questionAudio": "q021.mp3",
+      "answer": "Yes, it's right here, thank you.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Sorry about the delay, thanks for waiting.",
+      "questionAudio": "q022.mp3",
+      "answer": "No problem at all, I appreciate it.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Can you confirm this is your correct drink?",
+      "questionAudio": "q023.mp3",
+      "answer": "Yes, this is exactly what I ordered.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "It's just brewing now, shouldn't be long.",
+      "questionAudio": "q024.mp3",
+      "answer": "No rush, I'll just wait right here.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Is this the venti Frappuccino for Chris?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yes, that's me, thank you.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Would you like a fresh one instead of this?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yes, please, that would be appreciated.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Your order's up, sorry for the short wait.",
+      "questionAudio": "q027.mp3",
+      "answer": "No problem at all, thanks for the coffee.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Can you check the label on this cup?",
+      "questionAudio": "q028.mp3",
+      "answer": "Sure, it says Rebecca, that's me.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Is this the hot chocolate for Emily?",
+      "questionAudio": "q029.mp3",
+      "answer": "Yes, that's mine, thank you so much.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "We're just steaming the milk now, one moment.",
+      "questionAudio": "q030.mp3",
+      "answer": "Take your time, I'm not in a hurry.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Can I get your order number to check on it?",
+      "questionAudio": "q031.mp3",
+      "answer": "Sure, it's number seventeen.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Is this the oat milk latte for Justin?",
+      "questionAudio": "q032.mp3",
+      "answer": "Yes, that's me, thanks a lot.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Your order's next up on the bar.",
+      "questionAudio": "q033.mp3",
+      "answer": "Great, thank you for the heads up.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Can you confirm the size is correct?",
+      "questionAudio": "q034.mp3",
+      "answer": "Yes, this is the right size, thank you.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "It looks like there was a small mix-up, one second.",
+      "questionAudio": "q035.mp3",
+      "answer": "No worries at all, take your time fixing it.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Is this the drip coffee for Anthony?",
+      "questionAudio": "q036.mp3",
+      "answer": "Yes, that's mine, thank you.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Sorry, we're just plating your food now.",
+      "questionAudio": "q037.mp3",
+      "answer": "That's totally fine, I appreciate it.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Can I double-check this is decaf like you asked?",
+      "questionAudio": "q038.mp3",
+      "answer": "Yes, please, that would be great.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Your drink is finally ready, thanks for waiting.",
+      "questionAudio": "q039.mp3",
+      "answer": "Thank you so much, have a great day.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "name": "greetings_06_how_are_you",
+  "turns": [
+    {
+      "question": "How are you doing today?",
+      "questionAudio": "q000.mp3",
+      "answer": "Pretty good, thanks for asking.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "How have you been lately?",
+      "questionAudio": "q001.mp3",
+      "answer": "Can't complain, honestly, staying busy.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "How's everything going?",
+      "questionAudio": "q002.mp3",
+      "answer": "Everything's good, no real complaints.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "How's life treating you these days?",
+      "questionAudio": "q003.mp3",
+      "answer": "Pretty well, actually, better than expected.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Is everything okay with you?",
+      "questionAudio": "q004.mp3",
+      "answer": "Yeah, everything's fine, just a bit tired lately.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "You doing alright?",
+      "questionAudio": "q005.mp3",
+      "answer": "Yeah, I'm alright, thanks for checking.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "How's your health been lately?",
+      "questionAudio": "q006.mp3",
+      "answer": "Better, actually, I finally kicked that cold.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Are you holding up okay with everything going on?",
+      "questionAudio": "q007.mp3",
+      "answer": "Yeah, taking it one day at a time.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "How are things on your end?",
+      "questionAudio": "q008.mp3",
+      "answer": "Pretty smooth, nothing too crazy happening.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "How's your stress level these days?",
+      "questionAudio": "q009.mp3",
+      "answer": "Honestly, better than it's been in a while.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Everything good with the family?",
+      "questionAudio": "q010.mp3",
+      "answer": "Yeah, everyone's doing well, thanks for asking.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "How's your energy been lately?",
+      "questionAudio": "q011.mp3",
+      "answer": "A bit low, honestly, but I'm managing.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Are you feeling better than last week?",
+      "questionAudio": "q012.mp3",
+      "answer": "Much better, thank you for asking.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "How's your mood been these days?",
+      "questionAudio": "q013.mp3",
+      "answer": "Pretty good, overall, no real complaints.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "You seem a little off today, is everything alright?",
+      "questionAudio": "q014.mp3",
+      "answer": "I'm okay, just a long day, that's all.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "How are you really doing, though?",
+      "questionAudio": "q015.mp3",
+      "answer": "Honestly, hanging in there, but doing okay.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Is there anything on your mind lately?",
+      "questionAudio": "q016.mp3",
+      "answer": "Not really, just the usual work stuff.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "How's everything holding up on your side?",
+      "questionAudio": "q017.mp3",
+      "answer": "Pretty stable, thankfully, nothing too stressful.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "How are you feeling after everything that happened?",
+      "questionAudio": "q018.mp3",
+      "answer": "A lot better now, thanks for checking in.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Is life treating you well these days?",
+      "questionAudio": "q019.mp3",
+      "answer": "It really is, I can't complain at all.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "How's your week been so far?",
+      "questionAudio": "q020.mp3",
+      "answer": "Busy, but in a good way, mostly.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Are you doing okay with the workload lately?",
+      "questionAudio": "q021.mp3",
+      "answer": "It's manageable, thankfully, nothing too overwhelming.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "How's your headspace been lately?",
+      "questionAudio": "q022.mp3",
+      "answer": "Pretty clear, actually, feeling more relaxed.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Everything alright health-wise?",
+      "questionAudio": "q023.mp3",
+      "answer": "Yeah, all good, just a bit worn out.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "How are you coping with everything?",
+      "questionAudio": "q024.mp3",
+      "answer": "Honestly, better than I expected to be.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "How's your day been treating you?",
+      "questionAudio": "q025.mp3",
+      "answer": "Pretty smooth so far, no complaints.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Are things looking up for you lately?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yeah, actually, things are finally coming together.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "How's your patience holding up these days?",
+      "questionAudio": "q027.mp3",
+      "answer": "Surprisingly well, considering everything.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Is everything under control on your end?",
+      "questionAudio": "q028.mp3",
+      "answer": "For the most part, yeah, nothing too crazy.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "How are you feeling about everything overall?",
+      "questionAudio": "q029.mp3",
+      "answer": "Pretty optimistic, actually, things feel steady.",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

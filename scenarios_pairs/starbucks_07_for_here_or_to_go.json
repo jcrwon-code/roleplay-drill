@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_07_for_here_or_to_go",
+  "turns": [
+    {
+      "question": "Is this for here or to go?",
+      "questionAudio": "q000.mp3",
+      "answer": "To go, please, thanks.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Will you be staying and working here today?",
+      "questionAudio": "q001.mp3",
+      "answer": "Yeah, I'll probably be here a couple hours.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Do you need a table for two?",
+      "questionAudio": "q002.mp3",
+      "answer": "Just one, thanks, I'm on my own.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Would you like a mug for here instead of a cup?",
+      "questionAudio": "q003.mp3",
+      "answer": "Sure, a mug would be nice, thanks.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Are you planning to sit outside today?",
+      "questionAudio": "q004.mp3",
+      "answer": "Yeah, actually, the patio looks nice.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Do you need a carrier for multiple drinks?",
+      "questionAudio": "q005.mp3",
+      "answer": "Yes, please, that would help a lot.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Will you need a lid for that?",
+      "questionAudio": "q006.mp3",
+      "answer": "Yes, please, I'm taking it with me.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Are you eating in or taking it with you?",
+      "questionAudio": "q007.mp3",
+      "answer": "I'll eat in today, thanks.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Do you want a sleeve for your cup?",
+      "questionAudio": "q008.mp3",
+      "answer": "Yes, please, it's pretty hot.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Will you be using the drive-thru today?",
+      "questionAudio": "q009.mp3",
+      "answer": "No, I'm actually coming inside this time.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Do you need a bag for that pastry?",
+      "questionAudio": "q010.mp3",
+      "answer": "Yes, please, that would help.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Are you staying for a while or just grabbing it?",
+      "questionAudio": "q011.mp3",
+      "answer": "Just grabbing it, I'm in a rush.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Would you like a straw with your cold drink?",
+      "questionAudio": "q012.mp3",
+      "answer": "Yes, please, thank you.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Do you need extra napkins with that?",
+      "questionAudio": "q013.mp3",
+      "answer": "Yes, please, a couple would be great.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Will you be working here on your laptop today?",
+      "questionAudio": "q014.mp3",
+      "answer": "Yeah, I've got a few hours of work to do.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Do you want a tray to carry everything?",
+      "questionAudio": "q015.mp3",
+      "answer": "Yes, please, that would make it easier.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Are you dining in with a group today?",
+      "questionAudio": "q016.mp3",
+      "answer": "No, just me today, thanks.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Would you like it packed to go instead?",
+      "questionAudio": "q017.mp3",
+      "answer": "Yes, please, I need to head out soon.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Do you need a to-go box for the leftovers?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yes, please, I'll finish it later.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Will you be using our WiFi today?",
+      "questionAudio": "q019.mp3",
+      "answer": "Yes, if that's okay, I need to work a bit.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Are you meeting someone here or just by yourself?",
+      "questionAudio": "q020.mp3",
+      "answer": "Just by myself, waiting on a coffee break.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Do you want your food wrapped to travel well?",
+      "questionAudio": "q021.mp3",
+      "answer": "Yes, please, I've got a bit of a walk.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Will you need a drink carrier for the car?",
+      "questionAudio": "q022.mp3",
+      "answer": "Yes, please, that would be perfect.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Are you sitting inside or outside today?",
+      "questionAudio": "q023.mp3",
+      "answer": "Inside, please, it's a bit windy out there.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Do you need it double cupped for the heat?",
+      "questionAudio": "q024.mp3",
+      "answer": "Yes, please, that would help a lot.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Will you be staying to charge your phone here?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yeah, actually, that would be great.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Are you taking this back to the office?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yes, exactly, a few of us are sharing.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Do you need a spill-proof lid for the road?",
+      "questionAudio": "q027.mp3",
+      "answer": "Yes, please, I'm driving with this.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Will you need directions to the restroom?",
+      "questionAudio": "q028.mp3",
+      "answer": "Yes, actually, that would be helpful.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Are you staying to enjoy the music today?",
+      "questionAudio": "q029.mp3",
+      "answer": "Yeah, it's actually really nice in here.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Do you need help carrying that to your car?",
+      "questionAudio": "q030.mp3",
+      "answer": "No, I think I've got it, thank you.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Will you be sitting by the window today?",
+      "questionAudio": "q031.mp3",
+      "answer": "Yeah, if there's a spot, that'd be great.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Are you here for a quick break or settling in?",
+      "questionAudio": "q032.mp3",
+      "answer": "Just a quick break before my next meeting.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Do you need extra sugar packets on the side?",
+      "questionAudio": "q033.mp3",
+      "answer": "Yes, please, a couple would be great.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Will you be picking this up curbside instead?",
+      "questionAudio": "q034.mp3",
+      "answer": "Yes, actually, I'm parked right outside.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "Are you staying to study for a while?",
+      "questionAudio": "q035.mp3",
+      "answer": "Yeah, probably for the next couple hours.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Do you need it packed separately for two people?",
+      "questionAudio": "q036.mp3",
+      "answer": "Yes, please, we're splitting it up.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Will you be taking the elevator or the stairs up?",
+      "questionAudio": "q037.mp3",
+      "answer": "The stairs, thanks, I could use the movement.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Are you okay with a seat near the counter?",
+      "questionAudio": "q038.mp3",
+      "answer": "Sure, that works fine for me.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Do you need a lid that's easier to sip from?",
+      "questionAudio": "q039.mp3",
+      "answer": "Yes, please, that would be great.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_05_food_and_name",
+  "turns": [
+    {
+      "question": "Would you like anything to eat with that?",
+      "questionAudio": "q000.mp3",
+      "answer": "Yes, I'll take a blueberry muffin, please.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Can I get a name for the order?",
+      "questionAudio": "q001.mp3",
+      "answer": "Sure, it's Michael.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Would you like that pastry warmed up?",
+      "questionAudio": "q002.mp3",
+      "answer": "Yes, please, warmed up would be great.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "What's the name for this order?",
+      "questionAudio": "q003.mp3",
+      "answer": "It's under Sarah, S-A-R-A-H.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Would you like a bagel with cream cheese?",
+      "questionAudio": "q004.mp3",
+      "answer": "Yes, please, that sounds great.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Can I get your name for the cup?",
+      "questionAudio": "q005.mp3",
+      "answer": "Sure, it's Daniel.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Would you like the egg bites or the sandwich?",
+      "questionAudio": "q006.mp3",
+      "answer": "I'll go with the sandwich, thanks.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "What name should I put on the order?",
+      "questionAudio": "q007.mp3",
+      "answer": "You can just put down Alex.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Would you like that toasted or as is?",
+      "questionAudio": "q008.mp3",
+      "answer": "Toasted, please, thank you.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Can I grab a name for this?",
+      "questionAudio": "q009.mp3",
+      "answer": "Sure, it's Emma, like the name.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Would you like anything sweet to go with your drink?",
+      "questionAudio": "q010.mp3",
+      "answer": "Yes, I'll add a chocolate croissant.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "What name goes on the cup today?",
+      "questionAudio": "q011.mp3",
+      "answer": "It's Chris, short and simple.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Would you like the whole sandwich or half?",
+      "questionAudio": "q012.mp3",
+      "answer": "The whole one, please, I'm starving.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Can I get your name for the order, please?",
+      "questionAudio": "q013.mp3",
+      "answer": "Sure, it's Jennifer.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Would you like that with a side of fruit?",
+      "questionAudio": "q014.mp3",
+      "answer": "Yes, that sounds like a nice add-on.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "What's the name I should write down?",
+      "questionAudio": "q015.mp3",
+      "answer": "You can write down Tom.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Would you like a snack box with that?",
+      "questionAudio": "q016.mp3",
+      "answer": "Sure, that sounds like a good idea.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Can I get a name for the mobile pickup?",
+      "questionAudio": "q017.mp3",
+      "answer": "It's under Rachel, R-A-C-H-E-L.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Would you like the protein box instead?",
+      "questionAudio": "q018.mp3",
+      "answer": "Actually, yeah, that sounds healthier.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "What name did you use for the app order?",
+      "questionAudio": "q019.mp3",
+      "answer": "I used my name, Kevin.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Would you like extra cream cheese on the side?",
+      "questionAudio": "q020.mp3",
+      "answer": "Yes, please, extra on the side.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Can I get your name real quick?",
+      "questionAudio": "q021.mp3",
+      "answer": "Sure, it's Olivia.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Would you like your sandwich cut in half?",
+      "questionAudio": "q022.mp3",
+      "answer": "Yes, please, cut in half is perfect.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "What's the name for the order today?",
+      "questionAudio": "q023.mp3",
+      "answer": "It's under James, if that helps.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Would you like a cookie with your coffee?",
+      "questionAudio": "q024.mp3",
+      "answer": "Sure, why not, I'll take one.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Can I write your name as Dave?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yes, that works perfectly, thank you.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Would you like that heated for a bit longer?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yes, please, a little longer would be great.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "What name should go on the receipt?",
+      "questionAudio": "q027.mp3",
+      "answer": "You can put down Laura.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Would you like a fruit cup instead of pastry?",
+      "questionAudio": "q028.mp3",
+      "answer": "Yes, that sounds like the better option.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Can I get a name for this to-go order?",
+      "questionAudio": "q029.mp3",
+      "answer": "Sure, it's Peter.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Would you like the wrap or the sandwich today?",
+      "questionAudio": "q030.mp3",
+      "answer": "I'll go with the wrap, thanks.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "What's the name on your mobile order?",
+      "questionAudio": "q031.mp3",
+      "answer": "It should say Nicole.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Would you like your muffin split into two?",
+      "questionAudio": "q032.mp3",
+      "answer": "Yes, please, that would be great.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Can I confirm the name is Anna?",
+      "questionAudio": "q033.mp3",
+      "answer": "Yes, that's correct, thank you.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Would you like anything else with that pastry?",
+      "questionAudio": "q034.mp3",
+      "answer": "No, that'll be all, thanks.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "What name did you put for delivery?",
+      "questionAudio": "q035.mp3",
+      "answer": "I put down Mark for the delivery.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Would you like the parfait as a snack today?",
+      "questionAudio": "q036.mp3",
+      "answer": "Sure, that sounds refreshing.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Can I get your name spelled out for me?",
+      "questionAudio": "q037.mp3",
+      "answer": "Sure, it's K-A-T-E, Kate.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Would you like your bagel toasted extra crispy?",
+      "questionAudio": "q038.mp3",
+      "answer": "Yes, please, extra crispy is perfect.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "What's the name for the pickup order?",
+      "questionAudio": "q039.mp3",
+      "answer": "It's under Steve, thank you.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

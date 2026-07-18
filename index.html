@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0b">
+<title>Roleplay Drill</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="setup">
+    <h1>Roleplay Drill</h1>
+    <label for="scenarioSelect">Scenario</label>
+    <select id="scenarioSelect"></select>
+
+    <label>My role in this scenario</label>
+    <div class="roleToggle">
+      <button id="roleAnswerBtn" class="roleBtn active" type="button">I answer (AI asks)</button>
+      <button id="roleQuestionBtn" class="roleBtn" type="button">I ask (AI answers)</button>
+    </div>
+
+    <button id="startBtn">Start</button>
+    <p class="hint">Allow microphone access when prompted. Works fully offline once loaded.</p>
+  </div>
+
+  <div id="drill" class="hidden">
+    <div class="roleLabel" id="roleLabel"></div>
+    <div class="line" id="lineText"></div>
+    <div class="status" id="statusText"></div>
+    <div class="rep" id="repText"></div>
+    <button id="stopBtn" class="stopBtn">Stop</button>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("sw.js").catch((e) => console.warn("SW registration failed", e));
+      });
+    }
+  </script>
+</body>
+</html>

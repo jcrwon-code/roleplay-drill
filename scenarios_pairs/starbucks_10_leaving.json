@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_10_leaving",
+  "turns": [
+    {
+      "question": "Here's your order, have a great day!",
+      "questionAudio": "q000.mp3",
+      "answer": "Thank you so much, you too!",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Enjoy your drink, thanks for coming in!",
+      "questionAudio": "q001.mp3",
+      "answer": "Thanks, I will, see you next time!",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Is there anything else I can get for you?",
+      "questionAudio": "q002.mp3",
+      "answer": "No, that's everything, thank you.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Have a wonderful rest of your day!",
+      "questionAudio": "q003.mp3",
+      "answer": "Thank you, you as well!",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Thanks for stopping by today, see you soon!",
+      "questionAudio": "q004.mp3",
+      "answer": "Thanks, definitely, see you soon!",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Here you go, careful, it's pretty hot!",
+      "questionAudio": "q005.mp3",
+      "answer": "Thanks for the heads up, I appreciate it.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Thanks for your patience today, enjoy!",
+      "questionAudio": "q006.mp3",
+      "answer": "No problem at all, thank you!",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Take care, and thanks for the visit!",
+      "questionAudio": "q007.mp3",
+      "answer": "You too, thanks for everything!",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "That should be everything, have a great one!",
+      "questionAudio": "q008.mp3",
+      "answer": "Thanks so much, you too!",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Enjoy the rest of your morning!",
+      "questionAudio": "q009.mp3",
+      "answer": "Thank you, you as well!",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Thanks for choosing us today, see you around!",
+      "questionAudio": "q010.mp3",
+      "answer": "Of course, see you around!",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Here's your receipt, have a great afternoon!",
+      "questionAudio": "q011.mp3",
+      "answer": "Thank you, you too!",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Safe travels, and thanks for stopping in!",
+      "questionAudio": "q012.mp3",
+      "answer": "Thank you so much, take care!",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Hope you enjoy that, see you tomorrow maybe?",
+      "questionAudio": "q013.mp3",
+      "answer": "Maybe so, thanks, have a good one!",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Thanks again, hope your meeting goes well!",
+      "questionAudio": "q014.mp3",
+      "answer": "Thank you, I appreciate that!",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Enjoy your day off, see you next week!",
+      "questionAudio": "q015.mp3",
+      "answer": "Thanks, I definitely will, see you then!",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Here's your bag, everything should be inside.",
+      "questionAudio": "q016.mp3",
+      "answer": "Perfect, thank you so much!",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Thanks for coming in, stay warm out there!",
+      "questionAudio": "q017.mp3",
+      "answer": "Thanks, I'll try, you too!",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Have a good one, and good luck with your exam!",
+      "questionAudio": "q018.mp3",
+      "answer": "Thank you, I'll need it!",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Thanks for your order, come back soon!",
+      "questionAudio": "q019.mp3",
+      "answer": "I definitely will, thanks again!",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Enjoy your coffee, and good luck at work today!",
+      "questionAudio": "q020.mp3",
+      "answer": "Thank you so much, appreciate it!",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Take it easy, and thanks for your business!",
+      "questionAudio": "q021.mp3",
+      "answer": "You too, thanks for everything!",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Here you go, hope it's exactly what you wanted!",
+      "questionAudio": "q022.mp3",
+      "answer": "It is, thank you so much!",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Have a safe drive home, thanks for coming!",
+      "questionAudio": "q023.mp3",
+      "answer": "Thank you, I will, take care!",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Thanks for waiting, enjoy the rest of your day!",
+      "questionAudio": "q024.mp3",
+      "answer": "No problem, thank you, you too!",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Hope to see you again soon, take care!",
+      "questionAudio": "q025.mp3",
+      "answer": "Definitely, thanks so much, bye!",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Here's your change, have a wonderful evening!",
+      "questionAudio": "q026.mp3",
+      "answer": "Thank you, you as well!",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Thanks for visiting us today, come back anytime!",
+      "questionAudio": "q027.mp3",
+      "answer": "I will, thanks so much, bye!",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Enjoy your snack, and good luck with the rest of your day!",
+      "questionAudio": "q028.mp3",
+      "answer": "Thank you, I appreciate it!",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Have a great weekend, thanks for stopping by!",
+      "questionAudio": "q029.mp3",
+      "answer": "You too, thanks, see you soon!",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Here's everything, hope you enjoy your visit!",
+      "questionAudio": "q030.mp3",
+      "answer": "I definitely will, thank you!",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Take care out there, thanks again for coming!",
+      "questionAudio": "q031.mp3",
+      "answer": "Thank you, you too, bye now!",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Thanks for your order, enjoy your afternoon!",
+      "questionAudio": "q032.mp3",
+      "answer": "Thank you, you as well!",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Have a fantastic day, and thanks for choosing us!",
+      "questionAudio": "q033.mp3",
+      "answer": "Thank you so much, have a good one!",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Here's your drink, careful with the lid!",
+      "questionAudio": "q034.mp3",
+      "answer": "Thanks for the warning, appreciate it!",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "Enjoy, and I hope your presentation goes great!",
+      "questionAudio": "q035.mp3",
+      "answer": "Thank you, fingers crossed!",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Thanks for coming in, hope to see you again!",
+      "questionAudio": "q036.mp3",
+      "answer": "For sure, thanks so much, take care!",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Have a good rest of your commute!",
+      "questionAudio": "q037.mp3",
+      "answer": "Thank you, you have a good one too!",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Here's your order, thanks for your patience today!",
+      "questionAudio": "q038.mp3",
+      "answer": "No worries at all, thank you!",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Take care, and enjoy the rest of your week!",
+      "questionAudio": "q039.mp3",
+      "answer": "You too, thanks so much, bye!",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

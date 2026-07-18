@@ -1,0 +1,185 @@
+{
+  "name": "greetings_09_formal_goodbye",
+  "turns": [
+    {
+      "question": "Thank you again for your time, it was a pleasure.",
+      "questionAudio": "q000.mp3",
+      "answer": "The pleasure was all mine, thank you for coming.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "I look forward to working together going forward.",
+      "questionAudio": "q001.mp3",
+      "answer": "As do I, I'll be in touch soon.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Thank you for meeting with us today, safe travels.",
+      "questionAudio": "q002.mp3",
+      "answer": "Thank you, I appreciate the hospitality.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "It was wonderful to finally meet you in person.",
+      "questionAudio": "q003.mp3",
+      "answer": "Likewise, I hope we can do this again soon.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "I'll follow up with you by email tomorrow.",
+      "questionAudio": "q004.mp3",
+      "answer": "Perfect, I'll keep an eye out for it.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Thank you for your time today, have a safe trip home.",
+      "questionAudio": "q005.mp3",
+      "answer": "Thank you, I will, and thank you for hosting.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "It's been a pleasure discussing this with you.",
+      "questionAudio": "q006.mp3",
+      "answer": "Likewise, I'm glad we had the chance to talk.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "I hope to see you again at the next conference.",
+      "questionAudio": "q007.mp3",
+      "answer": "I hope so too, take care until then.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Thank you for your hospitality during our stay.",
+      "questionAudio": "q008.mp3",
+      "answer": "It was truly our pleasure, safe travels back.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "I'll be in touch regarding the next steps.",
+      "questionAudio": "q009.mp3",
+      "answer": "Sounds good, I'll be waiting to hear from you.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Thank you for taking the time to see us out.",
+      "questionAudio": "q010.mp3",
+      "answer": "Of course, please have a safe journey home.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "It was a pleasure putting a face to the name.",
+      "questionAudio": "q011.mp3",
+      "answer": "Likewise, I look forward to our next meeting.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "I appreciate everything you've done for us today.",
+      "questionAudio": "q012.mp3",
+      "answer": "It was truly our pleasure, take care.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Thank you again, I hope the rest of your trip goes smoothly.",
+      "questionAudio": "q013.mp3",
+      "answer": "Thank you, and best of luck with the project.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "I'll send over the documents as soon as I'm back at my desk.",
+      "questionAudio": "q014.mp3",
+      "answer": "Thank you, I'll look out for them.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "It was an honor to host you today.",
+      "questionAudio": "q015.mp3",
+      "answer": "The honor was ours, thank you for everything.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "I hope our paths cross again soon.",
+      "questionAudio": "q016.mp3",
+      "answer": "I certainly hope so, take care until then.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Thank you for accommodating our schedule today.",
+      "questionAudio": "q017.mp3",
+      "answer": "Not a problem at all, safe travels.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "I'll be sure to pass along your regards.",
+      "questionAudio": "q018.mp3",
+      "answer": "Thank you, please do, and take care.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "It's been a genuine pleasure working with your team.",
+      "questionAudio": "q019.mp3",
+      "answer": "The feeling is mutual, we look forward to more.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Please give my best to the rest of your colleagues.",
+      "questionAudio": "q020.mp3",
+      "answer": "I certainly will, thank you for everything.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Thank you again for everything, take care of yourself.",
+      "questionAudio": "q021.mp3",
+      "answer": "You too, and thank you for the wonderful visit.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "I hope to have the pleasure of working with you again.",
+      "questionAudio": "q022.mp3",
+      "answer": "As do I, thank you for a great experience.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Thank you for your understanding regarding the delay.",
+      "questionAudio": "q023.mp3",
+      "answer": "Not a problem at all, thank you for letting us know.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "It was truly a pleasure meeting you today.",
+      "questionAudio": "q024.mp3",
+      "answer": "The pleasure was mine as well, safe travels home.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "I look forward to hearing from you soon.",
+      "questionAudio": "q025.mp3",
+      "answer": "Likewise, I'll follow up shortly.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Thank you for your hospitality, it meant a lot.",
+      "questionAudio": "q026.mp3",
+      "answer": "It was our pleasure entirely, take care.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "I hope everything goes smoothly on your end from here.",
+      "questionAudio": "q027.mp3",
+      "answer": "Thank you, I appreciate that, take care as well.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "It's been wonderful getting to know you today.",
+      "questionAudio": "q028.mp3",
+      "answer": "Likewise, I look forward to staying in touch.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Thank you again, and please stay in touch.",
+      "questionAudio": "q029.mp3",
+      "answer": "Absolutely, I will, thank you so much.",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

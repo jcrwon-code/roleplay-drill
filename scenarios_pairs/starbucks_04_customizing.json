@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_04_customizing",
+  "turns": [
+    {
+      "question": "Would you like that with any milk alternatives?",
+      "questionAudio": "q000.mp3",
+      "answer": "Yes, could you use oat milk instead?",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "How many shots would you like in your drink?",
+      "questionAudio": "q001.mp3",
+      "answer": "I'll take a triple shot today.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Would you like your drink extra hot or regular?",
+      "questionAudio": "q002.mp3",
+      "answer": "Extra hot, please, thank you.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Do you want that with less ice?",
+      "questionAudio": "q003.mp3",
+      "answer": "Yes, light ice would be great.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Would you like a sugar-free syrup instead?",
+      "questionAudio": "q004.mp3",
+      "answer": "Yes, sugar-free vanilla would be perfect.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Do you want it blended thinner or thicker?",
+      "questionAudio": "q005.mp3",
+      "answer": "A bit thinner, if that's possible.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Would you like extra whipped cream on top?",
+      "questionAudio": "q006.mp3",
+      "answer": "Yes, please, pile it on.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "How would you like your foam, light or thick?",
+      "questionAudio": "q007.mp3",
+      "answer": "Thick foam, please, I love that part.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Would you like decaf instead of regular?",
+      "questionAudio": "q008.mp3",
+      "answer": "Yes, decaf would be great, thank you.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Do you want that with an extra pump of caramel?",
+      "questionAudio": "q009.mp3",
+      "answer": "Yes, extra pump would be perfect.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Would you like your tea extra steeped?",
+      "questionAudio": "q010.mp3",
+      "answer": "Yes, please, a bit stronger than usual.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Do you want half and half instead of milk?",
+      "questionAudio": "q011.mp3",
+      "answer": "Yes, half and half sounds great.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Would you like your drink lukewarm instead?",
+      "questionAudio": "q012.mp3",
+      "answer": "No, actually, keep it nice and hot.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Do you want a little cinnamon on top?",
+      "questionAudio": "q013.mp3",
+      "answer": "Yes, a sprinkle would be nice.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Would you like your espresso ristretto style?",
+      "questionAudio": "q014.mp3",
+      "answer": "Sure, I'll try it that way today.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Do you want that with almond milk foam?",
+      "questionAudio": "q015.mp3",
+      "answer": "Yes, almond milk foam sounds great.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Would you like your drink with less sweetener?",
+      "questionAudio": "q016.mp3",
+      "answer": "Yes, please, half the usual amount.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Do you want an extra drizzle of caramel?",
+      "questionAudio": "q017.mp3",
+      "answer": "Yes, please, that's my favorite part.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Would you like your mocha extra chocolatey?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yes, please, load it up with chocolate.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Do you want it with coconut milk instead?",
+      "questionAudio": "q019.mp3",
+      "answer": "Yes, coconut milk sounds nice today.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Would you like your coffee with room for cream?",
+      "questionAudio": "q020.mp3",
+      "answer": "Yes, just a little room, please.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Do you want that dirty, with an extra shot?",
+      "questionAudio": "q021.mp3",
+      "answer": "Yes, dirty chai sounds great.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Would you like it iced instead of blended?",
+      "questionAudio": "q022.mp3",
+      "answer": "Actually, blended is what I'm craving today.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Do you want the drink with less foam?",
+      "questionAudio": "q023.mp3",
+      "answer": "Yes, less foam would be perfect.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Would you like a shot of vanilla in your cold brew?",
+      "questionAudio": "q024.mp3",
+      "answer": "Yes, that sounds like a great combo.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Do you want soy milk instead of regular?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yes, soy milk works great for me.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Would you like extra hot water added to your tea?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yes, just a splash more, please.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Do you want that made skinny, with less calories?",
+      "questionAudio": "q027.mp3",
+      "answer": "Yes, skinny version would be great.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Would you like your latte with oat milk and honey?",
+      "questionAudio": "q028.mp3",
+      "answer": "Yes, that combo sounds perfect.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Do you want an extra pump of hazelnut?",
+      "questionAudio": "q029.mp3",
+      "answer": "Yes, please, one more pump.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Would you like your drink extra bold?",
+      "questionAudio": "q030.mp3",
+      "answer": "Yes, please, I need the extra kick today.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Do you want the whip light or heavy?",
+      "questionAudio": "q031.mp3",
+      "answer": "Light whip, please, just a little.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Would you like almond milk foam art on top?",
+      "questionAudio": "q032.mp3",
+      "answer": "Sure, that would be a nice touch.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Do you want your Americano with more water?",
+      "questionAudio": "q033.mp3",
+      "answer": "Yes, a little more water, please.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Would you like a splash of vanilla syrup?",
+      "questionAudio": "q034.mp3",
+      "answer": "Yes, just a splash, thank you.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "Do you want it topped with cold foam?",
+      "questionAudio": "q035.mp3",
+      "answer": "Yes, cold foam sounds great today.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Would you like your matcha extra strong?",
+      "questionAudio": "q036.mp3",
+      "answer": "Yes, please, extra strong today.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Do you want that with two percent milk?",
+      "questionAudio": "q037.mp3",
+      "answer": "Yes, two percent works perfectly.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Would you like your drink extra sweet today?",
+      "questionAudio": "q038.mp3",
+      "answer": "Yes, a little sweeter would be nice.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Do you want it served with less ice and more drink?",
+      "questionAudio": "q039.mp3",
+      "answer": "Yes, exactly, that's how I like it.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "name": "greetings_03_long_time_no_see",
+  "turns": [
+    {
+      "question": "Oh my gosh, look who it is! It's been forever!",
+      "questionAudio": "q000.mp3",
+      "answer": "I know, right? Way too long.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Wait, is that you? I haven't seen you in years!",
+      "questionAudio": "q001.mp3",
+      "answer": "It really has been years, hasn't it?",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "No way, I didn't expect to run into you here!",
+      "questionAudio": "q002.mp3",
+      "answer": "Me neither, what a small world.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "How long has it been, like five years?",
+      "questionAudio": "q003.mp3",
+      "answer": "Honestly, I think it's closer to six at this point.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "You look exactly the same, it's crazy.",
+      "questionAudio": "q004.mp3",
+      "answer": "Ha, you're too kind -- you look great too.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "I can't believe we lost touch for this long.",
+      "questionAudio": "q005.mp3",
+      "answer": "I know, life just got in the way, I guess.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "So what have you been up to all these years?",
+      "questionAudio": "q006.mp3",
+      "answer": "A lot, honestly -- changed jobs, moved cities, the usual chaos.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Are you still living in the same place?",
+      "questionAudio": "q007.mp3",
+      "answer": "No, actually, I moved away a couple years ago.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Do you still keep in touch with anyone from back then?",
+      "questionAudio": "q008.mp3",
+      "answer": "A few people, but definitely not as much as I should.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "I heard you got married, congrats by the way!",
+      "questionAudio": "q009.mp3",
+      "answer": "Oh, thank you! Yeah, it's been a couple years now.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Are you still doing the same job you used to?",
+      "questionAudio": "q010.mp3",
+      "answer": "Nope, I actually switched careers a while back.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "This is such a nice surprise, we should catch up properly.",
+      "questionAudio": "q011.mp3",
+      "answer": "Definitely, let's grab coffee sometime soon.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "It's so good to see your face again.",
+      "questionAudio": "q012.mp3",
+      "answer": "You too, I've missed this.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Wow, the last time I saw you, things were so different.",
+      "questionAudio": "q013.mp3",
+      "answer": "Tell me about it, a lot has changed since then.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Do you still talk to any of the old crew?",
+      "questionAudio": "q014.mp3",
+      "answer": "A couple of them, but we drifted apart mostly.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "I can't believe how much time has passed.",
+      "questionAudio": "q015.mp3",
+      "answer": "I know, it feels like just yesterday, honestly.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Are your parents still doing okay?",
+      "questionAudio": "q016.mp3",
+      "answer": "Yeah, they're doing great, thanks for asking.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "You haven't changed a bit, seriously.",
+      "questionAudio": "q017.mp3",
+      "answer": "Neither have you, somehow.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "How's life been treating you all this time?",
+      "questionAudio": "q018.mp3",
+      "answer": "Pretty good overall, ups and downs like everyone.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "I always wondered what happened to you.",
+      "questionAudio": "q019.mp3",
+      "answer": "Ha, nothing too exciting, just life happening.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Do you remember the last time we hung out?",
+      "questionAudio": "q020.mp3",
+      "answer": "Vaguely, I think it was right before you moved.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "It's crazy running into you after all this time.",
+      "questionAudio": "q021.mp3",
+      "answer": "Seriously, what are the odds?",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Are you still in touch with our old boss?",
+      "questionAudio": "q022.mp3",
+      "answer": "Actually, yeah, we still message occasionally.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "So did you end up finishing school, in the end?",
+      "questionAudio": "q023.mp3",
+      "answer": "Yeah, finally, took me a bit longer than planned.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "We really need to stop losing touch like this.",
+      "questionAudio": "q024.mp3",
+      "answer": "Agreed, let's actually exchange numbers this time.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "I heard through the grapevine you had a kid, congrats!",
+      "questionAudio": "q025.mp3",
+      "answer": "Ha, word travels fast -- yeah, she's two now.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "You look so different, in a good way!",
+      "questionAudio": "q026.mp3",
+      "answer": "Ha, thanks, I guess a few years will do that.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Do you still live near your old neighborhood?",
+      "questionAudio": "q027.mp3",
+      "answer": "No, I actually moved across town a while back.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "I can't get over how long it's actually been.",
+      "questionAudio": "q028.mp3",
+      "answer": "Same, it doesn't even feel real.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "We have so much catching up to do.",
+      "questionAudio": "q029.mp3",
+      "answer": "We really do, where do we even start?",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

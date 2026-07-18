@@ -1,0 +1,109 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  background: #fafafa;
+  color: #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#setup, #drill {
+  width: 100%;
+  max-width: 640px;
+  padding: 32px;
+}
+
+.hidden { display: none; }
+
+h1 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 6px;
+  margin-top: 16px;
+}
+
+select, button {
+  font-size: 16px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+}
+
+select { width: 100%; }
+
+button {
+  background: #1a1a1a;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 16px;
+}
+
+button:disabled { opacity: 0.4; cursor: default; }
+
+.hint { color: #999; font-size: 13px; margin-top: 12px; }
+
+.roleToggle { display: flex; gap: 8px; }
+
+.roleBtn {
+  flex: 1;
+  margin-top: 0;
+  background: #fff;
+  color: #1a1a1a;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  padding: 12px 8px;
+}
+
+.roleBtn.active {
+  background: #1a1a1a;
+  color: #fff;
+}
+
+.roleLabel {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 12px;
+}
+
+.line {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 28px;
+  min-height: 4.2em;
+}
+
+.status {
+  font-size: 15px;
+  color: #888;
+  min-height: 20px;
+}
+
+.rep {
+  font-size: 13px;
+  color: #bbb;
+  margin-top: 4px;
+  margin-bottom: 24px;
+}
+
+.stopBtn {
+  background: #fff;
+  color: #b00020;
+  border: 1px solid #f0c0c8;
+}

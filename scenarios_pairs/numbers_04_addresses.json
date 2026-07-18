@@ -1,0 +1,245 @@
+{
+  "name": "numbers_04_addresses",
+  "turns": [
+    {
+      "question": "What's your address again?",
+      "questionAudio": "q000.mp3",
+      "answer": "It's one twenty-three Maple Street.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Can you give me the apartment number too?",
+      "questionAudio": "q001.mp3",
+      "answer": "Sure, it's apartment four B.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "What's the zip code for your area?",
+      "questionAudio": "q002.mp3",
+      "answer": "The zip code is nine oh two one oh.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Is your house number four fifty or fifteen?",
+      "questionAudio": "q003.mp3",
+      "answer": "It's four fifty, on the corner.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "What floor is your office on?",
+      "questionAudio": "q004.mp3",
+      "answer": "We're on the twelfth floor, suite twelve oh five.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Can I get the full delivery address?",
+      "questionAudio": "q005.mp3",
+      "answer": "Sure, three seventy-eight Oak Avenue, apartment two.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "What's the nearest cross street to your place?",
+      "questionAudio": "q006.mp3",
+      "answer": "It's right off Fifth and Main.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Is that building number two thousand or two thousand one?",
+      "questionAudio": "q007.mp3",
+      "answer": "It's two thousand one, the taller building.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "What's the suite number for the dentist's office?",
+      "questionAudio": "q008.mp3",
+      "answer": "It's suite three ten, on the third floor.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Can you confirm the house number one more time?",
+      "questionAudio": "q009.mp3",
+      "answer": "Yes, it's eight sixty-two Birch Lane.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "What's the PO box number for returns?",
+      "questionAudio": "q010.mp3",
+      "answer": "The PO box is number five five two one.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Is the address six hundred or sixty on that street?",
+      "questionAudio": "q011.mp3",
+      "answer": "It's six hundred, the bigger complex.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "What unit number should the courier look for?",
+      "questionAudio": "q012.mp3",
+      "answer": "Unit number seven, near the back entrance.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Can I get the building number for the new office?",
+      "questionAudio": "q013.mp3",
+      "answer": "Sure, it's eighteen ninety Corporate Drive.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "What's the zip code you use for online orders?",
+      "questionAudio": "q014.mp3",
+      "answer": "I usually use seven seven zero zero two.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Is the entrance on street number one or two?",
+      "questionAudio": "q015.mp3",
+      "answer": "It's on street number two, the side entrance.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "What's the full address for the venue tonight?",
+      "questionAudio": "q016.mp3",
+      "answer": "It's two forty-five Sunset Boulevard, second floor.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Can you tell me the lot number for the parking garage?",
+      "questionAudio": "q017.mp3",
+      "answer": "Sure, it's lot number fourteen.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Is your apartment on the third or fourth floor?",
+      "questionAudio": "q018.mp3",
+      "answer": "It's on the fourth floor, unit four twelve.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "What's the room number for the meeting?",
+      "questionAudio": "q019.mp3",
+      "answer": "It's room two twenty, down the hall.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Can I get the address for billing purposes?",
+      "questionAudio": "q020.mp3",
+      "answer": "Sure, nine thirty-four Pine Street, suite one.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Is the building number nine hundred or nineteen?",
+      "questionAudio": "q021.mp3",
+      "answer": "It's nine hundred, right past the light.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "What's your old address, just for the record?",
+      "questionAudio": "q022.mp3",
+      "answer": "It was five sixty Elm Street, apartment three.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Can you confirm the zip code one more time?",
+      "questionAudio": "q023.mp3",
+      "answer": "Sure, it's four four one one four.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "What house number comes after that green house?",
+      "questionAudio": "q024.mp3",
+      "answer": "The next one is seven twenty-two.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Is the office at eight hundred or eighty Main Street?",
+      "questionAudio": "q025.mp3",
+      "answer": "It's eight hundred Main Street, the big glass building.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "What's the unit number for the storage space?",
+      "questionAudio": "q026.mp3",
+      "answer": "It's unit number thirty-six.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Can I get the mailing address for the invoice?",
+      "questionAudio": "q027.mp3",
+      "answer": "Sure, one fifty Grand Avenue, suite six.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "What's the gate code number for the building?",
+      "questionAudio": "q028.mp3",
+      "answer": "The gate code is one two three four.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Is the venue at building A or building B?",
+      "questionAudio": "q029.mp3",
+      "answer": "It's building B, second entrance.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "What's the delivery zip code for this order?",
+      "questionAudio": "q030.mp3",
+      "answer": "It's three three one three nine.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Can you tell me the block number for the property?",
+      "questionAudio": "q031.mp3",
+      "answer": "Sure, it's block number seven.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "What's the number on the mailbox out front?",
+      "questionAudio": "q032.mp3",
+      "answer": "It's mailbox number twenty-two.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Is the school address forty or fourteen Cedar Road?",
+      "questionAudio": "q033.mp3",
+      "answer": "It's fourteen Cedar Road, near the park.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "What's the floor number for customer service?",
+      "questionAudio": "q034.mp3",
+      "answer": "Customer service is on the sixth floor.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "Can I get the full address one more time, slowly?",
+      "questionAudio": "q035.mp3",
+      "answer": "Sure, six oh five Willow Court, apartment nine.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "What's the number of the loading dock?",
+      "questionAudio": "q036.mp3",
+      "answer": "It's dock number eleven, around back.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Is your childhood home number sixty or six?",
+      "questionAudio": "q037.mp3",
+      "answer": "It was number sixty, the yellow house.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "What's the address for the return shipment?",
+      "questionAudio": "q038.mp3",
+      "answer": "It's four forty Industrial Way, dock three.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Can you confirm the room number for check-in?",
+      "questionAudio": "q039.mp3",
+      "answer": "Sure, it's room three fourteen.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "name": "numbers_03_phone_numbers",
+  "turns": [
+    {
+      "question": "Can I get your phone number?",
+      "questionAudio": "q000.mp3",
+      "answer": "Sure, it's five five five, oh one two three.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "What's the best number to reach you at?",
+      "questionAudio": "q001.mp3",
+      "answer": "You can reach me at five five five, four five six seven.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Could you read me your number one more time?",
+      "questionAudio": "q002.mp3",
+      "answer": "Of course, it's five five five, seven eight nine oh.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Is this still the right number for you?",
+      "questionAudio": "q003.mp3",
+      "answer": "Yes, five five five, one two three four is still correct.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Do you have a work number as well?",
+      "questionAudio": "q004.mp3",
+      "answer": "Yeah, my office line is five five five, three three three three.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "What's your area code again?",
+      "questionAudio": "q005.mp3",
+      "answer": "It's two one two, based out of New York.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Can you give me your number, digit by digit?",
+      "questionAudio": "q006.mp3",
+      "answer": "Sure -- five, five, five, zero, one, two, three.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Is your number still the one ending in double zero?",
+      "questionAudio": "q007.mp3",
+      "answer": "Yeah, it's five five five, six two double zero.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "What number should I use to text you?",
+      "questionAudio": "q008.mp3",
+      "answer": "Just use this one, five five five, nine nine one one.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Do you mind giving me an emergency contact number?",
+      "questionAudio": "q009.mp3",
+      "answer": "Sure, it's my sister's number, five five five, two two four four.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Could you double-check that number for me?",
+      "questionAudio": "q010.mp3",
+      "answer": "Sure, let me repeat it -- five five five, eight one two one.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "What's the customer service number for this company?",
+      "questionAudio": "q011.mp3",
+      "answer": "It's one eight hundred, five five five, one two three four.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Is there a direct line I can call instead?",
+      "questionAudio": "q012.mp3",
+      "answer": "Yes, call five five five, seven seven zero zero directly.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Can I text you at this same number?",
+      "questionAudio": "q013.mp3",
+      "answer": "Yep, same number works for texting too.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "What's the extension I need after the main number?",
+      "questionAudio": "q014.mp3",
+      "answer": "Dial the main number, then extension four five six.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Do you know your new number by heart yet?",
+      "questionAudio": "q015.mp3",
+      "answer": "Almost, it's five five five, three one two zero.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Is this number connected to WhatsApp too?",
+      "questionAudio": "q016.mp3",
+      "answer": "Yes, same number works on WhatsApp as well.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "What was that last part of the number again?",
+      "questionAudio": "q017.mp3",
+      "answer": "The last part was six seven eight nine.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Can I reach the front desk at this number?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yes, the front desk is five five five, four four zero zero.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Is there a toll-free number I should use instead?",
+      "questionAudio": "q019.mp3",
+      "answer": "Yes, it's one eight hundred, five five five, zero one one one.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "What number did you call me from earlier?",
+      "questionAudio": "q020.mp3",
+      "answer": "I called from five five five, two two eight eight.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Do you still use that old number from before?",
+      "questionAudio": "q021.mp3",
+      "answer": "No, I switched, it's five five five, nine zero zero one now.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Can you confirm the number ends in seven three?",
+      "questionAudio": "q022.mp3",
+      "answer": "Yes, that's correct, ends in seven three.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "What's the fax number, if you still use one?",
+      "questionAudio": "q023.mp3",
+      "answer": "It's five five five, six six one two, believe it or not.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Is that a mobile number or a landline?",
+      "questionAudio": "q024.mp3",
+      "answer": "It's my mobile, five five five, three four five six.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Can I save this as your main contact number?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yes, please do, five five five, one one two two.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "What number should the delivery driver call?",
+      "questionAudio": "q026.mp3",
+      "answer": "Have them call five five five, seven six five four.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Is there a different number for after hours?",
+      "questionAudio": "q027.mp3",
+      "answer": "Yes, after hours, call five five five, zero zero nine nine.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Can you spell out the country code for me?",
+      "questionAudio": "q028.mp3",
+      "answer": "Sure, it's plus one for the United States.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "What number is listed for the appointment reminder?",
+      "questionAudio": "q029.mp3",
+      "answer": "It shows five five five, eight eight zero zero.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Is this the number I should use for the survey?",
+      "questionAudio": "q030.mp3",
+      "answer": "Yes, that's the correct number for the survey.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Can you repeat the number slower this time?",
+      "questionAudio": "q031.mp3",
+      "answer": "Sure -- five, five, five... four, five, six... seven.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "What's the number for roadside assistance?",
+      "questionAudio": "q032.mp3",
+      "answer": "It's one eight hundred, five five five, four two one two.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Is there a shorter number I can dial locally?",
+      "questionAudio": "q033.mp3",
+      "answer": "Yes, locally you can just dial five five five, two one one one.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Do you know the number off the top of your head?",
+      "questionAudio": "q034.mp3",
+      "answer": "I do, it's five five five, one two nine eight.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "What number should I list as a reference?",
+      "questionAudio": "q035.mp3",
+      "answer": "You can list five five five, six five four three.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Is the number the same across all their branches?",
+      "questionAudio": "q036.mp3",
+      "answer": "No, each branch has its own number.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Can I get the number for the branch downtown?",
+      "questionAudio": "q037.mp3",
+      "answer": "Sure, it's five five five, two four six eight.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "What number appears on your caller ID?",
+      "questionAudio": "q038.mp3",
+      "answer": "It shows five five five, nine one nine one.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Is this a good number to leave a voicemail?",
+      "questionAudio": "q039.mp3",
+      "answer": "Yes, this number has voicemail set up.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

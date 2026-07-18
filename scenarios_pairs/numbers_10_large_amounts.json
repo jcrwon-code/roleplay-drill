@@ -1,0 +1,245 @@
+{
+  "name": "numbers_10_large_amounts",
+  "turns": [
+    {
+      "question": "What's your annual salary, roughly?",
+      "questionAudio": "q000.mp3",
+      "answer": "It's around seventy thousand a year.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "How much revenue did the company make last year?",
+      "questionAudio": "q001.mp3",
+      "answer": "They made about two million dollars.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "How much is the house worth?",
+      "questionAudio": "q002.mp3",
+      "answer": "It's valued at around four hundred fifty thousand.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "How much debt does the country carry?",
+      "questionAudio": "q003.mp3",
+      "answer": "It's in the trillions, unfortunately.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "How much did the company spend on marketing?",
+      "questionAudio": "q004.mp3",
+      "answer": "They spent close to five hundred thousand.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "What's the average home price in that area?",
+      "questionAudio": "q005.mp3",
+      "answer": "It's around six hundred thousand dollars.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "How much profit did you make this quarter?",
+      "questionAudio": "q006.mp3",
+      "answer": "We made about eighty thousand in profit.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "How much is the total budget for the project?",
+      "questionAudio": "q007.mp3",
+      "answer": "The total budget is one point two million.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "How much did the lottery jackpot reach?",
+      "questionAudio": "q008.mp3",
+      "answer": "It reached over one hundred million dollars.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "How much funding did the startup raise?",
+      "questionAudio": "q009.mp3",
+      "answer": "They raised about three million in the last round.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "How much does the company owe in loans?",
+      "questionAudio": "q010.mp3",
+      "answer": "They owe roughly seven hundred thousand.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "What's the market value of that company?",
+      "questionAudio": "q011.mp3",
+      "answer": "It's valued at around fifty million dollars.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "How much did the wedding end up costing?",
+      "questionAudio": "q012.mp3",
+      "answer": "All together, it came to about thirty thousand.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "How much is the annual budget for the school?",
+      "questionAudio": "q013.mp3",
+      "answer": "The budget is around two million a year.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "How much did the renovation cost in total?",
+      "questionAudio": "q014.mp3",
+      "answer": "It ended up costing around ninety thousand.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "What's the average salary in that field?",
+      "questionAudio": "q015.mp3",
+      "answer": "It's typically around ninety thousand a year.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "How much did the movie make at the box office?",
+      "questionAudio": "q016.mp3",
+      "answer": "It made over three hundred million worldwide.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "How much is your retirement savings right now?",
+      "questionAudio": "q017.mp3",
+      "answer": "It's sitting around two hundred thousand.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "How much did they sell the business for?",
+      "questionAudio": "q018.mp3",
+      "answer": "They sold it for close to ten million.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "How much is the national average student debt?",
+      "questionAudio": "q019.mp3",
+      "answer": "It's around thirty thousand per graduate.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "How much did the government spend on the program?",
+      "questionAudio": "q020.mp3",
+      "answer": "They spent about five hundred million.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "How much is the company's total valuation?",
+      "questionAudio": "q021.mp3",
+      "answer": "It's valued at over one billion dollars.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "How much did you inherit from your grandparents?",
+      "questionAudio": "q022.mp3",
+      "answer": "It was around one hundred thousand dollars.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "How much does the CEO make a year?",
+      "questionAudio": "q023.mp3",
+      "answer": "Reportedly around four million a year.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "How much did the charity raise this year?",
+      "questionAudio": "q024.mp3",
+      "answer": "They raised about six hundred thousand.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "How much is the average car loan these days?",
+      "questionAudio": "q025.mp3",
+      "answer": "It's typically around thirty thousand.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "How much did the team spend on the new stadium?",
+      "questionAudio": "q026.mp3",
+      "answer": "The stadium cost about two hundred million.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "How much revenue does that store generate monthly?",
+      "questionAudio": "q027.mp3",
+      "answer": "It generates about one hundred fifty thousand.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "How much is the average mortgage payment?",
+      "questionAudio": "q028.mp3",
+      "answer": "It's usually around two thousand a month.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "How much did the company lose last quarter?",
+      "questionAudio": "q029.mp3",
+      "answer": "They lost about four hundred thousand.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "How much is the total value of the estate?",
+      "questionAudio": "q030.mp3",
+      "answer": "It's valued at around three million.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "How much does it cost to launch a satellite?",
+      "questionAudio": "q031.mp3",
+      "answer": "It can cost upwards of sixty million.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "How much did the artist sell the painting for?",
+      "questionAudio": "q032.mp3",
+      "answer": "It sold for over two million dollars.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "How much did the city spend on the new bridge?",
+      "questionAudio": "q033.mp3",
+      "answer": "The bridge cost around eighty million.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "How much is the average net worth by retirement?",
+      "questionAudio": "q034.mp3",
+      "answer": "It's often around six hundred thousand.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "How much did the acquisition end up costing?",
+      "questionAudio": "q035.mp3",
+      "answer": "The deal was worth about four hundred million.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "How much does that company make in a year?",
+      "questionAudio": "q036.mp3",
+      "answer": "They bring in about twenty million annually.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "How much did you spend renovating the kitchen?",
+      "questionAudio": "q037.mp3",
+      "answer": "It ended up costing about forty thousand.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "How much is the total prize money for the tournament?",
+      "questionAudio": "q038.mp3",
+      "answer": "The total prize pool is two million dollars.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "How much did the university's endowment grow?",
+      "questionAudio": "q039.mp3",
+      "answer": "It grew by about fifty million this year.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

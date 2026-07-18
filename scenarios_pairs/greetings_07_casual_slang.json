@@ -1,0 +1,185 @@
+{
+  "name": "greetings_07_casual_slang",
+  "turns": [
+    {
+      "question": "Yo, what's up?",
+      "questionAudio": "q000.mp3",
+      "answer": "Not much, just chilling. You?",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Hey man, what's good?",
+      "questionAudio": "q001.mp3",
+      "answer": "All good, just got off work.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Sup?",
+      "questionAudio": "q002.mp3",
+      "answer": "Nothing much, just hanging out.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Yo, long time no see, what's new?",
+      "questionAudio": "q003.mp3",
+      "answer": "Not too much, same old stuff.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Hey, how's it hanging?",
+      "questionAudio": "q004.mp3",
+      "answer": "Can't complain, staying busy though.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "What's crackin'?",
+      "questionAudio": "q005.mp3",
+      "answer": "Nothing crazy, just running errands.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Yo, you good?",
+      "questionAudio": "q006.mp3",
+      "answer": "Yeah, all good, just tired.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Hey dude, what's the move tonight?",
+      "questionAudio": "q007.mp3",
+      "answer": "Not sure yet, probably just staying in.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "What's up, stranger?",
+      "questionAudio": "q008.mp3",
+      "answer": "Ha, I know, it's been a while.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Yo, where you been?",
+      "questionAudio": "q009.mp3",
+      "answer": "Just been busy with work, honestly.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Hey, what's the vibe today?",
+      "questionAudio": "q010.mp3",
+      "answer": "Pretty chill, no complaints.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Sup, how's the day treating you?",
+      "questionAudio": "q011.mp3",
+      "answer": "Not bad at all, pretty smooth so far.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Yo, you around later?",
+      "questionAudio": "q012.mp3",
+      "answer": "Yeah, should be free after six or so.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Hey, what's the plan for tonight?",
+      "questionAudio": "q013.mp3",
+      "answer": "Honestly, no plan yet, we'll figure it out.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "What's good, haven't seen you in forever!",
+      "questionAudio": "q014.mp3",
+      "answer": "I know, right, it's been way too long.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Yo, you free to hang later?",
+      "questionAudio": "q015.mp3",
+      "answer": "Yeah, should be, just let me know when.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Hey, what's the latest with you?",
+      "questionAudio": "q016.mp3",
+      "answer": "Not much new, just the usual grind.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Sup, everything good on your end?",
+      "questionAudio": "q017.mp3",
+      "answer": "Yeah, all good, just been busy.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Yo, you doing anything fun this week?",
+      "questionAudio": "q018.mp3",
+      "answer": "Nah, keeping it low-key this week.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Hey, what's the word?",
+      "questionAudio": "q019.mp3",
+      "answer": "Nothing much, just vibing, you know?",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Yo, how've you been, man?",
+      "questionAudio": "q020.mp3",
+      "answer": "Good, man, can't complain at all.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Sup, you around this weekend?",
+      "questionAudio": "q021.mp3",
+      "answer": "Yeah, mostly, why, what's up?",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Hey, what's poppin'?",
+      "questionAudio": "q022.mp3",
+      "answer": "Not much, just got back from the gym.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Yo, you still up for later?",
+      "questionAudio": "q023.mp3",
+      "answer": "Yeah, definitely, still on for tonight.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Hey, what's new with you these days?",
+      "questionAudio": "q024.mp3",
+      "answer": "Honestly, not much, keeping it simple.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Sup dude, how's life?",
+      "questionAudio": "q025.mp3",
+      "answer": "Life's good, man, staying busy but good.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Yo, we still on for the weekend?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yeah, for sure, wouldn't miss it.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Hey, you catch what happened last night?",
+      "questionAudio": "q027.mp3",
+      "answer": "Nah, what happened, fill me in.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "What's up, you seem in a good mood.",
+      "questionAudio": "q028.mp3",
+      "answer": "Yeah, just had a pretty good day, honestly.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Yo, we linking up later or what?",
+      "questionAudio": "q029.mp3",
+      "answer": "Yeah, definitely, just text me when.",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

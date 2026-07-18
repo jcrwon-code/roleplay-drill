@@ -1,0 +1,126 @@
+[
+  {
+    "name": "greetings_01_first_meeting",
+    "file": "scenarios_pairs/greetings_01_first_meeting.json"
+  },
+  {
+    "name": "greetings_02_everyday",
+    "file": "scenarios_pairs/greetings_02_everyday.json"
+  },
+  {
+    "name": "greetings_03_long_time_no_see",
+    "file": "scenarios_pairs/greetings_03_long_time_no_see.json"
+  },
+  {
+    "name": "greetings_04_time_of_day",
+    "file": "scenarios_pairs/greetings_04_time_of_day.json"
+  },
+  {
+    "name": "greetings_05_formal_workplace",
+    "file": "scenarios_pairs/greetings_05_formal_workplace.json"
+  },
+  {
+    "name": "greetings_06_how_are_you",
+    "file": "scenarios_pairs/greetings_06_how_are_you.json"
+  },
+  {
+    "name": "greetings_07_casual_slang",
+    "file": "scenarios_pairs/greetings_07_casual_slang.json"
+  },
+  {
+    "name": "greetings_08_casual_goodbye",
+    "file": "scenarios_pairs/greetings_08_casual_goodbye.json"
+  },
+  {
+    "name": "greetings_09_formal_goodbye",
+    "file": "scenarios_pairs/greetings_09_formal_goodbye.json"
+  },
+  {
+    "name": "greetings_10_long_term_and_phone",
+    "file": "scenarios_pairs/greetings_10_long_term_and_phone.json"
+  },
+  {
+    "name": "numbers_01_store_prices",
+    "file": "scenarios_pairs/numbers_01_store_prices.json"
+  },
+  {
+    "name": "numbers_02_negotiation",
+    "file": "scenarios_pairs/numbers_02_negotiation.json"
+  },
+  {
+    "name": "numbers_03_phone_numbers",
+    "file": "scenarios_pairs/numbers_03_phone_numbers.json"
+  },
+  {
+    "name": "numbers_04_addresses",
+    "file": "scenarios_pairs/numbers_04_addresses.json"
+  },
+  {
+    "name": "numbers_05_counting_quantities",
+    "file": "scenarios_pairs/numbers_05_counting_quantities.json"
+  },
+  {
+    "name": "numbers_06_time_and_dates",
+    "file": "scenarios_pairs/numbers_06_time_and_dates.json"
+  },
+  {
+    "name": "numbers_07_discounts_percent",
+    "file": "scenarios_pairs/numbers_07_discounts_percent.json"
+  },
+  {
+    "name": "numbers_08_size_weight_length",
+    "file": "scenarios_pairs/numbers_08_size_weight_length.json"
+  },
+  {
+    "name": "numbers_09_age",
+    "file": "scenarios_pairs/numbers_09_age.json"
+  },
+  {
+    "name": "numbers_10_large_amounts",
+    "file": "scenarios_pairs/numbers_10_large_amounts.json"
+  },
+  {
+    "name": "starbucks_01_entering",
+    "file": "scenarios_pairs/starbucks_01_entering.json"
+  },
+  {
+    "name": "starbucks_02_menu_questions",
+    "file": "scenarios_pairs/starbucks_02_menu_questions.json"
+  },
+  {
+    "name": "starbucks_03_ordering_drinks",
+    "file": "scenarios_pairs/starbucks_03_ordering_drinks.json"
+  },
+  {
+    "name": "starbucks_04_customizing",
+    "file": "scenarios_pairs/starbucks_04_customizing.json"
+  },
+  {
+    "name": "starbucks_05_food_and_name",
+    "file": "scenarios_pairs/starbucks_05_food_and_name.json"
+  },
+  {
+    "name": "starbucks_06_payment",
+    "file": "scenarios_pairs/starbucks_06_payment.json"
+  },
+  {
+    "name": "starbucks_07_for_here_or_to_go",
+    "file": "scenarios_pairs/starbucks_07_for_here_or_to_go.json"
+  },
+  {
+    "name": "starbucks_08_waiting_pickup",
+    "file": "scenarios_pairs/starbucks_08_waiting_pickup.json"
+  },
+  {
+    "name": "starbucks_09_order_issues",
+    "file": "scenarios_pairs/starbucks_09_order_issues.json"
+  },
+  {
+    "name": "starbucks_10_leaving",
+    "file": "scenarios_pairs/starbucks_10_leaving.json"
+  },
+  {
+    "name": "weekend_plans_test",
+    "file": "scenarios_pairs/weekend_plans_test.json"
+  }
+]

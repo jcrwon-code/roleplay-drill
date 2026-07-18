@@ -1,0 +1,185 @@
+{
+  "name": "greetings_10_long_term_and_phone",
+  "turns": [
+    {
+      "question": "Alright, I'll talk to you soon, take care!",
+      "questionAudio": "q000.mp3",
+      "answer": "You too, talk soon!",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Okay, I'm gonna let you go, thanks for calling.",
+      "questionAudio": "q001.mp3",
+      "answer": "No problem, thanks for picking up.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Alright, I gotta hop off this call, bye!",
+      "questionAudio": "q002.mp3",
+      "answer": "Okay, bye, talk to you later!",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "I should get going, this call's been great though.",
+      "questionAudio": "q003.mp3",
+      "answer": "Agreed, let's talk again soon.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Okay, take care of yourself, I'll call you next week.",
+      "questionAudio": "q004.mp3",
+      "answer": "Sounds good, talk to you then.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Alright, this was long overdue, let's not wait so long again.",
+      "questionAudio": "q005.mp3",
+      "answer": "Agreed, I'll message you more often.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "I better let you go, it's getting late over there.",
+      "questionAudio": "q006.mp3",
+      "answer": "Yeah, it kind of is, thanks for calling.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Okay, stay safe out there, love you, bye.",
+      "questionAudio": "q007.mp3",
+      "answer": "Love you too, bye!",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Alright, I've got to run, but let's plan a real visit soon.",
+      "questionAudio": "q008.mp3",
+      "answer": "Definitely, I'd love that, take care.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "I should let you get back to your day, talk soon.",
+      "questionAudio": "q009.mp3",
+      "answer": "Sounds good, talk soon, take care.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Okay, until next time, stay in touch.",
+      "questionAudio": "q010.mp3",
+      "answer": "Will do, you too, take care of yourself.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Alright, this call really made my day, thank you.",
+      "questionAudio": "q011.mp3",
+      "answer": "Mine too, let's talk again soon.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "I should probably go, but I'm really glad we caught up.",
+      "questionAudio": "q012.mp3",
+      "answer": "Me too, let's not wait months again.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Okay, take care until we see each other again.",
+      "questionAudio": "q013.mp3",
+      "answer": "You too, can't wait for that.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Alright, I'll let you go for now, miss you already.",
+      "questionAudio": "q014.mp3",
+      "answer": "Miss you too, talk again soon.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "I have to go now, but this really meant a lot.",
+      "questionAudio": "q015.mp3",
+      "answer": "Same here, thank you for calling.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Okay, stay well, and give everyone my love.",
+      "questionAudio": "q016.mp3",
+      "answer": "I will, take care of yourself too.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Alright, until we meet again, take care of yourself.",
+      "questionAudio": "q017.mp3",
+      "answer": "You too, safe travels until then.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "I better wrap this up, but let's video call soon.",
+      "questionAudio": "q018.mp3",
+      "answer": "Definitely, I'll set something up this week.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Okay, this was so nice, we shouldn't wait so long next time.",
+      "questionAudio": "q019.mp3",
+      "answer": "Agreed, I promise to call more.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Alright, take it easy, I'll text you when I land.",
+      "questionAudio": "q020.mp3",
+      "answer": "Please do, safe flight!",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "I should go, but thank you for making the time to call.",
+      "questionAudio": "q021.mp3",
+      "answer": "Of course, anytime, take care.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Okay, until next time, sending you all my love.",
+      "questionAudio": "q022.mp3",
+      "answer": "Same to you, talk soon.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Alright, this is goodbye for now, but not for long.",
+      "questionAudio": "q023.mp3",
+      "answer": "Exactly, see you before you know it.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "I have to run, take care and don't be a stranger.",
+      "questionAudio": "q024.mp3",
+      "answer": "I won't, promise, you take care too.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Okay, this call really warmed my heart, talk soon.",
+      "questionAudio": "q025.mp3",
+      "answer": "Mine too, talk soon, take care.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Alright, I'll let you go, safe travels back home.",
+      "questionAudio": "q026.mp3",
+      "answer": "Thank you, I'll message when I land.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "I should hang up now, but let's plan something soon.",
+      "questionAudio": "q027.mp3",
+      "answer": "Yes, let's actually put a date on the calendar.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Okay, until we speak again, take good care.",
+      "questionAudio": "q028.mp3",
+      "answer": "You too, looking forward to next time.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Alright, this is it for now, love you, bye!",
+      "questionAudio": "q029.mp3",
+      "answer": "Love you too, bye for now!",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

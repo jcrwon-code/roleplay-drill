@@ -1,0 +1,245 @@
+{
+  "name": "numbers_05_counting_quantities",
+  "turns": [
+    {
+      "question": "How many do you need?",
+      "questionAudio": "q000.mp3",
+      "answer": "I need about six of them.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "How many people are coming to the party?",
+      "questionAudio": "q001.mp3",
+      "answer": "Around twenty people, give or take.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "How many boxes are left in the storage room?",
+      "questionAudio": "q002.mp3",
+      "answer": "There are about fifteen boxes left.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "How many apples did you buy?",
+      "questionAudio": "q003.mp3",
+      "answer": "I picked up a dozen apples.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "How many chairs do we need to set up?",
+      "questionAudio": "q004.mp3",
+      "answer": "We'll need about thirty chairs total.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "How many bottles of water should we bring?",
+      "questionAudio": "q005.mp3",
+      "answer": "Let's bring a case, that's twenty-four bottles.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "How many pages is the report?",
+      "questionAudio": "q006.mp3",
+      "answer": "It's about forty-two pages long.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "How many students are in your class?",
+      "questionAudio": "q007.mp3",
+      "answer": "There are twenty-eight students this year.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "How many slices does one pizza have?",
+      "questionAudio": "q008.mp3",
+      "answer": "Usually eight slices per pizza.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "How many days until the deadline?",
+      "questionAudio": "q009.mp3",
+      "answer": "There are about nine days left.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "How many guests should we plan for?",
+      "questionAudio": "q010.mp3",
+      "answer": "Let's plan for around fifty guests.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "How many books did you read this year?",
+      "questionAudio": "q011.mp3",
+      "answer": "I've read about fourteen books so far.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "How many miles is the drive from here?",
+      "questionAudio": "q012.mp3",
+      "answer": "It's roughly two hundred miles.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "How many emails are in your inbox right now?",
+      "questionAudio": "q013.mp3",
+      "answer": "Honestly, over two hundred, unread.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "How many tickets do you need for the show?",
+      "questionAudio": "q014.mp3",
+      "answer": "We need four tickets total.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "How many rooms does the house have?",
+      "questionAudio": "q015.mp3",
+      "answer": "It has five rooms, not counting the bathroom.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "How many years have you worked here?",
+      "questionAudio": "q016.mp3",
+      "answer": "I've been here for about seven years.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "How many cups of coffee do you drink a day?",
+      "questionAudio": "q017.mp3",
+      "answer": "Probably three cups, if I'm honest.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "How many photos did you take on the trip?",
+      "questionAudio": "q018.mp3",
+      "answer": "I think close to three hundred photos.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "How many steps does it take to get there?",
+      "questionAudio": "q019.mp3",
+      "answer": "About twenty steps from the front door.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "How many people signed up for the event?",
+      "questionAudio": "q020.mp3",
+      "answer": "So far, about sixty people have signed up.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "How many hours did you sleep last night?",
+      "questionAudio": "q021.mp3",
+      "answer": "Only about five hours, unfortunately.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "How many songs are on the playlist?",
+      "questionAudio": "q022.mp3",
+      "answer": "There are around forty songs on it.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "How many times have you seen that movie?",
+      "questionAudio": "q023.mp3",
+      "answer": "Probably five or six times by now.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "How many packages are we expecting today?",
+      "questionAudio": "q024.mp3",
+      "answer": "We're expecting three packages today.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "How many languages do you speak?",
+      "questionAudio": "q025.mp3",
+      "answer": "I speak three languages fluently.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "How many miles do you run each week?",
+      "questionAudio": "q026.mp3",
+      "answer": "I usually run about fifteen miles a week.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "How many attempts did it take to fix it?",
+      "questionAudio": "q027.mp3",
+      "answer": "It took about four attempts, honestly.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "How many members are on the team?",
+      "questionAudio": "q028.mp3",
+      "answer": "There are nine members on the team.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "How many candles are on the cake?",
+      "questionAudio": "q029.mp3",
+      "answer": "There are thirty candles on it.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "How many cars does your family own?",
+      "questionAudio": "q030.mp3",
+      "answer": "We own two cars right now.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "How many chapters are left in the book?",
+      "questionAudio": "q031.mp3",
+      "answer": "Only three chapters left to go.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "How many times a week do you go to the gym?",
+      "questionAudio": "q032.mp3",
+      "answer": "I go about four times a week.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "How many countries have you visited?",
+      "questionAudio": "q033.mp3",
+      "answer": "I've visited around twelve countries so far.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "How many meetings do you have today?",
+      "questionAudio": "q034.mp3",
+      "answer": "I've got six meetings today, unfortunately.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "How many pets do you have at home?",
+      "questionAudio": "q035.mp3",
+      "answer": "We have two dogs and one cat.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "How many candles do we still need to buy?",
+      "questionAudio": "q036.mp3",
+      "answer": "We still need about ten more candles.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "How many kilometers is the marathon?",
+      "questionAudio": "q037.mp3",
+      "answer": "A marathon is about forty-two kilometers.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "How many seats are left for the flight?",
+      "questionAudio": "q038.mp3",
+      "answer": "There are only seven seats left.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "How many likes did the post get?",
+      "questionAudio": "q039.mp3",
+      "answer": "It got over five hundred likes.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

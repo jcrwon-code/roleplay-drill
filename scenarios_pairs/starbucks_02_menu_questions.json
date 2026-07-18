@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_02_menu_questions",
+  "turns": [
+    {
+      "question": "What's popular here that I should try?",
+      "questionAudio": "q000.mp3",
+      "answer": "A lot of people love the caramel macchiato.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "What's the difference between a latte and a cappuccino?",
+      "questionAudio": "q001.mp3",
+      "answer": "A cappuccino has more foam and less milk overall.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Is this drink very sweet?",
+      "questionAudio": "q002.mp3",
+      "answer": "It's on the sweeter side, honestly.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Do you have any dairy-free options?",
+      "questionAudio": "q003.mp3",
+      "answer": "Yes, we have oat, soy, and almond milk.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "What's in the seasonal drink this month?",
+      "questionAudio": "q004.mp3",
+      "answer": "It's got pumpkin spice and a bit of cinnamon.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Is the cold brew stronger than regular coffee?",
+      "questionAudio": "q005.mp3",
+      "answer": "Yeah, it's usually a bit more concentrated.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "What size options do you have?",
+      "questionAudio": "q006.mp3",
+      "answer": "We have short, tall, grande, and venti.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Can I get a sample before I decide?",
+      "questionAudio": "q007.mp3",
+      "answer": "Sure, I can get you a small taste.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "What's your least sweet drink on the menu?",
+      "questionAudio": "q008.mp3",
+      "answer": "Probably just a plain black coffee or Americano.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Is the frappuccino more like a milkshake?",
+      "questionAudio": "q009.mp3",
+      "answer": "Kind of, yeah, it's blended and pretty thick.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Does the chai latte have caffeine in it?",
+      "questionAudio": "q010.mp3",
+      "answer": "Yes, it does have some caffeine, just less than coffee.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "What's a good drink if I don't like bitter coffee?",
+      "questionAudio": "q011.mp3",
+      "answer": "I'd recommend a vanilla latte, it's nice and smooth.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Do you have any decaf options?",
+      "questionAudio": "q012.mp3",
+      "answer": "Yes, almost anything can be made decaf.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "What comes with the breakfast sandwich?",
+      "questionAudio": "q013.mp3",
+      "answer": "It comes with egg, cheese, and your choice of meat.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Is the pink drink actually pink?",
+      "questionAudio": "q014.mp3",
+      "answer": "Yes, it's got a bright pink color from the fruit.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "What's the healthiest option you'd recommend?",
+      "questionAudio": "q015.mp3",
+      "answer": "Probably the cold brew with almond milk, no sugar.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Do you have any gluten-free snacks?",
+      "questionAudio": "q016.mp3",
+      "answer": "Yes, we've got a couple of gluten-free options.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "What's the difference between iced coffee and cold brew?",
+      "questionAudio": "q017.mp3",
+      "answer": "Cold brew is steeped longer, so it's smoother.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Is the mocha very chocolatey?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yeah, it's got a nice rich chocolate flavor.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "What syrups do you offer?",
+      "questionAudio": "q019.mp3",
+      "answer": "We have vanilla, caramel, hazelnut, and a few more.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Can I see a picture of that drink?",
+      "questionAudio": "q020.mp3",
+      "answer": "Sure, it's right here on the menu board.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Is the refresher drink caffeinated?",
+      "questionAudio": "q021.mp3",
+      "answer": "Yes, it has a bit of caffeine from green coffee extract.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "What's a good drink for someone who loves sweet stuff?",
+      "questionAudio": "q022.mp3",
+      "answer": "The caramel frappuccino is a good bet.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Do you have any protein-based drinks?",
+      "questionAudio": "q023.mp3",
+      "answer": "Yes, we have a protein shake option available.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "What's included in the value meal?",
+      "questionAudio": "q024.mp3",
+      "answer": "It comes with a drink, a snack, and a small treat.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Is the matcha latte very earthy tasting?",
+      "questionAudio": "q025.mp3",
+      "answer": "A little, but it's balanced out with milk and sweetness.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Do you offer any sugar-free syrups?",
+      "questionAudio": "q026.mp3",
+      "answer": "Yes, we have a couple of sugar-free syrup options.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "What's the strongest coffee you have?",
+      "questionAudio": "q027.mp3",
+      "answer": "Probably our dark roast, it's pretty bold.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Is the hot chocolate very rich?",
+      "questionAudio": "q028.mp3",
+      "answer": "Yes, it's quite rich and creamy.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Do you have any seasonal food items right now?",
+      "questionAudio": "q029.mp3",
+      "answer": "Yes, we've got a seasonal pastry available.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "What's a good drink to try if I'm new here?",
+      "questionAudio": "q030.mp3",
+      "answer": "I'd start with a classic vanilla latte.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "Is the tea selection just black tea?",
+      "questionAudio": "q031.mp3",
+      "answer": "No, we also have green, herbal, and chai.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Do you have any lower-calorie drink options?",
+      "questionAudio": "q032.mp3",
+      "answer": "Yes, we have a few lighter options on the menu.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "What's the difference between a flat white and a latte?",
+      "questionAudio": "q033.mp3",
+      "answer": "A flat white has less foam and a stronger espresso taste.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "Do you have any oat milk based drinks?",
+      "questionAudio": "q034.mp3",
+      "answer": "Yes, oat milk works with almost any drink.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "What's a good drink for a hot day?",
+      "questionAudio": "q035.mp3",
+      "answer": "I'd go with an iced refresher, super refreshing.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Is the espresso shot very strong on its own?",
+      "questionAudio": "q036.mp3",
+      "answer": "Yes, it's pretty intense by itself.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "Do you have any nut-free pastries?",
+      "questionAudio": "q037.mp3",
+      "answer": "Yes, a few of our pastries are nut-free.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "What's a good non-coffee option for me?",
+      "questionAudio": "q038.mp3",
+      "answer": "The chai latte or hot chocolate would be great.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "Is the caramel drizzle very sweet on top?",
+      "questionAudio": "q039.mp3",
+      "answer": "Yeah, it adds a nice sweet finishing touch.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

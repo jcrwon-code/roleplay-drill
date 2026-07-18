@@ -1,0 +1,245 @@
+{
+  "name": "starbucks_03_ordering_drinks",
+  "turns": [
+    {
+      "question": "What can I get started for you?",
+      "questionAudio": "q000.mp3",
+      "answer": "I'll have a grande caramel macchiato, please.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Would you like that hot or iced?",
+      "questionAudio": "q001.mp3",
+      "answer": "Iced, please, it's pretty warm out.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "What size would you like?",
+      "questionAudio": "q002.mp3",
+      "answer": "I'll go with a venti, please.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Anything else to go with that?",
+      "questionAudio": "q003.mp3",
+      "answer": "No, that'll be everything for now.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Would you like to try our new seasonal drink?",
+      "questionAudio": "q004.mp3",
+      "answer": "Sure, I'll give that a try instead.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Hot or iced coffee today?",
+      "questionAudio": "q005.mp3",
+      "answer": "Hot coffee, please, a tall size.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Would you like whipped cream on that?",
+      "questionAudio": "q006.mp3",
+      "answer": "Yes, please, extra whipped cream.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "What size latte can I get you?",
+      "questionAudio": "q007.mp3",
+      "answer": "A grande, please, that's plenty.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Would you like that with regular milk?",
+      "questionAudio": "q008.mp3",
+      "answer": "Actually, could I get oat milk instead?",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Do you want an extra shot in that?",
+      "questionAudio": "q009.mp3",
+      "answer": "Yes, please, add an extra shot.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "What flavor syrup would you like?",
+      "questionAudio": "q010.mp3",
+      "answer": "Vanilla syrup would be great, thanks.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Would you like room for cream?",
+      "questionAudio": "q011.mp3",
+      "answer": "Yes, please, just a little room.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Do you want that blended or on ice?",
+      "questionAudio": "q012.mp3",
+      "answer": "Blended, please, like a frappuccino.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "What can I start you off with today?",
+      "questionAudio": "q013.mp3",
+      "answer": "I'll have a tall cold brew, please.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Would you like sugar or sweetener in that?",
+      "questionAudio": "q014.mp3",
+      "answer": "Just a little sugar, thanks.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Iced or hot for your Americano?",
+      "questionAudio": "q015.mp3",
+      "answer": "Iced, please, and make it a grande.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Would you like that decaf or regular?",
+      "questionAudio": "q016.mp3",
+      "answer": "Regular, please, I need the caffeine.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "What size cup would you like for the tea?",
+      "questionAudio": "q017.mp3",
+      "answer": "A tall would be perfect, thank you.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Do you want it sweetened or unsweetened?",
+      "questionAudio": "q018.mp3",
+      "answer": "Unsweetened, please, I'll add my own.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Would you like almond milk or regular?",
+      "questionAudio": "q019.mp3",
+      "answer": "Almond milk, please, that's my go-to.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "What's your order today?",
+      "questionAudio": "q020.mp3",
+      "answer": "I'll have a grande vanilla latte, please.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Do you want that with two pumps or three?",
+      "questionAudio": "q021.mp3",
+      "answer": "Three pumps would be great, thanks.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Would you like a splash of cream in that?",
+      "questionAudio": "q022.mp3",
+      "answer": "Yes, just a splash would be perfect.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "What size would you like your mocha?",
+      "questionAudio": "q023.mp3",
+      "answer": "I'll take a tall, that's enough for me.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Would you like that iced with light ice?",
+      "questionAudio": "q024.mp3",
+      "answer": "Yes, light ice sounds great.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Do you want the drink extra hot?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yes, please, extra hot if possible.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "What can I get you to drink today?",
+      "questionAudio": "q026.mp3",
+      "answer": "Just a plain black coffee, tall size.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Would you like whole milk or skim?",
+      "questionAudio": "q027.mp3",
+      "answer": "Skim milk, please, thank you.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "Do you want that shaken or stirred?",
+      "questionAudio": "q028.mp3",
+      "answer": "Shaken, please, like the refreshers.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "What flavor would you like for your frappuccino?",
+      "questionAudio": "q029.mp3",
+      "answer": "Caramel, please, that's my favorite.",
+      "answerAudio": "a029.mp3"
+    },
+    {
+      "question": "Would you like a double shot in your espresso?",
+      "questionAudio": "q030.mp3",
+      "answer": "Yes, double shot, please.",
+      "answerAudio": "a030.mp3"
+    },
+    {
+      "question": "What size for your chai latte today?",
+      "questionAudio": "q031.mp3",
+      "answer": "A grande, please, thank you.",
+      "answerAudio": "a031.mp3"
+    },
+    {
+      "question": "Do you want extra foam on your cappuccino?",
+      "questionAudio": "q032.mp3",
+      "answer": "Yes, please, I love extra foam.",
+      "answerAudio": "a032.mp3"
+    },
+    {
+      "question": "Would you like your drink served hot today?",
+      "questionAudio": "q033.mp3",
+      "answer": "Yes, hot please, it's chilly outside.",
+      "answerAudio": "a033.mp3"
+    },
+    {
+      "question": "What can I make for you this afternoon?",
+      "questionAudio": "q034.mp3",
+      "answer": "I'll have an iced matcha latte, please.",
+      "answerAudio": "a034.mp3"
+    },
+    {
+      "question": "Do you want light or regular ice?",
+      "questionAudio": "q035.mp3",
+      "answer": "Regular ice is perfect, thank you.",
+      "answerAudio": "a035.mp3"
+    },
+    {
+      "question": "Would you like that with an extra pump of vanilla?",
+      "questionAudio": "q036.mp3",
+      "answer": "Yes, extra pump would be great.",
+      "answerAudio": "a036.mp3"
+    },
+    {
+      "question": "What size cold brew would you like?",
+      "questionAudio": "q037.mp3",
+      "answer": "A venti, please, I need the energy today.",
+      "answerAudio": "a037.mp3"
+    },
+    {
+      "question": "Do you want your latte with oat milk foam on top?",
+      "questionAudio": "q038.mp3",
+      "answer": "Yes, that sounds perfect, thank you.",
+      "answerAudio": "a038.mp3"
+    },
+    {
+      "question": "What can I get started for your order?",
+      "questionAudio": "q039.mp3",
+      "answer": "I'll have a tall pumpkin spice latte, please.",
+      "answerAudio": "a039.mp3"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "name": "greetings_08_casual_goodbye",
+  "turns": [
+    {
+      "question": "Alright, I gotta run, catch you later!",
+      "questionAudio": "q000.mp3",
+      "answer": "Sounds good, see you around!",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "I should get going, it was good seeing you.",
+      "questionAudio": "q001.mp3",
+      "answer": "You too, let's not wait so long next time.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Okay, I'll let you go, talk soon?",
+      "questionAudio": "q002.mp3",
+      "answer": "Yeah, definitely, talk soon.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Alright, I'm heading out, take care!",
+      "questionAudio": "q003.mp3",
+      "answer": "You too, drive safe!",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "I better get going, my bus is leaving soon.",
+      "questionAudio": "q004.mp3",
+      "answer": "No worries, don't miss it, see you tomorrow.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Okay, this was fun, we should do it again sometime.",
+      "questionAudio": "q005.mp3",
+      "answer": "Absolutely, let's plan something soon.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Alright, I've got to head back to work.",
+      "questionAudio": "q006.mp3",
+      "answer": "Okay, have a good rest of your day!",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "I'm gonna head out, this was nice.",
+      "questionAudio": "q007.mp3",
+      "answer": "Yeah, it really was, see you soon!",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Okay, catch you on the flip side!",
+      "questionAudio": "q008.mp3",
+      "answer": "Ha, sounds good, take it easy!",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Alright, I'll see you around, take it easy.",
+      "questionAudio": "q009.mp3",
+      "answer": "You too, take care of yourself.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "I should get going before it gets too late.",
+      "questionAudio": "q010.mp3",
+      "answer": "Yeah, good call, get home safe.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Okay, I'm out, have a good one!",
+      "questionAudio": "q011.mp3",
+      "answer": "You too, see you later!",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Alright, that's my cue to leave, bye for now!",
+      "questionAudio": "q012.mp3",
+      "answer": "Bye! Text me when you get home.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "I gotta run, but let's catch up properly soon.",
+      "questionAudio": "q013.mp3",
+      "answer": "For sure, I'll text you this week.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Okay, I'll let you get back to it, see ya!",
+      "questionAudio": "q014.mp3",
+      "answer": "Thanks, see you later, take care!",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Alright, this was great, I'll see you next time.",
+      "questionAudio": "q015.mp3",
+      "answer": "Definitely, looking forward to it already.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "I should probably head home now.",
+      "questionAudio": "q016.mp3",
+      "answer": "Alright, get home safe, talk soon!",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Okay, I'm gonna dip, catch you later.",
+      "questionAudio": "q017.mp3",
+      "answer": "Alright, later! Have a good night.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Alright, I've got somewhere to be, gotta run.",
+      "questionAudio": "q018.mp3",
+      "answer": "No worries, go ahead, see you soon.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "I think I'm gonna head out now, it's getting late.",
+      "questionAudio": "q019.mp3",
+      "answer": "Yeah, same here, let's call it a night.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Okay, take care, I'll see you around campus.",
+      "questionAudio": "q020.mp3",
+      "answer": "You too, good luck with your exam!",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Alright, I'll let you go, have a good night!",
+      "questionAudio": "q021.mp3",
+      "answer": "Thanks, you too, sleep well!",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "I gotta head out, but this was really fun.",
+      "questionAudio": "q022.mp3",
+      "answer": "Agreed, let's do it again soon.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Okay, that's my ride, gotta go!",
+      "questionAudio": "q023.mp3",
+      "answer": "Alright, get home safe, bye!",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Alright, I'll catch you next time, stay safe.",
+      "questionAudio": "q024.mp3",
+      "answer": "You too, take care!",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "I should get going, my break's almost over.",
+      "questionAudio": "q025.mp3",
+      "answer": "Ah, okay, good luck with the rest of your shift.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Okay, I'm gonna head back inside, see you later.",
+      "questionAudio": "q026.mp3",
+      "answer": "Alright, see you later, take care.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Alright, I'll leave you to it, have a good one.",
+      "questionAudio": "q027.mp3",
+      "answer": "Thanks, you too, take it easy!",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "I think that's my cue to go, see you soon!",
+      "questionAudio": "q028.mp3",
+      "answer": "Sounds good, see you soon!",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Okay, I really do have to go now, bye!",
+      "questionAudio": "q029.mp3",
+      "answer": "Bye, take care, talk later!",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

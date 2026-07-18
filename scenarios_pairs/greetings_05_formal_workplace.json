@@ -1,0 +1,185 @@
+{
+  "name": "greetings_05_formal_workplace",
+  "turns": [
+    {
+      "question": "Good morning, thank you for coming in today.",
+      "questionAudio": "q000.mp3",
+      "answer": "Of course, thank you for having me.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "It's a pleasure to finally meet you in person.",
+      "questionAudio": "q001.mp3",
+      "answer": "Likewise, I've been looking forward to this.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Welcome aboard, we're glad to have you on the team.",
+      "questionAudio": "q002.mp3",
+      "answer": "Thank you, I'm excited to get started.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Good afternoon, I hope your trip here went smoothly.",
+      "questionAudio": "q003.mp3",
+      "answer": "It did, thank you for asking.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Thank you for making time for this meeting.",
+      "questionAudio": "q004.mp3",
+      "answer": "Not at all, I appreciate you setting it up.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Good to see you again, how have you been?",
+      "questionAudio": "q005.mp3",
+      "answer": "I've been well, thank you -- and yourself?",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Welcome to the office, can I get you anything?",
+      "questionAudio": "q006.mp3",
+      "answer": "Just some water would be great, thank you.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "It's an honor to be working with you on this.",
+      "questionAudio": "q007.mp3",
+      "answer": "The feeling is mutual, I'm looking forward to it.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "I hope you found the office without any trouble.",
+      "questionAudio": "q008.mp3",
+      "answer": "No trouble at all, your directions were very clear.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Thank you for your patience, we're ready for you now.",
+      "questionAudio": "q009.mp3",
+      "answer": "No problem at all, I appreciate you letting me know.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Good morning, everyone, thank you all for being on time.",
+      "questionAudio": "q010.mp3",
+      "answer": "Of course, happy to be here.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "I trust you had a pleasant flight in?",
+      "questionAudio": "q011.mp3",
+      "answer": "I did, thank you, it was quite smooth.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Welcome, please have a seat wherever is comfortable.",
+      "questionAudio": "q012.mp3",
+      "answer": "Thank you, this spot looks perfect.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "I appreciate you accommodating the schedule change.",
+      "questionAudio": "q013.mp3",
+      "answer": "It wasn't a problem at all, happy to help.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Good afternoon, shall we get started?",
+      "questionAudio": "q014.mp3",
+      "answer": "Yes, whenever you're ready.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "It's a pleasure to formally introduce myself, I'm the new director.",
+      "questionAudio": "q015.mp3",
+      "answer": "Pleasure to meet you, I've heard great things.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Thank you for reaching out, how can I help you today?",
+      "questionAudio": "q016.mp3",
+      "answer": "Thank you for taking the call, I appreciate it.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "I hope everything has been satisfactory so far.",
+      "questionAudio": "q017.mp3",
+      "answer": "Absolutely, everything has gone smoothly, thank you.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Good morning, I hope you're settling in well.",
+      "questionAudio": "q018.mp3",
+      "answer": "I am, thank you, everyone's been very welcoming.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "We're delighted to finally close this partnership.",
+      "questionAudio": "q019.mp3",
+      "answer": "As are we, it's been a pleasure working with you.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Thank you for your continued support on this project.",
+      "questionAudio": "q020.mp3",
+      "answer": "Of course, we're glad to be part of it.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "I hope the accommodations were to your liking.",
+      "questionAudio": "q021.mp3",
+      "answer": "They were excellent, thank you for arranging them.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Good afternoon, I believe we spoke on the phone earlier.",
+      "questionAudio": "q022.mp3",
+      "answer": "Yes, it's nice to finally meet in person.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Thank you for your flexibility with the timing today.",
+      "questionAudio": "q023.mp3",
+      "answer": "Not a problem at all, happy to make it work.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Welcome back, I trust the conference went well?",
+      "questionAudio": "q024.mp3",
+      "answer": "It did, thank you, quite a productive trip.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "I appreciate you taking this meeting on such short notice.",
+      "questionAudio": "q025.mp3",
+      "answer": "Of course, I understand things came up.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Good morning, may I introduce you to the rest of the team?",
+      "questionAudio": "q026.mp3",
+      "answer": "Please, I'd love to meet everyone.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Thank you for your hospitality during our visit.",
+      "questionAudio": "q027.mp3",
+      "answer": "It was truly our pleasure to host you.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "I hope you had a restful weekend before the big week ahead.",
+      "questionAudio": "q028.mp3",
+      "answer": "I did, thank you, feeling ready to dive in.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Good afternoon, shall I walk you through the agenda?",
+      "questionAudio": "q029.mp3",
+      "answer": "Yes, please, that would be very helpful.",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}

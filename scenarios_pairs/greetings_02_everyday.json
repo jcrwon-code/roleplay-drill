@@ -1,0 +1,185 @@
+{
+  "name": "greetings_02_everyday",
+  "turns": [
+    {
+      "question": "Hey, how's it going?",
+      "questionAudio": "q000.mp3",
+      "answer": "Pretty good, thanks. How about you?",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Morning! Did you sleep okay?",
+      "questionAudio": "q001.mp3",
+      "answer": "Not really, I was up way too late last night.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Hey you, how was your commute?",
+      "questionAudio": "q002.mp3",
+      "answer": "Not bad, traffic was lighter than usual today.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Hi there, how's your day treating you?",
+      "questionAudio": "q003.mp3",
+      "answer": "Can't complain, just a normal Tuesday.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Hey, good to see you -- how are things?",
+      "questionAudio": "q004.mp3",
+      "answer": "Things are good, staying busy as always.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "What's going on with you today?",
+      "questionAudio": "q005.mp3",
+      "answer": "Not much, just trying to get through some emails.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Hey, you got a minute?",
+      "questionAudio": "q006.mp3",
+      "answer": "Yeah, of course, what's up?",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "How'd the rest of your week go?",
+      "questionAudio": "q007.mp3",
+      "answer": "Honestly, it flew by, I barely noticed it was Friday.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Hey, did you end up finishing that thing you were working on?",
+      "questionAudio": "q008.mp3",
+      "answer": "Yeah, finally wrapped it up last night.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Morning! You look tired today.",
+      "questionAudio": "q009.mp3",
+      "answer": "Yeah, I definitely need more coffee.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Hey, how's the family doing?",
+      "questionAudio": "q010.mp3",
+      "answer": "Everyone's doing well, thanks for asking.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Hi, did you eat lunch yet?",
+      "questionAudio": "q011.mp3",
+      "answer": "Not yet, I was thinking of grabbing something in a bit.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Hey there, how've you been holding up?",
+      "questionAudio": "q012.mp3",
+      "answer": "Honestly, pretty good, all things considered.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "You good?",
+      "questionAudio": "q013.mp3",
+      "answer": "Yeah, all good, just a long day.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "How was your weekend, by the way?",
+      "questionAudio": "q014.mp3",
+      "answer": "It was nice, pretty relaxed for once.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Hey, everything going okay on your end?",
+      "questionAudio": "q015.mp3",
+      "answer": "Yeah, smooth sailing so far today.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Hi, how's work been treating you?",
+      "questionAudio": "q016.mp3",
+      "answer": "It's been busy, but nothing I can't handle.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Hey, you still feeling under the weather?",
+      "questionAudio": "q017.mp3",
+      "answer": "A bit, but I'm definitely getting better.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Morning, ready for the day?",
+      "questionAudio": "q018.mp3",
+      "answer": "As ready as I'll ever be, I guess.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "Hey, long day or good day so far?",
+      "questionAudio": "q019.mp3",
+      "answer": "A bit of both, honestly.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "Hi, did you catch the game last night?",
+      "questionAudio": "q020.mp3",
+      "answer": "Yeah, I did -- what a finish, right?",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "Hey, you look happy today, what's up?",
+      "questionAudio": "q021.mp3",
+      "answer": "Just got some good news this morning.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "How's everything going with the move?",
+      "questionAudio": "q022.mp3",
+      "answer": "It's coming along, still a lot of boxes though.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "Hey, did you get much sleep?",
+      "questionAudio": "q023.mp3",
+      "answer": "Barely, but I'll survive.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "Morning! Big plans for today?",
+      "questionAudio": "q024.mp3",
+      "answer": "Not really, just the usual stuff.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "Hey, feeling any better than yesterday?",
+      "questionAudio": "q025.mp3",
+      "answer": "Yeah, a little bit, thanks for checking in.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "Hi, how's the new place working out?",
+      "questionAudio": "q026.mp3",
+      "answer": "It's great so far, still getting settled in.",
+      "answerAudio": "a026.mp3"
+    },
+    {
+      "question": "Hey, did that meeting go okay earlier?",
+      "questionAudio": "q027.mp3",
+      "answer": "Yeah, better than I expected, actually.",
+      "answerAudio": "a027.mp3"
+    },
+    {
+      "question": "How are you holding up with everything lately?",
+      "questionAudio": "q028.mp3",
+      "answer": "Honestly, taking it one day at a time.",
+      "answerAudio": "a028.mp3"
+    },
+    {
+      "question": "Hey, good to see your face around here again.",
+      "questionAudio": "q029.mp3",
+      "answer": "Ha, yeah, it's been a minute.",
+      "answerAudio": "a029.mp3"
+    }
+  ]
+}
