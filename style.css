@@ -148,7 +148,7 @@ button:disabled { opacity: 0.4; cursor: default; }
 
 .pairRow.active .qLine.current,
 .pairRow.active .aLine.current {
-  color: #1a1a1a;
+  color: #1a56db;
   font-weight: 700;
   font-size: 22px;
 }
