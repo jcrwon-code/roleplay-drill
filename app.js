@@ -5,10 +5,7 @@ const roleAnswerBtn = document.getElementById("roleAnswerBtn");
 const roleQuestionBtn = document.getElementById("roleQuestionBtn");
 const setupEl = document.getElementById("setup");
 const drillEl = document.getElementById("drill");
-const questionBlockEl = document.getElementById("questionBlock");
-const answerBlockEl = document.getElementById("answerBlock");
-const questionTextEl = document.getElementById("questionText");
-const answerTextEl = document.getElementById("answerText");
+const linesListEl = document.getElementById("linesList");
 const statusEl = document.getElementById("statusText");
 const repEl = document.getElementById("repText");
 
@@ -140,40 +137,67 @@ class MicVad {
   }
 }
 
+function renderAllPairs(turns) {
+  linesListEl.innerHTML = "";
+  const rowEls = [];
+  for (const turn of turns) {
+    const row = document.createElement("div");
+    row.className = "pairRow";
+    row.innerHTML = `
+      <div class="qLine"><span class="roleTag">Q</span>${turn.question}</div>
+      <div class="aLine"><span class="roleTag">A</span>${turn.answer}</div>
+    `;
+    linesListEl.appendChild(row);
+    rowEls.push({
+      row,
+      qLine: row.querySelector(".qLine"),
+      aLine: row.querySelector(".aLine"),
+    });
+  }
+  return rowEls;
+}
+
+function setActiveRow(rowEls, index, currentSide) {
+  rowEls.forEach(({ row, qLine, aLine }, i) => {
+    row.classList.toggle("active", i === index);
+    qLine.classList.toggle("current", i === index && currentSide === "question");
+    aLine.classList.toggle("current", i === index && currentSide === "answer");
+  });
+  const active = rowEls[index];
+  if (active) {
+    active.row.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+}
+
 async function runScenario(fileName, vad) {
   const res = await fetch(fileName);
   const scenario = await res.json();
   const audioDir = `audio/${scenario.name}/`;
+  const rowEls = renderAllPairs(scenario.turns);
 
   for (let i = 0; i < scenario.turns.length && !stopped; i++) {
     const turn = scenario.turns[i];
     repEl.textContent = `${i + 1} / ${scenario.turns.length}`;
-    questionTextEl.textContent = turn.question;
-    answerTextEl.textContent = turn.answer;
 
     if (myRole === "answer") {
       // AI asks, I answer.
-      questionBlockEl.classList.add("active");
-      answerBlockEl.classList.remove("active");
+      setActiveRow(rowEls, i, "question");
       statusEl.textContent = "Listening to AI...";
       await playAudio(audioDir + turn.questionAudio);
       if (stopped) break;
 
-      questionBlockEl.classList.remove("active");
-      answerBlockEl.classList.add("active");
+      setActiveRow(rowEls, i, "answer");
       statusEl.textContent = "Speak now...";
       await vad.waitForSpeechThenSilence();
       statusEl.textContent = "";
     } else {
       // I ask, AI answers.
-      questionBlockEl.classList.add("active");
-      answerBlockEl.classList.remove("active");
+      setActiveRow(rowEls, i, "question");
       statusEl.textContent = "Speak now...";
       await vad.waitForSpeechThenSilence();
       if (stopped) break;
 
-      questionBlockEl.classList.remove("active");
-      answerBlockEl.classList.add("active");
+      setActiveRow(rowEls, i, "answer");
       statusEl.textContent = "Listening to AI...";
       await playAudio(audioDir + turn.answerAudio);
       statusEl.textContent = "";
@@ -181,8 +205,6 @@ async function runScenario(fileName, vad) {
   }
 
   if (!stopped) {
-    questionBlockEl.classList.remove("active");
-    answerBlockEl.classList.remove("active");
     statusEl.textContent = "Scenario complete!";
   }
 }

@@ -108,49 +108,54 @@ button:disabled { opacity: 0.4; cursor: default; }
   color: #bbb;
 }
 
-.linesWrap {
+.linesList {
   flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  min-height: 0;
-}
-
-.lineBlock {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  border-radius: 16px;
-  padding: 24px;
-  background: #f0f0f0;
-  color: #999;
-  transition: background 0.25s, color 0.25s;
   overflow-y: auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  scroll-behavior: smooth;
 }
 
-.lineBlock.active {
-  background: #eef3ff;
-  color: #1a1a1a;
+.pairRow {
+  border-radius: 14px;
+  padding: 16px 18px;
+  background: #f2f2f2;
 }
 
-.roleTag {
-  font-size: 13px;
+.pairRow .qLine, .pairRow .aLine {
+  font-size: 17px;
+  line-height: 1.4;
+  color: #aaa;
+  transition: color 0.2s, font-weight 0.2s;
+}
+
+.pairRow .aLine { margin-top: 6px; }
+
+.pairRow .roleTag {
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  opacity: 0.6;
-  margin-bottom: 10px;
+  opacity: 0.55;
+  margin-right: 6px;
 }
 
-.lineText {
-  font-size: 7vw;
-  font-weight: 600;
-  line-height: 1.35;
+.pairRow.active {
+  background: #eef3ff;
 }
 
-@media (min-width: 640px) {
-  .lineText { font-size: 34px; }
+.pairRow.active .qLine.current,
+.pairRow.active .aLine.current {
+  color: #1a1a1a;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.pairRow.active .qLine:not(.current),
+.pairRow.active .aLine:not(.current) {
+  color: #667;
 }
 
 .stopBtn {
