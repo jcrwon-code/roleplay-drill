@@ -8,238 +8,118 @@
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Excuse me, this drink tastes different than usual.",
+      "question": "I asked for oat milk, but this has regular milk.",
       "questionAudio": "q001.mp3",
-      "answer": "I apologize, let me remake it for you.",
+      "answer": "So sorry about that, I'll redo it now.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "I asked for oat milk, but this has regular milk.",
+      "question": "No worries, I just have a bit of a dairy allergy.",
       "questionAudio": "q002.mp3",
-      "answer": "So sorry about that, I'll redo it now.",
+      "answer": "Oh, I really apologize then, let me remake it right away.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "This doesn't taste sweet enough for what I ordered.",
+      "question": "Thank you, I appreciate you taking it seriously.",
       "questionAudio": "q003.mp3",
-      "answer": "Sorry about that, let me add more syrup.",
+      "answer": "Of course, safety comes first, this will just be a moment.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "I think you gave me the wrong size.",
+      "question": "Here you go, fresh with oat milk this time, truly sorry.",
       "questionAudio": "q004.mp3",
-      "answer": "You're right, sorry, let me switch that for you.",
+      "answer": "Thank you so much, this looks perfect now.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "This isn't decaf, is it?",
+      "question": "Excuse me, this drink tastes different than usual.",
       "questionAudio": "q005.mp3",
-      "answer": "Let me check, I'm sorry if that's wrong.",
+      "answer": "I apologize, let me remake it for you.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "I ordered iced, but this came out hot.",
+      "question": "I think there's too much ice in it, honestly.",
       "questionAudio": "q006.mp3",
-      "answer": "My apologies, I'll remake it iced right now.",
+      "answer": "Sorry about that, let me remake it with less ice.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "There's no whipped cream on this like I asked.",
+      "question": "That would be great, thank you for understanding.",
       "questionAudio": "q007.mp3",
-      "answer": "Sorry about that, I'll add it now.",
+      "answer": "Of course, I want to get it just right for you.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "This drink seems a lot weaker than usual.",
+      "question": "This one tastes a lot better, thank you.",
       "questionAudio": "q008.mp3",
-      "answer": "I'm sorry, let me add an extra shot for you.",
+      "answer": "I'm so glad, sorry again for the first one.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "I think my order got mixed up with someone else's.",
+      "question": "No worries at all, mistakes happen sometimes.",
       "questionAudio": "q009.mp3",
-      "answer": "Let me check that right away, sorry about the mix-up.",
+      "answer": "I appreciate you being so understanding about it.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "This isn't the flavor I asked for.",
+      "question": "I think you gave me the wrong size.",
       "questionAudio": "q010.mp3",
-      "answer": "I apologize, let me get that corrected.",
+      "answer": "You're right, sorry, let me switch that for you.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "My sandwich is cold, is that normal?",
+      "question": "I ordered a venti, but this looks like a grande.",
       "questionAudio": "q011.mp3",
-      "answer": "No, sorry about that, let me warm it up.",
+      "answer": "My mistake, sorry, I'll get you the correct size.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "I think there's too much ice in this.",
+      "question": "Thanks, I really needed the bigger one today.",
       "questionAudio": "q012.mp3",
-      "answer": "Sorry, let me remake it with less ice.",
+      "answer": "Of course, long day today, I take it?",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "This cup looks like it's leaking a bit.",
+      "question": "Yeah, definitely, this should help a lot.",
       "questionAudio": "q013.mp3",
-      "answer": "Oh no, sorry, let me get you a new cup.",
+      "answer": "Here's your venti, again, sorry for the mix-up.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "I asked for no whip, but there's whip on this.",
+      "question": "This is perfect, thank you so much for fixing it.",
       "questionAudio": "q014.mp3",
-      "answer": "My mistake, sorry, I'll fix that now.",
+      "answer": "Anytime, thanks for your patience with us today.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "This doesn't look like the size I ordered.",
+      "question": "My total seems higher than I expected.",
       "questionAudio": "q015.mp3",
-      "answer": "You're right, sorry, let me correct that.",
+      "answer": "Let me double-check that receipt, sorry about the confusion.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "I think this is missing the extra shot I paid for.",
+      "question": "I think you charged me for the wrong drink.",
       "questionAudio": "q016.mp3",
-      "answer": "Sorry about that, let me add it right now.",
+      "answer": "Let me check that and fix the charge, sorry about that.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "My drink tastes like it's missing the syrup.",
+      "question": "Yeah, this shows a venti, but I ordered a tall.",
       "questionAudio": "q017.mp3",
-      "answer": "I apologize, let me add the syrup now.",
+      "answer": "You're absolutely right, let me correct that now.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "This pastry seems a bit stale, honestly.",
+      "question": "Thank you, I appreciate you catching that.",
       "questionAudio": "q018.mp3",
-      "answer": "I'm sorry to hear that, let me grab a fresh one.",
+      "answer": "Of course, sorry again for the mix-up on our end.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "I think you charged me for the wrong drink.",
+      "question": "It's alright, thanks for sorting it out so quickly.",
       "questionAudio": "q019.mp3",
-      "answer": "Let me check that and fix the charge, sorry.",
+      "answer": "Happy to help, here's your corrected receipt.",
       "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "This isn't sugar-free like I requested.",
-      "questionAudio": "q020.mp3",
-      "answer": "Sorry about that, let me redo it correctly.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "I ordered a bagel with cream cheese, but there's none.",
-      "questionAudio": "q021.mp3",
-      "answer": "Sorry, let me add the cream cheese now.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "This coffee tastes a little burnt to me.",
-      "questionAudio": "q022.mp3",
-      "answer": "I apologize, let me brew a fresh cup.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "I think my food came out before my drink.",
-      "questionAudio": "q023.mp3",
-      "answer": "Sorry about the wait, your drink is coming right up.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "This isn't almond milk, is it? I'm allergic to regular milk.",
-      "questionAudio": "q024.mp3",
-      "answer": "I'm so sorry, let me remake that immediately.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "I asked for extra hot, but this feels lukewarm.",
-      "questionAudio": "q025.mp3",
-      "answer": "Sorry, let me reheat that for you right away.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "This label says someone else's name, not mine.",
-      "questionAudio": "q026.mp3",
-      "answer": "Sorry about that, let me find your correct order.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "I think this drink is missing a flavor shot.",
-      "questionAudio": "q027.mp3",
-      "answer": "You're right, sorry, let me fix that now.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "My total seems higher than expected.",
-      "questionAudio": "q028.mp3",
-      "answer": "Let me double-check that receipt, sorry about the confusion.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "This drink doesn't have any caffeine in it, does it?",
-      "questionAudio": "q029.mp3",
-      "answer": "Let me check, I apologize if that's incorrect.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "I think you forgot to add the extra pump I requested.",
-      "questionAudio": "q030.mp3",
-      "answer": "Sorry about that, I'll add it right now.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "This isn't the seasonal drink I was expecting.",
-      "questionAudio": "q031.mp3",
-      "answer": "I apologize, let me make the correct one.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "My drink seems to be missing entirely.",
-      "questionAudio": "q032.mp3",
-      "answer": "I'm so sorry, let me get that started right away.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "I think this got made with the wrong syrup.",
-      "questionAudio": "q033.mp3",
-      "answer": "You're right, sorry, let me redo it correctly.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "This came out way too sweet for my taste.",
-      "questionAudio": "q034.mp3",
-      "answer": "Sorry about that, let me remake it lighter.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "I asked for less foam, but there's a lot here.",
-      "questionAudio": "q035.mp3",
-      "answer": "Sorry, let me fix the foam for you.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "This receipt doesn't match what I actually ordered.",
-      "questionAudio": "q036.mp3",
-      "answer": "Let me take a look and correct that, sorry.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "My drink tastes off compared to usual.",
-      "questionAudio": "q037.mp3",
-      "answer": "I'm sorry, let me remake it fresh for you.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "I think I was overcharged for this order.",
-      "questionAudio": "q038.mp3",
-      "answer": "Let me check that and refund the difference, sorry.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "This isn't quite the temperature I asked for.",
-      "questionAudio": "q039.mp3",
-      "answer": "Sorry about that, let me adjust it right now.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

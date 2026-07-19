@@ -2,244 +2,112 @@
   "name": "numbers_07_discounts_percent",
   "turns": [
     {
-      "question": "How much of a discount is this sale?",
+      "question": "How much of a discount is this sale advertising?",
       "questionAudio": "q000.mp3",
-      "answer": "It's twenty percent off everything.",
+      "answer": "It's twenty percent off everything in the store.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Is the whole store on sale, or just certain items?",
+      "question": "Is the whole store included, or just select items?",
       "questionAudio": "q001.mp3",
-      "answer": "Just select items, marked at thirty percent off.",
+      "answer": "Just select items, those are marked at thirty percent off instead.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "What percentage do I save with the coupon?",
+      "question": "What percentage do I save if I use this coupon on top of that?",
       "questionAudio": "q002.mp3",
-      "answer": "The coupon takes fifteen percent off your total.",
+      "answer": "The coupon takes an extra fifteen percent off your total.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "How much of a discount do members get?",
+      "question": "Wait, does that stack with the sale price, or is it one or the other?",
       "questionAudio": "q003.mp3",
-      "answer": "Members get an extra ten percent off.",
+      "answer": "It stacks, so you'd be saving even more combined.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "What's the interest rate on this loan?",
+      "question": "That's great. What about members, do they get an additional discount?",
       "questionAudio": "q004.mp3",
-      "answer": "The interest rate is four point five percent.",
+      "answer": "Yes, members get an extra ten percent off on top of that too.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "How much did prices go up this year?",
+      "question": "I should really sign up for membership then, it sounds worth it.",
       "questionAudio": "q005.mp3",
-      "answer": "Prices went up about six percent overall.",
+      "answer": "Honestly, with savings like these, it usually pays for itself fast.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "What percentage of the bill should I tip?",
+      "question": "What's the interest rate on this loan you're offering?",
       "questionAudio": "q006.mp3",
-      "answer": "Around eighteen to twenty percent is standard.",
+      "answer": "The interest rate is four point five percent.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "How much is the service charge?",
+      "question": "How does that compare to the rate from last year?",
       "questionAudio": "q007.mp3",
-      "answer": "The service charge is ten percent of the total.",
+      "answer": "It's actually a bit lower, rates went down about half a percent.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "What's the tax rate here?",
+      "question": "What percentage down payment would I need to qualify?",
       "questionAudio": "q008.mp3",
-      "answer": "The sales tax here is eight point five percent.",
+      "answer": "You'll need at least twenty percent down to qualify.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "How much of a raise did you get this year?",
+      "question": "And how much would my monthly rate change with a longer term?",
       "questionAudio": "q009.mp3",
-      "answer": "I got about a five percent raise.",
+      "answer": "A longer term brings the monthly rate down noticeably.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "What percentage off is the clearance rack?",
+      "question": "What's the current inflation rate factoring into all this?",
       "questionAudio": "q010.mp3",
-      "answer": "Everything on clearance is fifty percent off.",
+      "answer": "It's sitting around three point two percent right now.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "How much does the price drop during Black Friday?",
+      "question": "That's helpful context, thank you for explaining all the numbers.",
       "questionAudio": "q011.mp3",
-      "answer": "It usually drops by forty percent or more.",
+      "answer": "Of course, happy to walk through anything else you're unsure about.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "What percentage of the class passed the exam?",
+      "question": "What percentage of the class actually passed the final exam?",
       "questionAudio": "q012.mp3",
-      "answer": "About ninety percent of the class passed.",
+      "answer": "About ninety percent of the class passed overall.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "How much of a down payment do I need?",
+      "question": "That's pretty high. What was the failure rate exactly then?",
       "questionAudio": "q013.mp3",
-      "answer": "You'll need at least twenty percent down.",
+      "answer": "The failure rate was only about ten percent this time.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "What's the discount for paying with cash?",
+      "question": "How does that compare to last semester's numbers?",
       "questionAudio": "q014.mp3",
-      "answer": "Cash payments get a three percent discount.",
+      "answer": "Last semester was a bit worse, closer to fifteen percent failed.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "How much did sales grow this quarter?",
+      "question": "What do you think caused the improvement this time around?",
       "questionAudio": "q015.mp3",
-      "answer": "Sales grew by twelve percent this quarter.",
+      "answer": "Honestly, probably the extra review sessions we added before the exam.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "What percentage off is the early bird ticket?",
+      "question": "That makes sense. What percentage of students actually attended those?",
       "questionAudio": "q016.mp3",
-      "answer": "Early bird tickets are twenty-five percent off.",
+      "answer": "About seventy-five percent of the class showed up to at least one.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "How much of your paycheck goes to savings?",
+      "question": "That's a solid turnout. I think we should keep doing those then.",
       "questionAudio": "q017.mp3",
-      "answer": "I put about fifteen percent into savings.",
+      "answer": "Agreed, I'll plan to add even more next semester.",
       "answerAudio": "a017.mp3"
-    },
-    {
-      "question": "What's the current inflation rate?",
-      "questionAudio": "q018.mp3",
-      "answer": "It's sitting around three point two percent.",
-      "answerAudio": "a018.mp3"
-    },
-    {
-      "question": "How much of a discount for students?",
-      "questionAudio": "q019.mp3",
-      "answer": "Students get fifteen percent off with an ID.",
-      "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "What percentage battery do you have left?",
-      "questionAudio": "q020.mp3",
-      "answer": "I'm down to about twenty percent battery.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "How much did the population grow last year?",
-      "questionAudio": "q021.mp3",
-      "answer": "It grew by about two percent last year.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "What's the commission rate on these sales?",
-      "questionAudio": "q022.mp3",
-      "answer": "The commission rate is around seven percent.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "How much of a discount for buying online?",
-      "questionAudio": "q023.mp3",
-      "answer": "Online orders get an extra five percent off.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "What percentage of the project is finished?",
-      "questionAudio": "q024.mp3",
-      "answer": "We're about seventy-five percent done.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "How much interest will I earn on this account?",
-      "questionAudio": "q025.mp3",
-      "answer": "You'll earn about two percent annually.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "What's the failure rate on these tests?",
-      "questionAudio": "q026.mp3",
-      "answer": "The failure rate is only about five percent.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "How much of a bonus did the team get?",
-      "questionAudio": "q027.mp3",
-      "answer": "The team got a ten percent bonus this year.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "What percentage discount applies during clearance?",
-      "questionAudio": "q028.mp3",
-      "answer": "Clearance items are marked sixty percent off.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "How much does the humidity rise in summer?",
-      "questionAudio": "q029.mp3",
-      "answer": "It can rise to around eighty percent.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "What's the vacancy rate in that building?",
-      "questionAudio": "q030.mp3",
-      "answer": "The vacancy rate is about ten percent right now.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "How much of a markup is typical in retail?",
-      "questionAudio": "q031.mp3",
-      "answer": "A typical markup is around fifty percent.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "What percentage did the stock drop today?",
-      "questionAudio": "q032.mp3",
-      "answer": "It dropped about four percent today.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "How much of a discount for referring a friend?",
-      "questionAudio": "q033.mp3",
-      "answer": "You both get twenty percent off your next order.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "What's the current unemployment rate?",
-      "questionAudio": "q034.mp3",
-      "answer": "It's currently around five percent.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "How much did the price increase since last year?",
-      "questionAudio": "q035.mp3",
-      "answer": "It increased by roughly eight percent.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "What percentage off is the winter clearance?",
-      "questionAudio": "q036.mp3",
-      "answer": "Winter clearance items are seventy percent off.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "How much battery does the app usually drain?",
-      "questionAudio": "q037.mp3",
-      "answer": "It usually drains about fifteen percent an hour.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "What's the graduation rate at that school?",
-      "questionAudio": "q038.mp3",
-      "answer": "The graduation rate is around ninety-five percent.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "How much of a discount for first-time customers?",
-      "questionAudio": "q039.mp3",
-      "answer": "First-time customers get ten percent off.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

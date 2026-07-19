@@ -2,184 +2,148 @@
   "name": "greetings_02_everyday",
   "turns": [
     {
-      "question": "Hey, how's it going?",
+      "question": "Morning! Didn't expect to see you on this train.",
       "questionAudio": "q000.mp3",
-      "answer": "Pretty good, thanks. How about you?",
+      "answer": "Oh hey! Yeah, my usual bus was running late, so I switched last minute.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Morning! Did you sleep okay?",
+      "question": "Lucky timing then, I guess. How's your morning going so far?",
       "questionAudio": "q001.mp3",
-      "answer": "Not really, I was up way too late last night.",
+      "answer": "Not bad, just tired -- I stayed up too late finishing a show.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "Hey you, how was your commute?",
+      "question": "Which one? I've been looking for something new to watch.",
       "questionAudio": "q002.mp3",
-      "answer": "Not bad, traffic was lighter than usual today.",
+      "answer": "That detective series everyone's been talking about, it's really good.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Hi there, how's your day treating you?",
+      "question": "Oh, I've heard great things. Is it worth starting from episode one?",
       "questionAudio": "q003.mp3",
-      "answer": "Can't complain, just a normal Tuesday.",
+      "answer": "Definitely, the story builds up a lot, so don't skip around.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "Hey, good to see you -- how are things?",
+      "question": "Good to know. How many episodes are we talking about?",
       "questionAudio": "q004.mp3",
-      "answer": "Things are good, staying busy as always.",
+      "answer": "Only eight, but they're long, almost an hour each.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "What's going on with you today?",
+      "question": "That's doable over a weekend then.",
       "questionAudio": "q005.mp3",
-      "answer": "Not much, just trying to get through some emails.",
+      "answer": "Exactly what I was thinking, that's basically what I did.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "Hey, you got a minute?",
+      "question": "Well, this is my stop coming up. Have a good one.",
       "questionAudio": "q006.mp3",
-      "answer": "Yeah, of course, what's up?",
+      "answer": "You too, enjoy the rest of your morning.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "How'd the rest of your week go?",
+      "question": "Hey, long time no chat in the elevator -- how's it going?",
       "questionAudio": "q007.mp3",
-      "answer": "Honestly, it flew by, I barely noticed it was Friday.",
+      "answer": "Pretty good, just grabbing coffee before the meeting upstairs.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "Hey, did you end up finishing that thing you were working on?",
+      "question": "Same, honestly, I can't function without it these days.",
       "questionAudio": "q008.mp3",
-      "answer": "Yeah, finally wrapped it up last night.",
+      "answer": "Right there with you, especially on Mondays like this.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "Morning! You look tired today.",
+      "question": "Tell me about it. Any big plans for the rest of the week?",
       "questionAudio": "q009.mp3",
-      "answer": "Yeah, I definitely need more coffee.",
+      "answer": "Nothing exciting, mostly just catching up on emails and deadlines.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "Hey, how's the family doing?",
+      "question": "Sounds like my week too. At least the coffee here is decent.",
       "questionAudio": "q010.mp3",
-      "answer": "Everyone's doing well, thanks for asking.",
+      "answer": "It really is, way better than the machine on my old floor.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "Hi, did you eat lunch yet?",
+      "question": "Which floor were you on before this?",
       "questionAudio": "q011.mp3",
-      "answer": "Not yet, I was thinking of grabbing something in a bit.",
+      "answer": "The third floor, but our team moved up here a couple months ago.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "Hey there, how've you been holding up?",
+      "question": "Ah, that explains why I haven't seen you around before.",
       "questionAudio": "q012.mp3",
-      "answer": "Honestly, pretty good, all things considered.",
+      "answer": "Yeah, still getting used to the new layout up here, honestly.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "You good?",
+      "question": "It's a maze at first, you'll get the hang of it soon.",
       "questionAudio": "q013.mp3",
-      "answer": "Yeah, all good, just a long day.",
+      "answer": "I hope so, I got lost twice just yesterday.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "How was your weekend, by the way?",
+      "question": "Well, this is my floor. Good luck with the meeting.",
       "questionAudio": "q014.mp3",
-      "answer": "It was nice, pretty relaxed for once.",
+      "answer": "Thanks, you too -- catch you around.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "Hey, everything going okay on your end?",
+      "question": "Hey, fancy seeing you at the gym this early.",
       "questionAudio": "q015.mp3",
-      "answer": "Yeah, smooth sailing so far today.",
+      "answer": "I know, right? I'm trying out mornings this week to see if it sticks.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "Hi, how's work been treating you?",
+      "question": "How's that going so far, day one or day three?",
       "questionAudio": "q016.mp3",
-      "answer": "It's been busy, but nothing I can't handle.",
+      "answer": "Day three, and I'm honestly surprised I'm still keeping up with it.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "Hey, you still feeling under the weather?",
+      "question": "That's already better than most people manage. What got you started?",
       "questionAudio": "q017.mp3",
-      "answer": "A bit, but I'm definitely getting better.",
+      "answer": "My friend kept bugging me to join her, so I finally gave in.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "Morning, ready for the day?",
+      "question": "Is she here with you today too?",
       "questionAudio": "q018.mp3",
-      "answer": "As ready as I'll ever be, I guess.",
+      "answer": "No, she couldn't make it, so I'm flying solo this morning.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "Hey, long day or good day so far?",
+      "question": "Well, solo mornings aren't so bad once you get into a rhythm.",
       "questionAudio": "q019.mp3",
-      "answer": "A bit of both, honestly.",
+      "answer": "That's what I keep telling myself, one day at a time.",
       "answerAudio": "a019.mp3"
     },
     {
-      "question": "Hi, did you catch the game last night?",
+      "question": "What are you working on today, cardio or weights?",
       "questionAudio": "q020.mp3",
-      "answer": "Yeah, I did -- what a finish, right?",
+      "answer": "Weights mostly, I'm trying to build up a bit of a routine.",
       "answerAudio": "a020.mp3"
     },
     {
-      "question": "Hey, you look happy today, what's up?",
+      "question": "Smart move, that pays off way more in the long run.",
       "questionAudio": "q021.mp3",
-      "answer": "Just got some good news this morning.",
+      "answer": "That's the hope, anyway -- ask me again in a month.",
       "answerAudio": "a021.mp3"
     },
     {
-      "question": "How's everything going with the move?",
+      "question": "I'll hold you to that. Good luck with the rest of your workout.",
       "questionAudio": "q022.mp3",
-      "answer": "It's coming along, still a lot of boxes though.",
+      "answer": "Thanks, same to you -- maybe I'll see you here again tomorrow.",
       "answerAudio": "a022.mp3"
     },
     {
-      "question": "Hey, did you get much sleep?",
+      "question": "I'll be here, same time as always.",
       "questionAudio": "q023.mp3",
-      "answer": "Barely, but I'll survive.",
+      "answer": "Then I guess I know where to find you.",
       "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "Morning! Big plans for today?",
-      "questionAudio": "q024.mp3",
-      "answer": "Not really, just the usual stuff.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "Hey, feeling any better than yesterday?",
-      "questionAudio": "q025.mp3",
-      "answer": "Yeah, a little bit, thanks for checking in.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "Hi, how's the new place working out?",
-      "questionAudio": "q026.mp3",
-      "answer": "It's great so far, still getting settled in.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "Hey, did that meeting go okay earlier?",
-      "questionAudio": "q027.mp3",
-      "answer": "Yeah, better than I expected, actually.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "How are you holding up with everything lately?",
-      "questionAudio": "q028.mp3",
-      "answer": "Honestly, taking it one day at a time.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "Hey, good to see your face around here again.",
-      "questionAudio": "q029.mp3",
-      "answer": "Ha, yeah, it's been a minute.",
-      "answerAudio": "a029.mp3"
     }
   ]
 }

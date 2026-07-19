@@ -2,244 +2,112 @@
   "name": "numbers_09_age",
   "turns": [
     {
-      "question": "How old are you?",
+      "question": "So, how old are you now, if you don't mind me asking?",
       "questionAudio": "q000.mp3",
       "answer": "I'm twenty-seven.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "How old is your daughter now?",
+      "question": "How old were you when you moved to this city?",
       "questionAudio": "q001.mp3",
-      "answer": "She just turned five last month.",
+      "answer": "I was about nineteen when I moved here.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "How old were you when you moved here?",
+      "question": "That's young to be on your own. How old were you when you got your first job?",
       "questionAudio": "q002.mp3",
-      "answer": "I was about nineteen when I moved.",
+      "answer": "I was sixteen, working at a grocery store back home.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "How old is your grandmother?",
+      "question": "How old were you when you learned to drive?",
       "questionAudio": "q003.mp3",
-      "answer": "She's eighty-two this year.",
+      "answer": "I was seventeen when I finally got my license.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "How old do you have to be to rent a car?",
+      "question": "And how old were you when you first traveled abroad?",
       "questionAudio": "q004.mp3",
-      "answer": "You usually have to be at least twenty-five.",
+      "answer": "I was twenty-one on my very first trip overseas.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "How old were you when you got your first job?",
+      "question": "That's a nice string of milestones. What was your first trip like?",
       "questionAudio": "q005.mp3",
-      "answer": "I was sixteen, working at a grocery store.",
+      "answer": "It was amazing, honestly, that's actually what got me into traveling.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "How old is your dog?",
+      "question": "How old is your daughter now? Last I remember she was tiny.",
       "questionAudio": "q006.mp3",
-      "answer": "He's about four years old now.",
+      "answer": "She just turned five last month.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "How old do kids start school around here?",
+      "question": "Wow, time flies. How old was she when she started school?",
       "questionAudio": "q007.mp3",
-      "answer": "Usually around five or six years old.",
+      "answer": "She was about four when she started preschool.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "How old was your dad when he retired?",
+      "question": "And how old is your son, is he older or younger than her?",
       "questionAudio": "q008.mp3",
-      "answer": "He was sixty-five when he retired.",
+      "answer": "He's older, he just turned eight last month.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "How old is your oldest sibling?",
+      "question": "So there's about a three-year gap between them?",
       "questionAudio": "q009.mp3",
-      "answer": "My oldest sister is thirty-four.",
+      "answer": "Yeah, exactly three years, keeps things interesting at home.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "How old were you when you learned to drive?",
+      "question": "How old were you when you had your first, if you don't mind me asking?",
       "questionAudio": "q010.mp3",
-      "answer": "I was seventeen when I got my license.",
+      "answer": "I was twenty-nine when I had him.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "How old does someone have to be to vote?",
+      "question": "That's a good age to start. Do you think you'll have more?",
       "questionAudio": "q011.mp3",
-      "answer": "You have to be at least eighteen.",
+      "answer": "Maybe one more someday, but we're happy with two for now.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "How old is this building, do you know?",
+      "question": "How old is your grandmother these days?",
       "questionAudio": "q012.mp3",
-      "answer": "I think it's around a hundred years old.",
+      "answer": "She's eighty-two this year, still going strong.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "How old was your mom when she had you?",
+      "question": "That's wonderful. How old was she when she got married?",
       "questionAudio": "q013.mp3",
-      "answer": "She was twenty-nine when she had me.",
+      "answer": "She was twenty-four when she got married, believe it or not.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "How old is too old to start learning something new?",
+      "question": "And how old was your grandfather at the time?",
       "questionAudio": "q014.mp3",
-      "answer": "Honestly, I don't think there's an age limit.",
+      "answer": "He was a couple years older, twenty-six I think.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "How old were you in this photo?",
+      "question": "How old is he turning this year, is he still with us?",
       "questionAudio": "q015.mp3",
-      "answer": "I think I was about ten in that one.",
+      "answer": "He would be turning ninety this year, but he passed a while back.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "How old do you have to be to get a credit card?",
+      "question": "I'm sorry to hear that. How old were you when that happened?",
       "questionAudio": "q016.mp3",
-      "answer": "Usually eighteen, sometimes with a co-signer.",
+      "answer": "I was about thirteen, so I still remember him pretty well.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "How old is the youngest person on the team?",
+      "question": "That's a special thing to hold onto, those memories.",
       "questionAudio": "q017.mp3",
-      "answer": "The youngest is only twenty-two.",
+      "answer": "It really is, I think about him more as I get older myself.",
       "answerAudio": "a017.mp3"
-    },
-    {
-      "question": "How old were your parents when they got married?",
-      "questionAudio": "q018.mp3",
-      "answer": "They were both twenty-four.",
-      "answerAudio": "a018.mp3"
-    },
-    {
-      "question": "How old is your car at this point?",
-      "questionAudio": "q019.mp3",
-      "answer": "It's about eight years old now.",
-      "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "How old were you when you first traveled abroad?",
-      "questionAudio": "q020.mp3",
-      "answer": "I was twenty-one on my first trip.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "How old is your niece these days?",
-      "questionAudio": "q021.mp3",
-      "answer": "She just turned twelve last week.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "How old do you think that tree is?",
-      "questionAudio": "q022.mp3",
-      "answer": "It's probably over fifty years old.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "How old was he when he started the company?",
-      "questionAudio": "q023.mp3",
-      "answer": "He was only twenty-six at the time.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "How old do you have to be to retire early?",
-      "questionAudio": "q024.mp3",
-      "answer": "It varies, but often around fifty-five.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "How old is your best friend compared to you?",
-      "questionAudio": "q025.mp3",
-      "answer": "She's actually two years older than me.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "How old were you when you graduated high school?",
-      "questionAudio": "q026.mp3",
-      "answer": "I was eighteen when I graduated.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "How old is the company you work for?",
-      "questionAudio": "q027.mp3",
-      "answer": "It's been around for about fifteen years.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "How old is your youngest cousin?",
-      "questionAudio": "q028.mp3",
-      "answer": "He's only three years old.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "How old were you when you started this hobby?",
-      "questionAudio": "q029.mp3",
-      "answer": "I think I was around thirteen.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "How old is your grandfather turning this year?",
-      "questionAudio": "q030.mp3",
-      "answer": "He's turning ninety this year.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "How old is the average student in this program?",
-      "questionAudio": "q031.mp3",
-      "answer": "Most students are around twenty-three.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "How old were you when you got married?",
-      "questionAudio": "q032.mp3",
-      "answer": "I was twenty-eight when I got married.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "How old is your phone at this point?",
-      "questionAudio": "q033.mp3",
-      "answer": "It's about three years old now.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "How old do you have to be to work here?",
-      "questionAudio": "q034.mp3",
-      "answer": "You need to be at least sixteen.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "How old is your teacher, roughly?",
-      "questionAudio": "q035.mp3",
-      "answer": "I'd guess she's in her early forties.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "How old were you when you learned English?",
-      "questionAudio": "q036.mp3",
-      "answer": "I started when I was about seven.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "How old is your neighbor's kid now?",
-      "questionAudio": "q037.mp3",
-      "answer": "He just turned nine, actually.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "How old do you have to be for this ride?",
-      "questionAudio": "q038.mp3",
-      "answer": "You need to be at least twelve.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "How old is your favorite actor, do you know?",
-      "questionAudio": "q039.mp3",
-      "answer": "I think he's somewhere around fifty.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

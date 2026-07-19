@@ -8,238 +8,118 @@
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Hey there, first time here?",
+      "question": "Can't complain at all. Is this your first time here?",
       "questionAudio": "q001.mp3",
       "answer": "Actually, yeah, this is my first visit.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "Welcome! Are you dining in or taking it to go?",
+      "question": "Welcome then! Are you dining in or taking it to go today?",
       "questionAudio": "q002.mp3",
-      "answer": "I'll be staying in, thanks.",
+      "answer": "I'll be staying in, thanks, I've got some work to do.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Hi, is it your first time ordering here today?",
+      "question": "Perfect, feel free to grab a table whenever you're ready.",
       "questionAudio": "q003.mp3",
-      "answer": "No, I actually come here pretty often.",
+      "answer": "Thanks, I will, just give me a second with the menu.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "Good morning, how's your day going so far?",
+      "question": "Of course, take your time, no rush at all.",
       "questionAudio": "q004.mp3",
-      "answer": "Pretty good so far, just needed some coffee.",
+      "answer": "I appreciate that, this menu has a lot going on.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "Hey, welcome back! The usual today?",
+      "question": "Ha, it can be overwhelming at first, let me know if you want a recommendation.",
       "questionAudio": "q005.mp3",
-      "answer": "Actually, I think I'll try something different today.",
+      "answer": "Actually, that would help a lot, thank you.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "Hi there, just one moment and I'll be right with you.",
+      "question": "Hey, welcome back! The usual today?",
       "questionAudio": "q006.mp3",
-      "answer": "No rush, take your time.",
+      "answer": "Actually, I think I'll try something different today.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "Welcome in, are you ready to order or still deciding?",
+      "question": "Oh, feeling adventurous, I like it. Any idea what you're leaning toward?",
       "questionAudio": "q007.mp3",
-      "answer": "Still deciding, give me a second, please.",
+      "answer": "Not yet, could you give me a second to look?",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "Hey, how's it going? Cold one out there today, huh?",
+      "question": "Of course, take your time, I'll be right here.",
       "questionAudio": "q008.mp3",
-      "answer": "Yeah, freezing, perfect coffee weather though.",
+      "answer": "Thanks, I might ask you for a suggestion in a minute.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "Hi, sorry for the wait, how can I help you?",
+      "question": "Anytime, I've got a few favorites I could point you toward.",
       "questionAudio": "q009.mp3",
-      "answer": "No worries at all, I just got here.",
+      "answer": "Perfect, that's exactly what I was hoping for.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "Good afternoon, are you a rewards member with us?",
+      "question": "Cold one out there today, huh? Perfect coffee weather.",
       "questionAudio": "q010.mp3",
-      "answer": "Yes, I am, I'll scan my app.",
+      "answer": "Yeah, freezing, definitely need something warm today.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "Hey there, table for one or is someone joining you?",
+      "question": "That definitely narrows things down for you then.",
       "questionAudio": "q011.mp3",
-      "answer": "Just me today, thanks.",
+      "answer": "It really does, something hot sounds perfect right now.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "Hi, welcome in, what can we get started for you?",
+      "question": "Hi there, sorry for the wait, how can I help you?",
       "questionAudio": "q012.mp3",
-      "answer": "Give me just a second to look at the menu.",
+      "answer": "No worries at all, I just got here myself.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "Good morning, busy day ahead for you?",
+      "question": "Good afternoon, are you a rewards member with us?",
       "questionAudio": "q013.mp3",
-      "answer": "Pretty busy, yeah, hoping this coffee helps.",
+      "answer": "Yes, I am, let me scan my app real quick.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "Hey, nice to see you again, back for more?",
+      "question": "Perfect, go ahead whenever you're ready.",
       "questionAudio": "q014.mp3",
-      "answer": "Ha, yeah, couldn't stay away.",
+      "answer": "Got it, done, thanks for reminding me.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "Hi there, are you here to pick up a mobile order?",
+      "question": "Are you meeting someone here, or just grabbing coffee for yourself?",
       "questionAudio": "q015.mp3",
-      "answer": "No, I'll be ordering here in person today.",
+      "answer": "Just grabbing coffee for myself today.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "Welcome in, do you need a minute with the menu?",
+      "question": "Got it. Any big plans for the rest of your day?",
       "questionAudio": "q016.mp3",
-      "answer": "Yes, please, just a minute would help.",
+      "answer": "Nothing too crazy, just heading to work after this.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "Hey, how's your morning treating you?",
+      "question": "Well, hopefully this gives you a good start to it.",
       "questionAudio": "q017.mp3",
-      "answer": "Not bad, just running a little late today.",
+      "answer": "I'm counting on it, honestly, long day ahead.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "Hi, thanks for coming in, what brings you by today?",
+      "question": "Do you know what you're in the mood for yet?",
       "questionAudio": "q018.mp3",
-      "answer": "Just craving something sweet, honestly.",
+      "answer": "Not quite, mind if I take one more look at the board?",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "Good afternoon, are you meeting someone or just grabbing coffee?",
+      "question": "Not at all, take your time, I'll check back in a moment.",
       "questionAudio": "q019.mp3",
-      "answer": "Just grabbing coffee for myself today.",
+      "answer": "Thanks, I really appreciate it.",
       "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "Hey there, how's the weather treating you outside?",
-      "questionAudio": "q020.mp3",
-      "answer": "Actually really nice today, finally some sun.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "Hi, welcome in, any big plans for the rest of your day?",
-      "questionAudio": "q021.mp3",
-      "answer": "Nothing too crazy, just work after this.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "Good morning, you're here early today.",
-      "questionAudio": "q022.mp3",
-      "answer": "Yeah, needed an early start today.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "Hey, is this seat taken, or are you all set?",
-      "questionAudio": "q023.mp3",
-      "answer": "No, it's all yours, go ahead.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "Hi there, would you like to start a tab or pay per order?",
-      "questionAudio": "q024.mp3",
-      "answer": "I'll just pay for this one, thanks.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "Welcome back, did you enjoy your drink last time?",
-      "questionAudio": "q025.mp3",
-      "answer": "I really did, that's why I'm back.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "Hey, sorry about the line, thanks for your patience.",
-      "questionAudio": "q026.mp3",
-      "answer": "No worries, it wasn't too bad.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "Hi, are you ordering for just yourself today?",
-      "questionAudio": "q027.mp3",
-      "answer": "Yeah, just me this time.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "Good afternoon, how can we make your day a little better?",
-      "questionAudio": "q028.mp3",
-      "answer": "Honestly, just a good coffee would do it.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "Hey there, welcome in, cutting it close on time today?",
-      "questionAudio": "q029.mp3",
-      "answer": "Ha, yeah, running a bit behind schedule.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "Hi, are you familiar with our seasonal menu?",
-      "questionAudio": "q030.mp3",
-      "answer": "Not really, could you tell me a bit about it?",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "Welcome in, sorry, we're a little short-staffed today.",
-      "questionAudio": "q031.mp3",
-      "answer": "No problem at all, I understand.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "Hey, nice jacket, staying warm out there?",
-      "questionAudio": "q032.mp3",
-      "answer": "Ha, thanks, trying my best in this weather.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "Hi there, are you looking for something hot or cold today?",
-      "questionAudio": "q033.mp3",
-      "answer": "Something cold, it's warm out there today.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "Good morning, did you already check out the app?",
-      "questionAudio": "q034.mp3",
-      "answer": "Not yet, I usually just order at the counter.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "Hey, welcome, is this your regular spot?",
-      "questionAudio": "q035.mp3",
-      "answer": "Yeah, I come here almost every day.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "Hi, how's your week been so far?",
-      "questionAudio": "q036.mp3",
-      "answer": "Pretty good, just glad it's almost the weekend.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "Welcome in, do you know what you're in the mood for?",
-      "questionAudio": "q037.mp3",
-      "answer": "Not yet, mind if I take a quick look?",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "Hey there, are you paying with the app today?",
-      "questionAudio": "q038.mp3",
-      "answer": "Yes, I'll just scan when I'm ready.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "Hi, thanks for waiting, what can I get started for you?",
-      "questionAudio": "q039.mp3",
-      "answer": "No problem, I'll have a look first.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

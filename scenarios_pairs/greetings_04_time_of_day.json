@@ -4,182 +4,116 @@
     {
       "question": "Good morning! Did you sleep well?",
       "questionAudio": "q000.mp3",
-      "answer": "I did, thanks -- feeling pretty refreshed.",
+      "answer": "I did, thanks -- feeling pretty refreshed for once.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Morning! You're here early today.",
+      "question": "That's great to hear. You're here early today too.",
       "questionAudio": "q001.mp3",
-      "answer": "Yeah, I wanted to beat the traffic for once.",
+      "answer": "Yeah, I wanted to beat the traffic for once, and it actually worked.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "Good afternoon, how's your day going so far?",
+      "question": "Smart move. Coffee's ready if you want some.",
       "questionAudio": "q002.mp3",
-      "answer": "Pretty good so far, keeping busy.",
+      "answer": "Oh, perfect timing, I definitely need it before anything else.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Afternoon! Have you had lunch yet?",
+      "question": "Same here, honestly. Big day ahead of you?",
       "questionAudio": "q003.mp3",
-      "answer": "Just finished, actually -- feeling much better now.",
+      "answer": "Kind of, I've got a few meetings lined up back to back.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "Good evening, long day at the office?",
+      "question": "Sounds busy. Well, at least you're starting off well-rested.",
       "questionAudio": "q004.mp3",
-      "answer": "You could say that, I'm ready to head home.",
+      "answer": "True, that's already a win compared to most mornings.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "Evening! Are you heading out soon?",
+      "question": "Ha, fair enough. Good luck with the meetings today.",
       "questionAudio": "q005.mp3",
-      "answer": "Yeah, just wrapping a few things up first.",
+      "answer": "Thanks, I'll definitely need it, but I'm feeling optimistic.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "Morning, coffee's ready if you want some.",
+      "question": "Good afternoon, how's your day going so far?",
       "questionAudio": "q006.mp3",
-      "answer": "Oh, perfect timing, I definitely need it.",
+      "answer": "Pretty good so far, keeping busy but nothing too crazy.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "Good morning, sunshine, how are we feeling today?",
+      "question": "Glad to hear it. Have you had lunch yet?",
       "questionAudio": "q007.mp3",
-      "answer": "Honestly, still half asleep, but getting there.",
+      "answer": "Just finished, actually -- feeling much better now that I've eaten.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "Afternoon already -- has the day flown by for you too?",
+      "question": "That makes a big difference. Has the day flown by for you too?",
       "questionAudio": "q008.mp3",
-      "answer": "Seriously, I can't believe it's already this late.",
+      "answer": "Seriously, I can't believe it's already this late already.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "Evening, how was the rest of your day?",
+      "question": "Right? Did you manage to grab a break at all yet?",
       "questionAudio": "q009.mp3",
-      "answer": "Pretty uneventful, in a good way.",
+      "answer": "Not yet, but I'm hoping to squeeze one in before my next call.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "Morning! Big day ahead of you?",
+      "question": "Well, hopefully the second half is a bit lighter for you.",
       "questionAudio": "q010.mp3",
-      "answer": "Kind of, I've got a few meetings lined up.",
+      "answer": "Fingers crossed, this morning was pretty packed.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "Good afternoon, did you manage to grab a break yet?",
+      "question": "Here's hoping. Has it been a productive day at least?",
       "questionAudio": "q011.mp3",
-      "answer": "Not yet, but I'm hoping to soon.",
+      "answer": "Surprisingly, yes, I got a lot more done than I expected.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "Good evening, any plans for tonight?",
+      "question": "Good evening, long day at the office?",
       "questionAudio": "q012.mp3",
-      "answer": "Nothing major, just relaxing at home.",
+      "answer": "You could say that -- I'm honestly ready to head home.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "Morning, how'd you sleep after last night?",
+      "question": "I hear you. How was the rest of your day after this morning?",
       "questionAudio": "q013.mp3",
-      "answer": "Better than expected, honestly.",
+      "answer": "Pretty uneventful, in a good way, no major surprises.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "Afternoon, are you holding up okay?",
+      "question": "That's always a relief. Any plans for tonight?",
       "questionAudio": "q014.mp3",
-      "answer": "Yeah, just running on a lot of coffee.",
+      "answer": "Nothing major, just relaxing at home with some dinner.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "Evening already, time really flew today.",
+      "question": "That sounds perfect after a day like this.",
       "questionAudio": "q015.mp3",
-      "answer": "Tell me about it, I barely noticed.",
+      "answer": "Exactly what I need, honestly, just some quiet time.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "Good morning! Ready to take on the day?",
+      "question": "Well, how was your commute home looking, lighter than usual?",
       "questionAudio": "q016.mp3",
-      "answer": "As ready as I'll ever be.",
+      "answer": "Actually yeah, not bad at all compared to this morning.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "Afternoon, how's the second half of your day looking?",
+      "question": "Good, at least something went smoothly today.",
       "questionAudio": "q017.mp3",
-      "answer": "A bit lighter than the morning, thankfully.",
+      "answer": "Right? I'll take the small wins where I can get them.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "Good evening, dinner plans tonight?",
+      "question": "Well, glad the day's finally over for you.",
       "questionAudio": "q018.mp3",
-      "answer": "Just something simple at home, I think.",
+      "answer": "Honestly, more than you know -- see you tomorrow morning.",
       "answerAudio": "a018.mp3"
-    },
-    {
-      "question": "Morning, you're up bright and early.",
-      "questionAudio": "q019.mp3",
-      "answer": "Couldn't sleep much, so I figured I'd get a head start.",
-      "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "Afternoon, has it been a productive day?",
-      "questionAudio": "q020.mp3",
-      "answer": "Surprisingly, yes -- got a lot done.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "Good evening, winding down for the night?",
-      "questionAudio": "q021.mp3",
-      "answer": "Trying to, still got a few things to finish.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "Morning, how's the weather looking out there?",
-      "questionAudio": "q022.mp3",
-      "answer": "Actually pretty nice, sunny for once.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "Afternoon, did you take a lunch break yet?",
-      "questionAudio": "q023.mp3",
-      "answer": "Yeah, just got back from a quick one.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "Good evening, how was your commute home?",
-      "questionAudio": "q024.mp3",
-      "answer": "Not bad, lighter traffic than usual.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "Morning, feeling good about today?",
-      "questionAudio": "q025.mp3",
-      "answer": "Yeah, actually looking forward to it.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "Afternoon, are you off soon or still stuck here a while?",
-      "questionAudio": "q026.mp3",
-      "answer": "Unfortunately still here for a couple more hours.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "Good evening, any big plans for the weekend coming up?",
-      "questionAudio": "q027.mp3",
-      "answer": "Nothing set in stone yet, we'll see.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "Morning, you look wide awake today.",
-      "questionAudio": "q028.mp3",
-      "answer": "Ha, don't be fooled, it's mostly the coffee.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "Good evening, glad the day's finally over?",
-      "questionAudio": "q029.mp3",
-      "answer": "Honestly, more than you know.",
-      "answerAudio": "a029.mp3"
     }
   ]
 }

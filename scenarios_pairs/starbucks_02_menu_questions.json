@@ -8,238 +8,112 @@
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "What's the difference between a latte and a cappuccino?",
+      "question": "Is that one very sweet, or more balanced?",
       "questionAudio": "q001.mp3",
-      "answer": "A cappuccino has more foam and less milk overall.",
+      "answer": "It's on the sweeter side, honestly, but really good.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "Is this drink very sweet?",
+      "question": "Good to know. What's the difference between that and a latte?",
       "questionAudio": "q002.mp3",
-      "answer": "It's on the sweeter side, honestly.",
+      "answer": "A latte is smoother, less caramel flavor up front.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Do you have any dairy-free options?",
+      "question": "What about a cappuccino, how's that different from both?",
       "questionAudio": "q003.mp3",
-      "answer": "Yes, we have oat, soy, and almond milk.",
+      "answer": "A cappuccino has more foam and less milk overall.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "What's in the seasonal drink this month?",
+      "question": "Do you have any dairy-free options if I wanted to try one of these?",
       "questionAudio": "q004.mp3",
-      "answer": "It's got pumpkin spice and a bit of cinnamon.",
+      "answer": "Yes, we have oat, soy, and almond milk available.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "Is the cold brew stronger than regular coffee?",
+      "question": "Perfect, I think I'll go with the caramel macchiato using oat milk.",
       "questionAudio": "q005.mp3",
-      "answer": "Yeah, it's usually a bit more concentrated.",
+      "answer": "Great choice, that combination is really popular here.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "What size options do you have?",
+      "question": "What's in the seasonal drink this month?",
       "questionAudio": "q006.mp3",
-      "answer": "We have short, tall, grande, and venti.",
+      "answer": "It's got pumpkin spice and a bit of cinnamon.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "Can I get a sample before I decide?",
+      "question": "Is it very sweet, or does the spice balance it out?",
       "questionAudio": "q007.mp3",
-      "answer": "Sure, I can get you a small taste.",
+      "answer": "It's balanced pretty well, not overly sugary at all.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "What's your least sweet drink on the menu?",
+      "question": "Do you have any decaf versions of that one?",
       "questionAudio": "q008.mp3",
-      "answer": "Probably just a plain black coffee or Americano.",
+      "answer": "Yes, almost anything on the menu can be made decaf.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "Is the frappuccino more like a milkshake?",
+      "question": "Good, I try to avoid caffeine later in the day. Is the flavor the same either way?",
       "questionAudio": "q009.mp3",
-      "answer": "Kind of, yeah, it's blended and pretty thick.",
+      "answer": "Pretty much identical, you won't notice much difference.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "Does the chai latte have caffeine in it?",
+      "question": "Perfect, I'll go with the decaf version of that then.",
       "questionAudio": "q010.mp3",
-      "answer": "Yes, it does have some caffeine, just less than coffee.",
+      "answer": "Great choice, I'll get that started for you.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "What's a good drink if I don't like bitter coffee?",
+      "question": "Do you have any seasonal food that pairs well with it?",
       "questionAudio": "q011.mp3",
-      "answer": "I'd recommend a vanilla latte, it's nice and smooth.",
+      "answer": "Yes, we've got a seasonal pastry that goes really well with it.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "Do you have any decaf options?",
+      "question": "I'll take one of those too then, thanks.",
       "questionAudio": "q012.mp3",
-      "answer": "Yes, almost anything can be made decaf.",
+      "answer": "Perfect, I'll add that to your order.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "What comes with the breakfast sandwich?",
+      "question": "What's the strongest coffee you have, I need something powerful today?",
       "questionAudio": "q013.mp3",
-      "answer": "It comes with egg, cheese, and your choice of meat.",
+      "answer": "Probably our dark roast, it's pretty bold.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "Is the pink drink actually pink?",
+      "question": "Is the cold brew stronger than that, or about the same?",
       "questionAudio": "q014.mp3",
-      "answer": "Yes, it's got a bright pink color from the fruit.",
+      "answer": "The cold brew is usually a bit more concentrated, actually.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "What's the healthiest option you'd recommend?",
+      "question": "Interesting, what's the difference between cold brew and regular iced coffee?",
       "questionAudio": "q015.mp3",
-      "answer": "Probably the cold brew with almond milk, no sugar.",
+      "answer": "Cold brew is steeped longer, so it comes out smoother.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "Do you have any gluten-free snacks?",
+      "question": "That sounds like exactly what I need this morning.",
       "questionAudio": "q016.mp3",
-      "answer": "Yes, we've got a couple of gluten-free options.",
+      "answer": "It's a great pick for days when you need the extra kick.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "What's the difference between iced coffee and cold brew?",
+      "question": "Does it come in a bigger size than what's listed?",
       "questionAudio": "q017.mp3",
-      "answer": "Cold brew is steeped longer, so it's smoother.",
+      "answer": "Yes, we go up to a venti if you want the largest option.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "Is the mocha very chocolatey?",
+      "question": "Let's do that then, venti cold brew, please.",
       "questionAudio": "q018.mp3",
-      "answer": "Yeah, it's got a nice rich chocolate flavor.",
+      "answer": "You got it, one venti cold brew coming right up.",
       "answerAudio": "a018.mp3"
-    },
-    {
-      "question": "What syrups do you offer?",
-      "questionAudio": "q019.mp3",
-      "answer": "We have vanilla, caramel, hazelnut, and a few more.",
-      "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "Can I see a picture of that drink?",
-      "questionAudio": "q020.mp3",
-      "answer": "Sure, it's right here on the menu board.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "Is the refresher drink caffeinated?",
-      "questionAudio": "q021.mp3",
-      "answer": "Yes, it has a bit of caffeine from green coffee extract.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "What's a good drink for someone who loves sweet stuff?",
-      "questionAudio": "q022.mp3",
-      "answer": "The caramel frappuccino is a good bet.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "Do you have any protein-based drinks?",
-      "questionAudio": "q023.mp3",
-      "answer": "Yes, we have a protein shake option available.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "What's included in the value meal?",
-      "questionAudio": "q024.mp3",
-      "answer": "It comes with a drink, a snack, and a small treat.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "Is the matcha latte very earthy tasting?",
-      "questionAudio": "q025.mp3",
-      "answer": "A little, but it's balanced out with milk and sweetness.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "Do you offer any sugar-free syrups?",
-      "questionAudio": "q026.mp3",
-      "answer": "Yes, we have a couple of sugar-free syrup options.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "What's the strongest coffee you have?",
-      "questionAudio": "q027.mp3",
-      "answer": "Probably our dark roast, it's pretty bold.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "Is the hot chocolate very rich?",
-      "questionAudio": "q028.mp3",
-      "answer": "Yes, it's quite rich and creamy.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "Do you have any seasonal food items right now?",
-      "questionAudio": "q029.mp3",
-      "answer": "Yes, we've got a seasonal pastry available.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "What's a good drink to try if I'm new here?",
-      "questionAudio": "q030.mp3",
-      "answer": "I'd start with a classic vanilla latte.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "Is the tea selection just black tea?",
-      "questionAudio": "q031.mp3",
-      "answer": "No, we also have green, herbal, and chai.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "Do you have any lower-calorie drink options?",
-      "questionAudio": "q032.mp3",
-      "answer": "Yes, we have a few lighter options on the menu.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "What's the difference between a flat white and a latte?",
-      "questionAudio": "q033.mp3",
-      "answer": "A flat white has less foam and a stronger espresso taste.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "Do you have any oat milk based drinks?",
-      "questionAudio": "q034.mp3",
-      "answer": "Yes, oat milk works with almost any drink.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "What's a good drink for a hot day?",
-      "questionAudio": "q035.mp3",
-      "answer": "I'd go with an iced refresher, super refreshing.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "Is the espresso shot very strong on its own?",
-      "questionAudio": "q036.mp3",
-      "answer": "Yes, it's pretty intense by itself.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "Do you have any nut-free pastries?",
-      "questionAudio": "q037.mp3",
-      "answer": "Yes, a few of our pastries are nut-free.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "What's a good non-coffee option for me?",
-      "questionAudio": "q038.mp3",
-      "answer": "The chai latte or hot chocolate would be great.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "Is the caramel drizzle very sweet on top?",
-      "questionAudio": "q039.mp3",
-      "answer": "Yeah, it adds a nice sweet finishing touch.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

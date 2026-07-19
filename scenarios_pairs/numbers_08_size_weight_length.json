@@ -2,244 +2,130 @@
   "name": "numbers_08_size_weight_length",
   "turns": [
     {
-      "question": "What size shoe do you wear?",
+      "question": "What size shoe do you wear? I want to get you something.",
       "questionAudio": "q000.mp3",
       "answer": "I wear a size nine.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "How tall are you?",
+      "question": "Got it. And roughly how tall are you, for reference?",
       "questionAudio": "q001.mp3",
       "answer": "I'm about five foot ten.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "How much does this package weigh?",
+      "question": "Okay, that helps. What size shirt do you usually go with?",
       "questionAudio": "q002.mp3",
-      "answer": "It weighs about three pounds.",
+      "answer": "It's a medium, so size ten works fine.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "How long is this table?",
+      "question": "Perfect, I think I have a good idea what to look for now.",
       "questionAudio": "q003.mp3",
-      "answer": "It's roughly six feet long.",
+      "answer": "Thanks for asking, that'll definitely help you pick the right thing.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "What size is this shirt?",
+      "question": "How much does this package weigh? I need to fill out the label.",
       "questionAudio": "q004.mp3",
-      "answer": "It's a medium, so size ten.",
+      "answer": "It weighs about three pounds.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "How much do you weigh, if you don't mind me asking?",
+      "question": "And how long is the box itself, for the dimensions?",
       "questionAudio": "q005.mp3",
-      "answer": "I'm around one sixty right now.",
+      "answer": "It's roughly two feet long, maybe a bit less.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "How wide is the doorway?",
+      "question": "How wide is it, would you say?",
       "questionAudio": "q006.mp3",
-      "answer": "It's about thirty-six inches wide.",
+      "answer": "About one foot wide, give or take.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "How far is it to the nearest gas station?",
+      "question": "Great, that should be enough info for the shipping label.",
       "questionAudio": "q007.mp3",
-      "answer": "It's about two miles from here.",
+      "answer": "Perfect, let me know if you need anything else measured.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "What size mattress do you have?",
+      "question": "Actually, how much does the whole shipment weigh once combined?",
       "questionAudio": "q008.mp3",
-      "answer": "We have a queen size mattress.",
+      "answer": "All together, it comes to about ten pounds.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "How tall is that building?",
+      "question": "That should keep the shipping cost pretty reasonable then.",
       "questionAudio": "q009.mp3",
-      "answer": "It's around forty stories tall.",
+      "answer": "That's what I was hoping, it adds up fast otherwise.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "How much does the box weigh in total?",
+      "question": "How far is it from here to the nearest gas station?",
       "questionAudio": "q010.mp3",
-      "answer": "All together, it's about ten pounds.",
+      "answer": "It's about two miles from here.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "How long is the flight to Tokyo?",
+      "question": "And how long would that take walking versus driving?",
       "questionAudio": "q011.mp3",
-      "answer": "It's about thirteen hours nonstop.",
+      "answer": "Walking, maybe forty minutes; driving, only about five.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "What size ring do you wear?",
+      "question": "I think I'll just drive then, that makes more sense.",
       "questionAudio": "q012.mp3",
-      "answer": "I wear a size seven.",
+      "answer": "Yeah, especially with how hot it's been out lately.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "How deep is this pool?",
+      "question": "How far is the airport from your place, out of curiosity?",
       "questionAudio": "q013.mp3",
-      "answer": "It's about six feet at the deep end.",
+      "answer": "It's roughly fifteen miles away from where I live.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "How much does the suitcase weigh with everything packed?",
+      "question": "That's not too bad. How long does that usually take you?",
       "questionAudio": "q014.mp3",
-      "answer": "It comes to about forty pounds.",
+      "answer": "About twenty-five minutes without traffic, longer during rush hour.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "How wide is the television screen?",
+      "question": "Good to know for next time I need a ride there.",
       "questionAudio": "q015.mp3",
-      "answer": "It's a fifty-five inch screen.",
+      "answer": "Just let me know, I don't mind driving you at all.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "How far did you run this morning?",
+      "question": "How tall is that new building downtown, do you know?",
       "questionAudio": "q016.mp3",
-      "answer": "I ran about five miles this morning.",
+      "answer": "It's around forty stories tall, one of the tallest around.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "What size pants do you usually buy?",
+      "question": "Wow, that's impressive. How wide is the base of it?",
       "questionAudio": "q017.mp3",
-      "answer": "I usually go with a size thirty-two.",
+      "answer": "I'm not totally sure, but it looks pretty wide from the street.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "How tall is your son now?",
+      "question": "I'd love to see it up close sometime.",
       "questionAudio": "q018.mp3",
-      "answer": "He's about four foot two now.",
+      "answer": "We should walk by it this weekend if you're free.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "How much does an average adult weigh?",
+      "question": "How far is it from your office, actually?",
       "questionAudio": "q019.mp3",
-      "answer": "It varies, but around one fifty to two hundred.",
+      "answer": "Not far at all, maybe a ten-minute walk.",
       "answerAudio": "a019.mp3"
     },
     {
-      "question": "How long is the hiking trail?",
+      "question": "That's really convenient then, let's do that this weekend.",
       "questionAudio": "q020.mp3",
-      "answer": "It's about eight miles round trip.",
+      "answer": "Sounds good, I'll show you around the area too.",
       "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "What size do you need for the frame?",
-      "questionAudio": "q021.mp3",
-      "answer": "I need an eight by ten frame.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "How heavy is that backpack when it's full?",
-      "questionAudio": "q022.mp3",
-      "answer": "It's about twenty-five pounds full.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "How far away is the airport from here?",
-      "questionAudio": "q023.mp3",
-      "answer": "It's roughly fifteen miles away.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "What size bed fits in this room?",
-      "questionAudio": "q024.mp3",
-      "answer": "A full-size bed should fit comfortably.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "How tall does the fence need to be?",
-      "questionAudio": "q025.mp3",
-      "answer": "It needs to be at least six feet tall.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "How much does the car weigh?",
-      "questionAudio": "q026.mp3",
-      "answer": "It weighs around three thousand pounds.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "How long is your commute one way?",
-      "questionAudio": "q027.mp3",
-      "answer": "It's about forty-five minutes one way.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "What size do you need for the couch cover?",
-      "questionAudio": "q028.mp3",
-      "answer": "I need one for an eighty-four inch couch.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "How wide is this hallway?",
-      "questionAudio": "q029.mp3",
-      "answer": "It's about four feet wide.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "How heavy is a gallon of water?",
-      "questionAudio": "q030.mp3",
-      "answer": "It's a little over eight pounds.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "How tall is the ceiling in here?",
-      "questionAudio": "q031.mp3",
-      "answer": "It's around nine feet high.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "How far is the beach from your house?",
-      "questionAudio": "q032.mp3",
-      "answer": "It's about ten minutes by car.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "What size do you take in dresses?",
-      "questionAudio": "q033.mp3",
-      "answer": "I usually wear a size six.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "How much does a newborn baby typically weigh?",
-      "questionAudio": "q034.mp3",
-      "answer": "Usually around seven or eight pounds.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "How long does it take to drive there?",
-      "questionAudio": "q035.mp3",
-      "answer": "It takes about two and a half hours.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "What size TV would fit best in the living room?",
-      "questionAudio": "q036.mp3",
-      "answer": "Probably something around sixty-five inches.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "How wide is a standard parking space?",
-      "questionAudio": "q037.mp3",
-      "answer": "It's usually about nine feet wide.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "How tall is Mount Everest?",
-      "questionAudio": "q038.mp3",
-      "answer": "It's about twenty-nine thousand feet.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "How much does your carry-on weigh?",
-      "questionAudio": "q039.mp3",
-      "answer": "It's just under fifteen pounds.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

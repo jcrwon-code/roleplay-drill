@@ -2,244 +2,124 @@
   "name": "numbers_06_time_and_dates",
   "turns": [
     {
-      "question": "What time is it right now?",
+      "question": "What time should we meet tomorrow?",
       "questionAudio": "q000.mp3",
-      "answer": "It's about a quarter past three.",
+      "answer": "Let's say ten o'clock sharp.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "What time does the store open?",
+      "question": "Does that work with your morning schedule, or is that too early?",
       "questionAudio": "q001.mp3",
-      "answer": "It opens at nine thirty in the morning.",
+      "answer": "No, that works fine, I usually wake up around six thirty anyway.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "What time should we meet tomorrow?",
+      "question": "Great. And what time zone should I use when I set the reminder?",
       "questionAudio": "q002.mp3",
-      "answer": "Let's say ten o'clock sharp.",
+      "answer": "I'm in Eastern Standard Time, so use that one.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "What's today's date?",
+      "question": "Perfect, I'll set it for ten a.m. Eastern then.",
       "questionAudio": "q003.mp3",
-      "answer": "Today is July eighteenth.",
+      "answer": "Sounds good, I'll see you right at ten.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "What day of the week is the meeting?",
+      "question": "Actually, what date were we thinking for this, this Thursday?",
       "questionAudio": "q004.mp3",
-      "answer": "It's on Thursday this week.",
+      "answer": "Yes, it's on Thursday this week, the eighteenth.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "What time does your flight leave?",
+      "question": "Got it, I'll mark that down on my calendar right now.",
       "questionAudio": "q005.mp3",
-      "answer": "It leaves at six forty-five in the evening.",
+      "answer": "Perfect, looking forward to it.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "What year did you graduate?",
+      "question": "What time does your flight leave on Saturday?",
       "questionAudio": "q006.mp3",
-      "answer": "I graduated back in twenty nineteen.",
+      "answer": "It leaves at six forty-five in the evening.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "What time zone are you in right now?",
+      "question": "What time do you need to be at the airport by, then?",
       "questionAudio": "q007.mp3",
-      "answer": "I'm in Eastern Standard Time.",
+      "answer": "Probably around four thirty, to be safe with security.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "What time does the movie start?",
+      "question": "Okay, so what time should I pick you up from your place?",
       "questionAudio": "q008.mp3",
-      "answer": "It starts at seven fifteen tonight.",
+      "answer": "Anytime after three would work great for me.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "What's the deadline date for this project?",
+      "question": "Alright, I'll swing by around three fifteen then.",
       "questionAudio": "q009.mp3",
-      "answer": "The deadline is the twenty-third of this month.",
+      "answer": "Perfect, that gives us plenty of time to get there.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "What time do you usually wake up?",
+      "question": "What time does your flight actually land once you're there?",
       "questionAudio": "q010.mp3",
-      "answer": "I usually wake up around six thirty.",
+      "answer": "It should land around eleven at night, local time.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "What month were you born in?",
+      "question": "That's a late arrival. What time zone is your destination in?",
       "questionAudio": "q011.mp3",
-      "answer": "I was born in the month of March.",
+      "answer": "It's Pacific Time, so a few hours behind us.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "What time does the restaurant close?",
+      "question": "Got it, I'll keep that in mind when I text you later.",
       "questionAudio": "q012.mp3",
-      "answer": "It closes at eleven at night.",
+      "answer": "Thanks, I'll probably be pretty tired by the time I land.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "What's the date of your birthday this year?",
+      "question": "What time does the restaurant open for the reservation?",
       "questionAudio": "q013.mp3",
-      "answer": "My birthday falls on a Sunday this year.",
+      "answer": "It opens at nine thirty in the morning for brunch.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "What time should I pick you up?",
+      "question": "What time did you actually book the table for?",
       "questionAudio": "q014.mp3",
-      "answer": "Anytime after five would work great.",
+      "answer": "I booked it for eleven fifteen, so we're not rushing.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "What time is the appointment scheduled for?",
+      "question": "Perfect. What day is that again, this Sunday?",
       "questionAudio": "q015.mp3",
-      "answer": "It's scheduled for two thirty in the afternoon.",
+      "answer": "Yes, it's this coming Sunday, the date works well for everyone.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "What day did you say the package would arrive?",
+      "question": "Good, and what time does the place usually close on Sundays?",
       "questionAudio": "q016.mp3",
-      "answer": "It should arrive by next Tuesday.",
+      "answer": "It closes at three on Sundays, earlier than the rest of the week.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "What time does the gym open on weekends?",
+      "question": "Okay, so we have plenty of time between eleven and three then.",
       "questionAudio": "q017.mp3",
-      "answer": "On weekends, it opens at eight.",
+      "answer": "Exactly, no need to rush through brunch at all.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "What year was this building built?",
+      "question": "What time should everyone plan to arrive by, then?",
       "questionAudio": "q018.mp3",
-      "answer": "It was built back in nineteen eighty-two.",
+      "answer": "Let's say everyone gets there by eleven o'clock at the latest.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "What time do we need to check out by?",
+      "question": "Sounds good, I'll send that time out to the group now.",
       "questionAudio": "q019.mp3",
-      "answer": "Checkout is by eleven in the morning.",
+      "answer": "Perfect, I think everyone's going to love this place.",
       "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "What time does the concert doors open?",
-      "questionAudio": "q020.mp3",
-      "answer": "Doors open at six, show starts at eight.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "What day is the trash normally picked up?",
-      "questionAudio": "q021.mp3",
-      "answer": "It's usually picked up every Monday.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "What time did you get home last night?",
-      "questionAudio": "q022.mp3",
-      "answer": "I got home around midnight, honestly.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "What date does the semester officially start?",
-      "questionAudio": "q023.mp3",
-      "answer": "It starts on September fourth.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "What time is sunrise tomorrow?",
-      "questionAudio": "q024.mp3",
-      "answer": "Sunrise should be around six twenty.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "What year did that company get founded?",
-      "questionAudio": "q025.mp3",
-      "answer": "It was founded back in two thousand five.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "What time does your shift start today?",
-      "questionAudio": "q026.mp3",
-      "answer": "My shift starts at noon today.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "What day does the sale end?",
-      "questionAudio": "q027.mp3",
-      "answer": "The sale ends this Sunday.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "What time zone does the meeting use?",
-      "questionAudio": "q028.mp3",
-      "answer": "It's set to Pacific Time.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "What's the exact time the ceremony begins?",
-      "questionAudio": "q029.mp3",
-      "answer": "It begins at precisely four o'clock.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "What date did you move into this place?",
-      "questionAudio": "q030.mp3",
-      "answer": "I moved in on the first of June.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "What time do the kids usually get home?",
-      "questionAudio": "q031.mp3",
-      "answer": "They're usually home by four thirty.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "What day does the library close for the holiday?",
-      "questionAudio": "q032.mp3",
-      "answer": "It's closed this coming Friday.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "What time should the cake be ready by?",
-      "questionAudio": "q033.mp3",
-      "answer": "It needs to be ready by noon.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "What year did you two get married?",
-      "questionAudio": "q034.mp3",
-      "answer": "We got married in twenty seventeen.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "What time does daylight saving start this year?",
-      "questionAudio": "q035.mp3",
-      "answer": "It starts on the second Sunday of March.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "What time do you close up the shop?",
-      "questionAudio": "q036.mp3",
-      "answer": "We close up around nine at night.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "What date is the final exam scheduled for?",
-      "questionAudio": "q037.mp3",
-      "answer": "It's scheduled for December twelfth.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "What time does the train usually arrive?",
-      "questionAudio": "q038.mp3",
-      "answer": "It usually arrives around eight fifteen.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "What day did the announcement come out?",
-      "questionAudio": "q039.mp3",
-      "answer": "It came out this past Wednesday.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

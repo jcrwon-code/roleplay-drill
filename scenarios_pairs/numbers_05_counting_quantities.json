@@ -2,244 +2,142 @@
   "name": "numbers_05_counting_quantities",
   "turns": [
     {
-      "question": "How many do you need?",
+      "question": "How many people are coming to the party this weekend?",
       "questionAudio": "q000.mp3",
-      "answer": "I need about six of them.",
+      "answer": "Around twenty people, give or take.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "How many people are coming to the party?",
+      "question": "Okay, so how many chairs do we need to set up for that?",
       "questionAudio": "q001.mp3",
-      "answer": "Around twenty people, give or take.",
+      "answer": "We'll need about thirty chairs total, to be safe.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "How many boxes are left in the storage room?",
+      "question": "And how many bottles of water should we bring along?",
       "questionAudio": "q002.mp3",
-      "answer": "There are about fifteen boxes left.",
+      "answer": "Let's bring a case, that's twenty-four bottles.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "How many apples did you buy?",
+      "question": "Is that going to be enough for everyone, do you think?",
       "questionAudio": "q003.mp3",
-      "answer": "I picked up a dozen apples.",
+      "answer": "It should be, plus we'll have other drinks too.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "How many chairs do we need to set up?",
+      "question": "Good point. How many pizzas should we order then?",
       "questionAudio": "q004.mp3",
-      "answer": "We'll need about thirty chairs total.",
+      "answer": "Probably six pizzas, that should cover everyone easily.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "How many bottles of water should we bring?",
+      "question": "How many slices does one pizza usually have?",
       "questionAudio": "q005.mp3",
-      "answer": "Let's bring a case, that's twenty-four bottles.",
+      "answer": "Usually eight slices per pizza, so that's forty-eight total.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "How many pages is the report?",
+      "question": "That sounds like plenty for twenty guests.",
       "questionAudio": "q006.mp3",
-      "answer": "It's about forty-two pages long.",
+      "answer": "Yeah, we should even have a few slices left over.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "How many students are in your class?",
+      "question": "How many candles do we still need to buy for the cake?",
       "questionAudio": "q007.mp3",
-      "answer": "There are twenty-eight students this year.",
+      "answer": "We still need about ten more candles, I think.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "How many slices does one pizza have?",
+      "question": "Alright, I'll grab those on my way home tonight.",
       "questionAudio": "q008.mp3",
-      "answer": "Usually eight slices per pizza.",
+      "answer": "Thanks, that'll save us a trip tomorrow.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "How many days until the deadline?",
+      "question": "How many students are in your class this year?",
       "questionAudio": "q009.mp3",
-      "answer": "There are about nine days left.",
+      "answer": "There are twenty-eight students this year, a full class.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "How many guests should we plan for?",
+      "question": "That's a lot to manage. How many hours do you usually work a week?",
       "questionAudio": "q010.mp3",
-      "answer": "Let's plan for around fifty guests.",
+      "answer": "Probably around forty-five hours, sometimes more.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "How many books did you read this year?",
+      "question": "Wow, how many of those hours are actual teaching time?",
       "questionAudio": "q011.mp3",
-      "answer": "I've read about fourteen books so far.",
+      "answer": "Only about twenty-five hours are in the classroom itself.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "How many miles is the drive from here?",
+      "question": "So the rest is grading and planning, I assume?",
       "questionAudio": "q012.mp3",
-      "answer": "It's roughly two hundred miles.",
+      "answer": "Exactly, plus meetings, which eat up more time than people think.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "How many emails are in your inbox right now?",
+      "question": "How many meetings do you usually have in a week?",
       "questionAudio": "q013.mp3",
-      "answer": "Honestly, over two hundred, unread.",
+      "answer": "I've got about six meetings most weeks, unfortunately.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "How many tickets do you need for the show?",
+      "question": "That sounds exhausting. How many years have you been teaching now?",
       "questionAudio": "q014.mp3",
-      "answer": "We need four tickets total.",
+      "answer": "I've been teaching for about seven years now.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "How many rooms does the house have?",
+      "question": "Do you think you'll keep going for many more?",
       "questionAudio": "q015.mp3",
-      "answer": "It has five rooms, not counting the bathroom.",
+      "answer": "Probably, I still really love it most days.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "How many years have you worked here?",
+      "question": "How many boxes are left in the storage room?",
       "questionAudio": "q016.mp3",
-      "answer": "I've been here for about seven years.",
+      "answer": "There are about fifteen boxes left to sort through.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "How many cups of coffee do you drink a day?",
+      "question": "How many of those are labeled versus unlabeled?",
       "questionAudio": "q017.mp3",
-      "answer": "Probably three cups, if I'm honest.",
+      "answer": "Maybe nine are labeled, the other six are a mystery.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "How many photos did you take on the trip?",
+      "question": "How many days do you think it'll take to sort through everything?",
       "questionAudio": "q018.mp3",
-      "answer": "I think close to three hundred photos.",
+      "answer": "Probably about four days, if I work on it steadily.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "How many steps does it take to get there?",
+      "question": "How many people do you have helping you with it?",
       "questionAudio": "q019.mp3",
-      "answer": "About twenty steps from the front door.",
+      "answer": "Just two other people, so it's slow going.",
       "answerAudio": "a019.mp3"
     },
     {
-      "question": "How many people signed up for the event?",
+      "question": "Would it help if I sent over a couple more?",
       "questionAudio": "q020.mp3",
-      "answer": "So far, about sixty people have signed up.",
+      "answer": "That would help a lot, even one more person would speed things up.",
       "answerAudio": "a020.mp3"
     },
     {
-      "question": "How many hours did you sleep last night?",
+      "question": "How many do you think we'd need total to finish by Friday?",
       "questionAudio": "q021.mp3",
-      "answer": "Only about five hours, unfortunately.",
+      "answer": "Probably five people working together could finish it by then.",
       "answerAudio": "a021.mp3"
     },
     {
-      "question": "How many songs are on the playlist?",
+      "question": "Alright, I'll see how many I can pull from the other team.",
       "questionAudio": "q022.mp3",
-      "answer": "There are around forty songs on it.",
+      "answer": "I really appreciate that, it would make a huge difference.",
       "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "How many times have you seen that movie?",
-      "questionAudio": "q023.mp3",
-      "answer": "Probably five or six times by now.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "How many packages are we expecting today?",
-      "questionAudio": "q024.mp3",
-      "answer": "We're expecting three packages today.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "How many languages do you speak?",
-      "questionAudio": "q025.mp3",
-      "answer": "I speak three languages fluently.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "How many miles do you run each week?",
-      "questionAudio": "q026.mp3",
-      "answer": "I usually run about fifteen miles a week.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "How many attempts did it take to fix it?",
-      "questionAudio": "q027.mp3",
-      "answer": "It took about four attempts, honestly.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "How many members are on the team?",
-      "questionAudio": "q028.mp3",
-      "answer": "There are nine members on the team.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "How many candles are on the cake?",
-      "questionAudio": "q029.mp3",
-      "answer": "There are thirty candles on it.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "How many cars does your family own?",
-      "questionAudio": "q030.mp3",
-      "answer": "We own two cars right now.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "How many chapters are left in the book?",
-      "questionAudio": "q031.mp3",
-      "answer": "Only three chapters left to go.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "How many times a week do you go to the gym?",
-      "questionAudio": "q032.mp3",
-      "answer": "I go about four times a week.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "How many countries have you visited?",
-      "questionAudio": "q033.mp3",
-      "answer": "I've visited around twelve countries so far.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "How many meetings do you have today?",
-      "questionAudio": "q034.mp3",
-      "answer": "I've got six meetings today, unfortunately.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "How many pets do you have at home?",
-      "questionAudio": "q035.mp3",
-      "answer": "We have two dogs and one cat.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "How many candles do we still need to buy?",
-      "questionAudio": "q036.mp3",
-      "answer": "We still need about ten more candles.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "How many kilometers is the marathon?",
-      "questionAudio": "q037.mp3",
-      "answer": "A marathon is about forty-two kilometers.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "How many seats are left for the flight?",
-      "questionAudio": "q038.mp3",
-      "answer": "There are only seven seats left.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "How many likes did the post get?",
-      "questionAudio": "q039.mp3",
-      "answer": "It got over five hundred likes.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

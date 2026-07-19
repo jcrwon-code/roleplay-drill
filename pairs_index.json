@@ -118,9 +118,5 @@
   {
     "name": "starbucks_10_leaving",
     "file": "scenarios_pairs/starbucks_10_leaving.json"
-  },
-  {
-    "name": "weekend_plans_test",
-    "file": "scenarios_pairs/weekend_plans_test.json"
   }
 ]

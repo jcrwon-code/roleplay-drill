@@ -2,183 +2,183 @@
   "name": "greetings_01_first_meeting",
   "turns": [
     {
-      "question": "Hi, I don't think we've met. I'm Sarah.",
+      "question": "Hi, I don't think we've met yet. I'm Alex.",
       "questionAudio": "q000.mp3",
-      "answer": "Oh, nice to meet you, Sarah. I'm Alex.",
+      "answer": "Nice to meet you, Alex. I'm Priya -- I just started last week.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Nice to meet you! How do you know Jake?",
+      "question": "Oh, welcome! How's your first week been so far?",
       "questionAudio": "q001.mp3",
-      "answer": "We actually went to college together.",
+      "answer": "Pretty overwhelming, honestly, but everyone's been really friendly.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "So, what do you do?",
+      "question": "That's good to hear. Which team are you on?",
       "questionAudio": "q002.mp3",
-      "answer": "I work in marketing, over at a small agency downtown.",
+      "answer": "I'm on the design team, working mostly with Sam and Jordan.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Where are you from originally?",
+      "question": "Oh nice, I know Sam from a project last year. How do you like design so far?",
       "questionAudio": "q003.mp3",
-      "answer": "I grew up in Chicago, but I've been here for a few years now.",
+      "answer": "I love it -- it's exactly what I wanted to do after school.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "How long have you lived around here?",
+      "question": "That's great. Did you study design in college?",
       "questionAudio": "q004.mp3",
-      "answer": "About three years now, it still feels kind of new.",
+      "answer": "Yeah, I majored in graphic design at a school upstate.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "This is my first time at one of these events, is it always like this?",
+      "question": "Is that where you're from originally, or did you move for school?",
       "questionAudio": "q005.mp3",
-      "answer": "Pretty much, yeah -- lots of small talk and free snacks.",
+      "answer": "I actually grew up a couple hours from there, so it wasn't too far.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "I love your jacket, by the way. Where'd you get it?",
+      "question": "Gotcha. And where are you living now that you're here?",
       "questionAudio": "q006.mp3",
-      "answer": "Thanks! Honestly, I found it at a thrift store.",
+      "answer": "I found a place downtown, close enough to walk to work.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "Have we met before? You look familiar.",
+      "question": "That's convenient. Do you like the neighborhood so far?",
       "questionAudio": "q007.mp3",
-      "answer": "I don't think so, but maybe we've crossed paths somewhere.",
+      "answer": "I do, there are a lot of good coffee shops nearby.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "What brings you here tonight?",
+      "question": "That's exactly what I look for too. Any favorites yet?",
       "questionAudio": "q008.mp3",
-      "answer": "A friend invited me, I didn't really know anyone else coming.",
+      "answer": "Not yet, I've only tried the one on the corner near my building.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "Do you live nearby?",
+      "question": "You'll have to let me recommend a few once you settle in.",
       "questionAudio": "q009.mp3",
-      "answer": "Yeah, just a couple blocks from here, actually.",
+      "answer": "I'd love that, thanks -- it's nice meeting someone so welcoming already.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "So how do you two know each other?",
+      "question": "Excuse me, are you Daniel? Jake told me I should introduce myself.",
       "questionAudio": "q010.mp3",
-      "answer": "We used to work at the same company a few years back.",
+      "answer": "Yes, that's me -- and you must be the friend from his college days.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "It's great to finally put a face to the name.",
+      "question": "Guilty as charged. I'm Mia, by the way.",
       "questionAudio": "q011.mp3",
-      "answer": "Same here, I've heard so much about you.",
+      "answer": "Nice to finally put a face to the name, Mia. He talks about you a lot.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "Are you new to the city?",
+      "question": "All good things, I hope.",
       "questionAudio": "q012.mp3",
-      "answer": "Kind of, I moved here about six months ago.",
+      "answer": "Mostly, yeah -- mainly stories about your road trip a few summers back.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "What made you decide to move here?",
+      "question": "Oh no, did he tell you about the flat tire in the middle of nowhere?",
       "questionAudio": "q013.mp3",
-      "answer": "Mostly for work, but I'd wanted to for a while anyway.",
+      "answer": "He did, actually -- said you two were stranded for almost four hours.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "I like your accent, where are you from?",
+      "question": "It felt like forty. So, how do you know Jake?",
       "questionAudio": "q014.mp3",
-      "answer": "I'm originally from Australia, but I've lived a few places since.",
+      "answer": "We were roommates our senior year, then stayed close after graduating.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "Hi, I don't believe we've been introduced.",
+      "question": "That's great that it lasted. Do you two still live in the same city?",
       "questionAudio": "q015.mp3",
-      "answer": "No, I don't think so either -- I'm Mia.",
+      "answer": "No, actually, he moved for work and I stayed behind, but we visit often.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "How's your night going so far?",
+      "question": "That's nice you've kept it up despite the distance.",
       "questionAudio": "q016.mp3",
-      "answer": "Pretty good, just getting to know some new faces.",
+      "answer": "It helps that he comes back for these parties every year.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "Is this your first time meeting everyone here?",
+      "question": "Speaking of which, is this your first time at one of his get-togethers?",
       "questionAudio": "q017.mp3",
-      "answer": "Yeah, I'm a bit of an outsider tonight.",
+      "answer": "No, my third one actually -- I try not to miss them if I can help it.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "What line of work are you in?",
+      "question": "I can see why, the food alone is worth the trip.",
       "questionAudio": "q018.mp3",
-      "answer": "I'm a nurse, actually, over at the downtown hospital.",
+      "answer": "Right? He always goes way overboard with the appetizers.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "So how do you know the host?",
+      "question": "Well, it was great officially meeting you, Mia.",
       "questionAudio": "q019.mp3",
-      "answer": "She's my cousin, actually, we grew up together.",
+      "answer": "You too, Daniel -- I'm sure Jake will fill me in on everything else later.",
       "answerAudio": "a019.mp3"
     },
     {
-      "question": "Do you come to these meetups often?",
+      "question": "Hey, I don't think we've officially met. I'm Noah, I live upstairs.",
       "questionAudio": "q020.mp3",
-      "answer": "This is actually my first one, so I'm still figuring it out.",
+      "answer": "Oh, hi Noah, I'm Grace -- I just moved into 4B a couple weeks ago.",
       "answerAudio": "a020.mp3"
     },
     {
-      "question": "I feel like I've seen you around before.",
+      "question": "Welcome to the building! How's the move-in going?",
       "questionAudio": "q021.mp3",
-      "answer": "Maybe! I'm around this neighborhood a lot.",
+      "answer": "Slowly, there are still boxes everywhere, but it's coming together.",
       "answerAudio": "a021.mp3"
     },
     {
-      "question": "Can I ask what your name is again? Sorry, I forgot.",
+      "question": "That's how it always goes. Where were you living before this?",
       "questionAudio": "q022.mp3",
-      "answer": "No worries, it's Daniel.",
+      "answer": "I was renting a studio across town, but I needed more space.",
       "answerAudio": "a022.mp3"
     },
     {
-      "question": "What do you like to do outside of work?",
+      "question": "Makes sense. Is it just you, or do you have a roommate?",
       "questionAudio": "q023.mp3",
-      "answer": "I'm really into hiking and photography lately.",
+      "answer": "Just me for now, though my sister might move in later this year.",
       "answerAudio": "a023.mp3"
     },
     {
-      "question": "How did you two end up meeting?",
+      "question": "Nice, having family close by is always good.",
       "questionAudio": "q024.mp3",
-      "answer": "Actually, through a mutual friend at a birthday party.",
+      "answer": "Yeah, especially since I don't know many people in this neighborhood yet.",
       "answerAudio": "a024.mp3"
     },
     {
-      "question": "Are you from around here originally?",
+      "question": "Well, you picked a pretty friendly building, if I do say so myself.",
       "questionAudio": "q025.mp3",
-      "answer": "Not really, I actually grew up a few states away.",
+      "answer": "Good to know -- honestly, that's a relief to hear.",
       "answerAudio": "a025.mp3"
     },
     {
-      "question": "It's nice to finally meet you in person.",
+      "question": "If you ever need anything, or just want to know a good spot to eat, let me know.",
       "questionAudio": "q026.mp3",
-      "answer": "You too, we've only ever talked over email.",
+      "answer": "I might take you up on that, actually -- I haven't explored much yet.",
       "answerAudio": "a026.mp3"
     },
     {
-      "question": "What's your connection to this place?",
+      "question": "There's a great little diner two blocks down, best pancakes around.",
       "questionAudio": "q027.mp3",
-      "answer": "My roommate works here, so I come by pretty often.",
+      "answer": "Now that's the kind of tip I was hoping for.",
       "answerAudio": "a027.mp3"
     },
     {
-      "question": "Have you been to one of these gatherings before?",
+      "question": "I'll write down the name for you before I head back up.",
       "questionAudio": "q028.mp3",
-      "answer": "A couple times, but it's still a bit new to me.",
+      "answer": "Thanks, Noah -- that's really kind of you.",
       "answerAudio": "a028.mp3"
     },
     {
-      "question": "So what should I know about you?",
+      "question": "No problem at all. Welcome to the building again, Grace.",
       "questionAudio": "q029.mp3",
-      "answer": "Not much, really -- I'm pretty easygoing, I guess.",
+      "answer": "Thanks so much, I'm glad we finally ran into each other.",
       "answerAudio": "a029.mp3"
     }
   ]

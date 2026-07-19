@@ -8,238 +8,112 @@
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Will that be cash or card?",
+      "question": "Do you have a rewards account with us?",
       "questionAudio": "q001.mp3",
-      "answer": "Card, please, thank you.",
+      "answer": "Yes, I do, let me pull it up on my phone.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "Would you like to use the app to pay?",
+      "question": "Perfect, go ahead and scan whenever you're ready.",
       "questionAudio": "q002.mp3",
-      "answer": "Yes, I'll scan my app for this.",
+      "answer": "Got it, done, thanks for reminding me.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Do you have a rewards account with us?",
+      "question": "Would you like to add a tip today as well?",
       "questionAudio": "q003.mp3",
-      "answer": "Yes, I do, let me pull it up.",
+      "answer": "Sure, I'll add a small tip.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "Would you like to add a tip today?",
+      "question": "Would you like a receipt for this purchase?",
       "questionAudio": "q004.mp3",
-      "answer": "Sure, I'll add a small tip.",
+      "answer": "Yes, please, I'll need it for work.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "Do you want to load your gift card first?",
+      "question": "Would you like that emailed instead of printed?",
       "questionAudio": "q005.mp3",
-      "answer": "Yes, please, add twenty dollars to it.",
+      "answer": "Yes, please, that works better for me.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "Will you be paying with your phone today?",
+      "question": "Perfect, I'll send that over to your email now.",
       "questionAudio": "q006.mp3",
-      "answer": "Yes, I'll tap my phone, thanks.",
+      "answer": "Thank you so much, I appreciate it.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "Would you like a receipt for this purchase?",
+      "question": "Will that be cash or card today?",
       "questionAudio": "q007.mp3",
-      "answer": "Yes, please, I'll need it for work.",
+      "answer": "Card, please, thank you.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "Do you have a promo code to apply?",
+      "question": "Do you have a promo code to apply to this order?",
       "questionAudio": "q008.mp3",
-      "answer": "Yes, actually, let me pull it up.",
+      "answer": "Yes, actually, let me pull it up real quick.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "Would you like to split the payment?",
+      "question": "No rush, take your time finding it.",
       "questionAudio": "q009.mp3",
-      "answer": "No, I'll just pay for everything myself.",
+      "answer": "Found it, sorry about that, here it is.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "Do you want to redeem your stars for this order?",
+      "question": "Perfect, that brings your total down quite a bit.",
       "questionAudio": "q010.mp3",
-      "answer": "Yes, please, use my stars if I have enough.",
+      "answer": "That's great, thank you for applying it.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "Will that be one transaction or two?",
+      "question": "Would you like to round up the total for charity?",
       "questionAudio": "q011.mp3",
-      "answer": "Just one transaction is fine, thanks.",
+      "answer": "Sure, I'll round up, that's fine with me.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "Would you like to save this card for next time?",
+      "question": "Thank you, that's really generous of you.",
       "questionAudio": "q012.mp3",
-      "answer": "Sure, go ahead and save it.",
+      "answer": "Happy to do it, it's a small thing really.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "Do you have a coupon for this order?",
+      "question": "Do you want to redeem your stars for this order?",
       "questionAudio": "q013.mp3",
-      "answer": "Yes, I do, here it is.",
+      "answer": "Yes, please, use my stars if I have enough.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "Would you like your total broken down for you?",
+      "question": "Looks like you have just enough for a free drink upgrade.",
       "questionAudio": "q014.mp3",
-      "answer": "Sure, that would be helpful, thanks.",
+      "answer": "That's perfect timing then, please go ahead.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "Do you want to check your balance first?",
+      "question": "Would you like to use your birthday reward today too?",
       "questionAudio": "q015.mp3",
-      "answer": "Yes, please, before I decide how to pay.",
+      "answer": "Yes, I completely forgot, thank you for reminding me.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "Will you be using a company card today?",
+      "question": "Of course, happy birthday, by the way!",
       "questionAudio": "q016.mp3",
-      "answer": "Yes, this is a business expense.",
+      "answer": "Thank you so much, that's very kind of you.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "Would you like to round up for charity?",
+      "question": "Would you like your points applied automatically going forward?",
       "questionAudio": "q017.mp3",
-      "answer": "Sure, I'll round up, that's fine.",
+      "answer": "Yes, please, apply them automatically from now on.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "Do you want the receipt emailed instead?",
+      "question": "Perfect, I've updated your account settings for that.",
       "questionAudio": "q018.mp3",
-      "answer": "Yes, please, that works better for me.",
+      "answer": "Thank you, that'll make things easier next time.",
       "answerAudio": "a018.mp3"
-    },
-    {
-      "question": "Will that go on your gift card balance?",
-      "questionAudio": "q019.mp3",
-      "answer": "Yes, please, use the gift card first.",
-      "answerAudio": "a019.mp3"
-    },
-    {
-      "question": "Would you like to enroll in rewards today?",
-      "questionAudio": "q020.mp3",
-      "answer": "Sure, I'll sign up right now.",
-      "answerAudio": "a020.mp3"
-    },
-    {
-      "question": "Do you have your loyalty number handy?",
-      "questionAudio": "q021.mp3",
-      "answer": "Yes, it's linked to my phone number.",
-      "answerAudio": "a021.mp3"
-    },
-    {
-      "question": "Would you like to pay with Apple Pay?",
-      "questionAudio": "q022.mp3",
-      "answer": "Yes, that works great for me.",
-      "answerAudio": "a022.mp3"
-    },
-    {
-      "question": "Do you want your change in cash or store credit?",
-      "questionAudio": "q023.mp3",
-      "answer": "Cash is fine, thank you.",
-      "answerAudio": "a023.mp3"
-    },
-    {
-      "question": "Will that be contactless or insert today?",
-      "questionAudio": "q024.mp3",
-      "answer": "Contactless, please, thanks.",
-      "answerAudio": "a024.mp3"
-    },
-    {
-      "question": "Would you like to combine both orders into one payment?",
-      "questionAudio": "q025.mp3",
-      "answer": "Yes, please, one payment is easier.",
-      "answerAudio": "a025.mp3"
-    },
-    {
-      "question": "Do you want to check out as a guest today?",
-      "questionAudio": "q026.mp3",
-      "answer": "Yes, guest checkout works for me.",
-      "answerAudio": "a026.mp3"
-    },
-    {
-      "question": "Would you like to use your birthday reward today?",
-      "questionAudio": "q027.mp3",
-      "answer": "Yes, I completely forgot, thank you for reminding me.",
-      "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "Do you have any stars expiring soon?",
-      "questionAudio": "q028.mp3",
-      "answer": "Yes, actually, I'd like to use them now.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "Will that be split evenly between the two of you?",
-      "questionAudio": "q029.mp3",
-      "answer": "Yes, please, split it fifty-fifty.",
-      "answerAudio": "a029.mp3"
-    },
-    {
-      "question": "Would you like a paper receipt or digital one?",
-      "questionAudio": "q030.mp3",
-      "answer": "Digital is fine, thank you.",
-      "answerAudio": "a030.mp3"
-    },
-    {
-      "question": "Do you want to add funds to your card now?",
-      "questionAudio": "q031.mp3",
-      "answer": "Yes, please, add another twenty dollars.",
-      "answerAudio": "a031.mp3"
-    },
-    {
-      "question": "Will this transaction be under your account?",
-      "questionAudio": "q032.mp3",
-      "answer": "Yes, please, charge it to my account.",
-      "answerAudio": "a032.mp3"
-    },
-    {
-      "question": "Would you like to use a different card this time?",
-      "questionAudio": "q033.mp3",
-      "answer": "Yes, let me switch to my other card.",
-      "answerAudio": "a033.mp3"
-    },
-    {
-      "question": "Do you want your points applied automatically?",
-      "questionAudio": "q034.mp3",
-      "answer": "Yes, please, apply them automatically.",
-      "answerAudio": "a034.mp3"
-    },
-    {
-      "question": "Would you like to check out using the kiosk instead?",
-      "questionAudio": "q035.mp3",
-      "answer": "Sure, I'll use the kiosk, thanks.",
-      "answerAudio": "a035.mp3"
-    },
-    {
-      "question": "Do you have any store credit on file?",
-      "questionAudio": "q036.mp3",
-      "answer": "Yes, I believe I do, let's check.",
-      "answerAudio": "a036.mp3"
-    },
-    {
-      "question": "Will that be one card for both drinks?",
-      "questionAudio": "q037.mp3",
-      "answer": "Yes, just charge it all together.",
-      "answerAudio": "a037.mp3"
-    },
-    {
-      "question": "Would you like your total sent to your email?",
-      "questionAudio": "q038.mp3",
-      "answer": "Yes, please, that would be great.",
-      "answerAudio": "a038.mp3"
-    },
-    {
-      "question": "Do you want to finish the payment now or later?",
-      "questionAudio": "q039.mp3",
-      "answer": "Now is fine, let's finish it up.",
-      "answerAudio": "a039.mp3"
     }
   ]
 }

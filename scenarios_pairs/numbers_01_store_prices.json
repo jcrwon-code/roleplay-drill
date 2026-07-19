@@ -2,184 +2,172 @@
   "name": "numbers_01_store_prices",
   "turns": [
     {
-      "question": "How much is this one?",
+      "question": "Excuse me, how much is this jacket?",
       "questionAudio": "q000.mp3",
-      "answer": "That one's twelve fifty.",
+      "answer": "That one's marked at eighty-nine dollars.",
       "answerAudio": "a000.mp3"
     },
     {
-      "question": "Can you tell me the price on this?",
+      "question": "Is it on sale at all, or is that the regular price?",
       "questionAudio": "q001.mp3",
-      "answer": "Sure, it's twenty-nine ninety-nine.",
+      "answer": "Yes, actually, it's fifteen dollars off, so it comes to seventy-four.",
       "answerAudio": "a001.mp3"
     },
     {
-      "question": "What does this cost?",
+      "question": "Nice, that's a good discount. What about this scarf next to it?",
       "questionAudio": "q002.mp3",
-      "answer": "It's forty-five dollars, before tax.",
+      "answer": "The scarf is twelve fifty on its own.",
       "answerAudio": "a002.mp3"
     },
     {
-      "question": "Do you know how much this jacket is?",
+      "question": "Would you get a better deal buying the jacket and scarf together?",
       "questionAudio": "q003.mp3",
-      "answer": "Yeah, it's marked at eighty-nine dollars.",
+      "answer": "Yeah, as a set they come to eighty dollars even.",
       "answerAudio": "a003.mp3"
     },
     {
-      "question": "How much for the whole set?",
+      "question": "That's a solid deal. Does that price already include tax?",
       "questionAudio": "q004.mp3",
-      "answer": "The whole set comes to one hundred and twenty.",
+      "answer": "No, tax gets added at checkout, so with tax it's about eighty-six.",
       "answerAudio": "a004.mp3"
     },
     {
-      "question": "Is this on sale, and if so, how much?",
+      "question": "Got it. And how much would shipping add if I have it delivered?",
       "questionAudio": "q005.mp3",
-      "answer": "Yes, it's fifteen dollars off, so thirty-four now.",
+      "answer": "Shipping would add another six ninety-nine on top.",
       "answerAudio": "a005.mp3"
     },
     {
-      "question": "What's the total for everything in my cart?",
+      "question": "I think I'll just carry it home then, that's fine.",
       "questionAudio": "q006.mp3",
-      "answer": "Your total comes to sixty-seven eighty.",
+      "answer": "Sounds good, I'll ring that up for you now.",
       "answerAudio": "a006.mp3"
     },
     {
-      "question": "Excuse me, how much are these shoes?",
+      "question": "Actually, how much do I owe you for everything together?",
       "questionAudio": "q007.mp3",
-      "answer": "Those are seventy-five dollars a pair.",
+      "answer": "All together, it comes to eighty-six dollars even.",
       "answerAudio": "a007.mp3"
     },
     {
-      "question": "How much does shipping cost on top of this?",
+      "question": "Do you take cards, or is it cash only here?",
       "questionAudio": "q008.mp3",
-      "answer": "Shipping adds another six ninety-nine.",
+      "answer": "We take cards, whichever is easier for you.",
       "answerAudio": "a008.mp3"
     },
     {
-      "question": "What's the price difference between these two?",
+      "question": "Great, I'll just use my card then, thank you.",
       "questionAudio": "q009.mp3",
-      "answer": "This one's about ten dollars more.",
+      "answer": "Perfect, let me get that processed for you right now.",
       "answerAudio": "a009.mp3"
     },
     {
-      "question": "Could you check the price for me? I don't see a tag.",
+      "question": "Hi, could you check the price on these shoes for me? I don't see a tag.",
       "questionAudio": "q010.mp3",
-      "answer": "Sure, let me check -- it's eighteen fifty.",
+      "answer": "Sure, let me check -- those are seventy-five dollars a pair.",
       "answerAudio": "a010.mp3"
     },
     {
-      "question": "How much would three of these cost together?",
+      "question": "Is there a discount if I buy two pairs instead of one?",
       "questionAudio": "q011.mp3",
-      "answer": "Three of those would be thirty-six dollars.",
+      "answer": "Yes, actually, two pairs brings it down to sixty-five each.",
       "answerAudio": "a011.mp3"
     },
     {
-      "question": "What's the price after the discount?",
+      "question": "That's a nice savings. What's the price difference between this pair and the one over there?",
       "questionAudio": "q012.mp3",
-      "answer": "After the discount, it's twenty-two dollars.",
+      "answer": "This one's about ten dollars more than that other pair.",
       "answerAudio": "a012.mp3"
     },
     {
-      "question": "How much is it with tax included?",
+      "question": "Okay, I think I'll just get the two pairs of these then.",
       "questionAudio": "q013.mp3",
-      "answer": "With tax, it comes to fifty-three twenty.",
+      "answer": "Great choice, that'll come to one hundred thirty for both.",
       "answerAudio": "a013.mp3"
     },
     {
-      "question": "Do you know the price per pound?",
+      "question": "Is there a price break if I add a third pair too?",
       "questionAudio": "q014.mp3",
-      "answer": "It's four ninety-nine per pound.",
+      "answer": "Actually yes, three or more brings each pair down to sixty.",
       "answerAudio": "a014.mp3"
     },
     {
-      "question": "How much is a small versus a large?",
+      "question": "Oh, that changes things. Let's do three pairs then.",
       "questionAudio": "q015.mp3",
-      "answer": "The small is five dollars, the large is eight.",
+      "answer": "Perfect, three pairs comes to one hundred eighty total.",
       "answerAudio": "a015.mp3"
     },
     {
-      "question": "What's the damage on this whole order?",
+      "question": "What's the total with tax included on that?",
       "questionAudio": "q016.mp3",
-      "answer": "All together, it's ninety-four fifty.",
+      "answer": "With tax, it comes out to about one ninety-five.",
       "answerAudio": "a016.mp3"
     },
     {
-      "question": "How much do I owe you for all of this?",
+      "question": "That works for me. Do you know the price per pound on the bags too, in case I need one?",
       "questionAudio": "q017.mp3",
-      "answer": "You owe forty-one dollars even.",
+      "answer": "The bags aren't sold by weight, they're just three dollars each.",
       "answerAudio": "a017.mp3"
     },
     {
-      "question": "Is there a price break if I buy in bulk?",
+      "question": "I'll take one bag as well then, thanks.",
       "questionAudio": "q018.mp3",
-      "answer": "Yeah, ten or more brings it down to three dollars each.",
+      "answer": "No problem, I'll add that to your total right now.",
       "answerAudio": "a018.mp3"
     },
     {
-      "question": "What's this priced at without the discount?",
+      "question": "How much is the whole living room set?",
       "questionAudio": "q019.mp3",
-      "answer": "Without the discount, it's fifty dollars.",
+      "answer": "The whole set comes to one hundred twenty dollars.",
       "answerAudio": "a019.mp3"
     },
     {
-      "question": "How much extra is the express shipping?",
+      "question": "What's the total for everything if I add the lamp too?",
       "questionAudio": "q020.mp3",
-      "answer": "Express shipping is an extra twelve dollars.",
+      "answer": "With the lamp, your total comes to one thirty-four eighty.",
       "answerAudio": "a020.mp3"
     },
     {
-      "question": "How much did you end up paying for that?",
+      "question": "Is there a membership discount I could use here?",
       "questionAudio": "q021.mp3",
-      "answer": "I paid about sixty dollars, all in.",
+      "answer": "Yes, with membership it drops to one twenty-seven fifty.",
       "answerAudio": "a021.mp3"
     },
     {
-      "question": "What's the going rate for something like this?",
+      "question": "How much would express shipping add on top of that?",
       "questionAudio": "q022.mp3",
-      "answer": "Usually around thirty to forty dollars.",
+      "answer": "Express shipping is an extra twelve dollars.",
       "answerAudio": "a022.mp3"
     },
     {
-      "question": "How much more is the deluxe version?",
+      "question": "Okay, and how much do I need to spend for free shipping instead?",
       "questionAudio": "q023.mp3",
-      "answer": "The deluxe version is twenty dollars more.",
+      "answer": "You'd need to spend at least one hundred fifty for that.",
       "answerAudio": "a023.mp3"
     },
     {
-      "question": "Do you remember how much you paid last time?",
+      "question": "I'm already past that, so I should qualify then, right?",
       "questionAudio": "q024.mp3",
-      "answer": "I think it was around forty-five dollars.",
+      "answer": "You're right, that qualifies you for free shipping already.",
       "answerAudio": "a024.mp3"
     },
     {
-      "question": "What's the price with the membership discount?",
+      "question": "Great, that saves me the twelve dollars then.",
       "questionAudio": "q025.mp3",
-      "answer": "With membership, it drops to twenty-seven fifty.",
+      "answer": "Exactly, so your final total is one twenty-seven fifty.",
       "answerAudio": "a025.mp3"
     },
     {
-      "question": "How much would two tickets cost?",
+      "question": "What's the price without the membership discount, just curious?",
       "questionAudio": "q026.mp3",
-      "answer": "Two tickets would be thirty dollars total.",
+      "answer": "Without it, the same order would be one thirty-four eighty.",
       "answerAudio": "a026.mp3"
     },
     {
-      "question": "How much is the deposit up front?",
+      "question": "Good thing I signed up for membership today then.",
       "questionAudio": "q027.mp3",
-      "answer": "The deposit is fifty dollars up front.",
+      "answer": "It really does pay off on bigger orders like this one.",
       "answerAudio": "a027.mp3"
-    },
-    {
-      "question": "What's this go for online versus in-store?",
-      "questionAudio": "q028.mp3",
-      "answer": "Online it's a bit cheaper, around thirty-two dollars.",
-      "answerAudio": "a028.mp3"
-    },
-    {
-      "question": "How much do I need to spend for free shipping?",
-      "questionAudio": "q029.mp3",
-      "answer": "You need to spend at least fifty dollars.",
-      "answerAudio": "a029.mp3"
     }
   ]
 }
