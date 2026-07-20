@@ -14,17 +14,16 @@
 <body>
   <div id="setup">
     <h1>Roleplay Drill</h1>
-    <label for="scenarioSelect">Scenario</label>
-    <select id="scenarioSelect"></select>
 
-    <label>My role in this scenario</label>
+    <label>My role</label>
     <div class="roleToggle">
       <button id="roleAnswerBtn" class="roleBtn active" type="button">I answer (AI asks)</button>
       <button id="roleQuestionBtn" class="roleBtn" type="button">I ask (AI answers)</button>
     </div>
 
-    <button id="startBtn">Start</button>
-    <p class="hint">Allow microphone access when prompted. Works fully offline once loaded.</p>
+    <p class="hint">Tap any scenario below to start. Allow microphone access when prompted. Works fully offline once loaded.</p>
+
+    <div id="scenarioList"></div>
   </div>
 
   <div id="drill" class="hidden">

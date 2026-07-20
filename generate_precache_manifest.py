@@ -11,6 +11,7 @@ EXCLUDE = {"generate_precache_manifest.py", "precache-manifest.json", "sw.js"}
 
 files = []
 for dirpath, dirnames, filenames in os.walk(ROOT):
+    dirnames[:] = [d for d in dirnames if not d.startswith(".")]
     for fn in filenames:
         if fn in EXCLUDE or fn.startswith("."):
             continue

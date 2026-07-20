@@ -1,5 +1,3 @@
-const scenarioSelect = document.getElementById("scenarioSelect");
-const startBtn = document.getElementById("startBtn");
 const stopBtn = document.getElementById("stopBtn");
 const roleAnswerBtn = document.getElementById("roleAnswerBtn");
 const roleQuestionBtn = document.getElementById("roleQuestionBtn");
@@ -8,20 +6,59 @@ const drillEl = document.getElementById("drill");
 const linesListEl = document.getElementById("linesList");
 const statusEl = document.getElementById("statusText");
 const repEl = document.getElementById("repText");
+const scenarioListEl = document.getElementById("scenarioList");
 
 let scenarios = [];
 let myRole = "answer"; // "answer" = I speak the answer lines, AI speaks questions
                         // "question" = I speak the question lines, AI speaks answers
 let stopped = false;
 
+const CATEGORY_LABELS = {
+  greetings: "Greetings",
+  numbers: "Numbers",
+  starbucks: "Starbucks",
+};
+
+function categoryOf(name) {
+  const prefix = name.split("_")[0];
+  return CATEGORY_LABELS[prefix] || prefix;
+}
+
+function titleOf(name) {
+  // "greetings_01_first_meeting" -> "01. First Meeting"
+  const parts = name.split("_");
+  const num = parts[1];
+  const rest = parts.slice(2).join(" ");
+  const titled = rest.replace(/\b\w/g, (c) => c.toUpperCase());
+  return `${num}. ${titled}`;
+}
+
 async function loadScenarioIndex() {
   const res = await fetch("pairs_index.json");
   scenarios = await res.json();
+
+  const groups = new Map();
   for (const s of scenarios) {
-    const opt = document.createElement("option");
-    opt.value = s.file;
-    opt.textContent = s.name;
-    scenarioSelect.appendChild(opt);
+    const cat = categoryOf(s.name);
+    if (!groups.has(cat)) groups.set(cat, []);
+    groups.get(cat).push(s);
+  }
+
+  scenarioListEl.innerHTML = "";
+  for (const [cat, items] of groups) {
+    const heading = document.createElement("h2");
+    heading.className = "categoryHeading";
+    heading.textContent = cat;
+    scenarioListEl.appendChild(heading);
+
+    for (const s of items) {
+      const item = document.createElement("button");
+      item.className = "scenarioItem";
+      item.type = "button";
+      item.textContent = titleOf(s.name);
+      item.addEventListener("click", () => startDrill(s.file));
+      scenarioListEl.appendChild(item);
+    }
   }
 }
 
@@ -211,19 +248,15 @@ async function runScenario(fileName, vad) {
 
 let currentVad = null;
 
-startBtn.addEventListener("click", async () => {
+async function startDrill(fileName) {
   unlockAudio(); // must happen synchronously within the tap, before any await
   stopped = false;
-  startBtn.disabled = true;
-  startBtn.textContent = "Requesting mic...";
 
   const vad = new MicVad();
   try {
     await vad.init();
   } catch (err) {
     alert("Microphone access is required for this drill: " + err.message);
-    startBtn.disabled = false;
-    startBtn.textContent = "Start";
     return;
   }
   currentVad = vad;
@@ -231,12 +264,10 @@ startBtn.addEventListener("click", async () => {
   setupEl.classList.add("hidden");
   drillEl.classList.remove("hidden");
 
-  await runScenario(scenarioSelect.value, vad);
+  await runScenario(fileName, vad);
 
   vad.close();
-  startBtn.disabled = false;
-  startBtn.textContent = "Start";
-});
+}
 
 stopBtn.addEventListener("click", () => {
   stopped = true;

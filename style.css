@@ -5,21 +5,15 @@ html, body {
 body {
   margin: 0;
   font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
-  background: #fafafa;
-  color: #1a1a1a;
-}
-
-#setup {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
+  background: #000;
+  color: #eaeaea;
 }
 
 #setup {
   width: 100%;
   max-width: 640px;
   padding: 32px;
+  padding-bottom: 60px;
   margin: 0 auto;
 }
 
@@ -29,54 +23,80 @@ h1 {
   font-size: 24px;
   font-weight: 600;
   margin-bottom: 24px;
+  color: #fff;
 }
 
 label {
   display: block;
   font-size: 14px;
-  color: #666;
+  color: #888;
   margin-bottom: 6px;
   margin-top: 16px;
 }
 
-select, button {
+button {
   font-size: 16px;
   padding: 10px 14px;
   border-radius: 8px;
-  border: 1px solid #ddd;
-  background: #fff;
+  border: 1px solid #333;
+  background: #111;
+  color: #eaeaea;
 }
 
-select { width: 100%; }
-
 button {
-  background: #1a1a1a;
-  color: #fff;
-  border: none;
   cursor: pointer;
   width: 100%;
-  margin-top: 16px;
 }
 
 button:disabled { opacity: 0.4; cursor: default; }
 
-.hint { color: #999; font-size: 13px; margin-top: 12px; }
+.hint { color: #777; font-size: 13px; margin-top: 12px; margin-bottom: 20px; }
 
 .roleToggle { display: flex; gap: 8px; }
 
 .roleBtn {
   flex: 1;
   margin-top: 0;
-  background: #fff;
-  color: #1a1a1a;
-  border: 1px solid #ddd;
+  background: #111;
+  color: #eaeaea;
+  border: 1px solid #333;
   font-size: 14px;
   padding: 12px 8px;
 }
 
 .roleBtn.active {
-  background: #1a1a1a;
-  color: #fff;
+  background: #fff;
+  color: #000;
+  border-color: #fff;
+}
+
+.categoryHeading {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #666;
+  margin: 28px 0 10px;
+}
+
+.categoryHeading:first-of-type { margin-top: 8px; }
+
+.scenarioItem {
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin-top: 8px;
+  padding: 14px 16px;
+  background: #111;
+  border: 1px solid #262626;
+  border-radius: 10px;
+  color: #eaeaea;
+  font-size: 15px;
+}
+
+.scenarioItem:active {
+  background: #1e1e1e;
+  border-color: #444;
 }
 
 /* Full-screen drill layout: question and answer both always visible,
@@ -100,12 +120,12 @@ button:disabled { opacity: 0.4; cursor: default; }
 
 .status {
   font-size: 15px;
-  color: #888;
+  color: #999;
 }
 
 .rep {
   font-size: 13px;
-  color: #bbb;
+  color: #666;
 }
 
 .linesList {
@@ -121,13 +141,13 @@ button:disabled { opacity: 0.4; cursor: default; }
 .pairRow {
   border-radius: 14px;
   padding: 16px 18px;
-  background: #f2f2f2;
+  background: #111;
 }
 
 .pairRow .qLine, .pairRow .aLine {
   font-size: 17px;
   line-height: 1.4;
-  color: #aaa;
+  color: #555;
   transition: color 0.2s, font-weight 0.2s;
 }
 
@@ -143,24 +163,24 @@ button:disabled { opacity: 0.4; cursor: default; }
 }
 
 .pairRow.active {
-  background: #eef3ff;
+  background: #17202e;
 }
 
 .pairRow.active .qLine.current,
 .pairRow.active .aLine.current {
-  color: #1a56db;
+  color: #5b9dff;
   font-weight: 700;
   font-size: 22px;
 }
 
 .pairRow.active .qLine:not(.current),
 .pairRow.active .aLine:not(.current) {
-  color: #667;
+  color: #7a8699;
 }
 
 .stopBtn {
-  background: #fff;
-  color: #b00020;
-  border: 1px solid #f0c0c8;
+  background: #111;
+  color: #ff6b7a;
+  border: 1px solid #402028;
   margin-top: 16px;
 }
