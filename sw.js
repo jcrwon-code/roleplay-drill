@@ -3,7 +3,7 @@
 // cache all of them in batches. After that, serve everything cache-first so
 // the drill works with zero network connection, anywhere.
 
-const CACHE_NAME = "roleplay-v10";
+const CACHE_NAME = "roleplay-v11";
 const BATCH_SIZE = 40;
 
 async function cacheAllInBatches(cache, urls) {

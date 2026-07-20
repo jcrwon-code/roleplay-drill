@@ -1,0 +1,221 @@
+{
+  "name": "indirect_questions_01_polite_inquiries",
+  "turns": [
+    {
+      "question": "Excuse me, do you happen to know what time it is?",
+      "questionKo": "실례합니다, 혹시 지금 몇 시인지 아세요?",
+      "questionAudio": "q000.mp3",
+      "answer": "Sure, it's about a quarter past two.",
+      "answerKo": "네, 2시 15분쯤 됐어요.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Thanks. I was also wondering if you knew where the nearest subway station is.",
+      "questionKo": "감사합니다. 그리고 혹시 가장 가까운 지하철역이 어딘지도 아시나 해서요.",
+      "questionAudio": "q001.mp3",
+      "answer": "Actually, yeah, it's just two blocks that way, past the bakery.",
+      "answerKo": "아, 네, 저쪽으로 두 블록만 가시면 돼요, 빵집 지나서요.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Could you tell me whether it's within walking distance?",
+      "questionKo": "혹시 걸어갈 만한 거리인지 알려주실 수 있을까요?",
+      "questionAudio": "q002.mp3",
+      "answer": "Definitely, it's maybe a five-minute walk from here.",
+      "answerKo": "그럼요, 여기서 한 5분 정도밖에 안 걸려요.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "I don't suppose you'd know if there's an elevator down there?",
+      "questionKo": "혹시 거기 엘리베이터가 있는지도 아실는지 모르겠네요?",
+      "questionAudio": "q003.mp3",
+      "answer": "There is, actually, right by the ticket machines.",
+      "answerKo": "있어요, 매표기 바로 옆에요.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "That's good to know. Do you have any idea how often the trains run?",
+      "questionKo": "다행이네요. 혹시 열차가 얼마나 자주 오는지도 아세요?",
+      "questionAudio": "q004.mp3",
+      "answer": "I think every ten minutes or so during the day.",
+      "answerKo": "낮 시간대엔 한 10분마다 오는 걸로 알고 있어요.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "I was also curious whether it gets crowded around this time.",
+      "questionKo": "그리고 지금 이 시간대엔 붐비는지도 궁금하네요.",
+      "questionAudio": "q005.mp3",
+      "answer": "Not too bad yet, but it picks up closer to five.",
+      "answerKo": "아직은 그렇게 붐비지 않는데, 5시 가까워지면 좀 많아져요.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Well, thank you, I really appreciate you taking the time.",
+      "questionKo": "아, 감사합니다, 시간 내주셔서 정말 고마워요.",
+      "questionAudio": "q006.mp3",
+      "answer": "No problem at all, hope you make your train.",
+      "answerKo": "별말씀을요, 열차 잘 타시길 바라요.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Sorry to bother you, but do you know if the manager's around today?",
+      "questionKo": "번거롭게 해드려 죄송한데, 혹시 오늘 매니저님 계신지 아세요?",
+      "questionAudio": "q007.mp3",
+      "answer": "She should be, let me just check her office real quick.",
+      "answerKo": "계실 거예요, 사무실 잠깐 확인해볼게요.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "I was wondering if you knew when she'd be free.",
+      "questionKo": "혹시 언제쯤 시간이 나실지도 아시나 해서요.",
+      "questionAudio": "q008.mp3",
+      "answer": "Probably in about twenty minutes, she's finishing up a call.",
+      "answerKo": "한 20분쯤 후일 것 같아요, 지금 통화 마무리하고 계세요.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Could you let me know whether I should wait here or come back?",
+      "questionKo": "여기서 기다려야 할지 아니면 다시 와야 할지 알려주실 수 있을까요?",
+      "questionAudio": "q009.mp3",
+      "answer": "You're welcome to wait here, there's coffee if you'd like some.",
+      "answerKo": "여기서 기다리셔도 돼요, 커피 드시고 싶으면 있어요.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "That's kind of you. Do you happen to know if this is going to take long?",
+      "questionKo": "친절하시네요. 혹시 이게 오래 걸릴지 아세요?",
+      "questionAudio": "q010.mp3",
+      "answer": "Usually these meetings run about half an hour, give or take.",
+      "answerKo": "보통 이런 미팅은 30분 정도 걸려요, 좀 더 걸릴 수도 있고요.",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "I don't suppose you'd know what this is regarding, would you?",
+      "questionKo": "혹시 이게 무슨 건인지도 모르시겠죠?",
+      "questionAudio": "q011.mp3",
+      "answer": "I believe it's about the budget proposal you sent over.",
+      "answerKo": "보내주신 예산안 관련인 걸로 알고 있어요.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "Ah, that makes sense. Could you tell me if she got my email about the changes?",
+      "questionKo": "아, 그렇군요. 혹시 제가 보낸 변경사항 이메일 받으셨는지 알려주실 수 있을까요?",
+      "questionAudio": "q012.mp3",
+      "answer": "She did, actually, she mentioned it just this morning.",
+      "answerKo": "받으셨어요, 오늘 아침에 말씀하시더라고요.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "That's a relief. I was wondering whether I should bring the printed copies too.",
+      "questionKo": "다행이네요. 그리고 출력본도 가져가야 할지 궁금해서요.",
+      "questionAudio": "q013.mp3",
+      "answer": "It wouldn't hurt, just in case the projector acts up again.",
+      "answerKo": "가져가시는 게 좋을 것 같아요, 프로젝터가 또 말썽부릴 수도 있으니까요.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Good point, I'll grab those from my desk while I wait.",
+      "questionKo": "좋은 생각이네요, 기다리는 동안 제 자리에서 챙겨올게요.",
+      "questionAudio": "q014.mp3",
+      "answer": "Sounds good, I'll let her know you're here.",
+      "answerKo": "좋아요, 오셨다고 전해드릴게요.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "Excuse me, do you know if this seat is taken?",
+      "questionKo": "실례합니다, 혹시 이 자리 주인 있나요?",
+      "questionAudio": "q015.mp3",
+      "answer": "No, go ahead, it's all yours.",
+      "answerKo": "아니요, 앉으세요, 자리 비어 있어요.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Thank you. I was wondering if you knew what this dish was, it smells amazing.",
+      "questionKo": "감사합니다. 그런데 혹시 이 요리가 뭔지 아시나 해서요, 냄새가 정말 좋네요.",
+      "questionAudio": "q016.mp3",
+      "answer": "Oh, that's the mushroom risotto, it's actually my favorite here.",
+      "answerKo": "아, 그거 버섯 리조또예요, 사실 여기서 제가 제일 좋아하는 메뉴예요.",
+      "answerAudio": "a016.mp3"
+    },
+    {
+      "question": "Could you tell me whether it's very spicy?",
+      "questionKo": "혹시 많이 매운지 알려주실 수 있을까요?",
+      "questionAudio": "q017.mp3",
+      "answer": "Not at all, it's pretty mild, mostly just rich and cheesy.",
+      "answerKo": "전혀요, 꽤 순한 편이에요, 대체로 진하고 치즈 맛이 강해요.",
+      "answerAudio": "a017.mp3"
+    },
+    {
+      "question": "Good to know. Do you happen to know if they do takeout as well?",
+      "questionKo": "알려주셔서 감사해요. 혹시 여기 포장도 되는지 아세요?",
+      "questionAudio": "q018.mp3",
+      "answer": "Yeah, they do, there's a separate counter for that near the entrance.",
+      "answerKo": "네, 돼요, 입구 근처에 포장 전용 카운터가 따로 있어요.",
+      "answerAudio": "a018.mp3"
+    },
+    {
+      "question": "I don't suppose you'd know how long the wait usually is?",
+      "questionKo": "혹시 보통 얼마나 기다리는지도 모르시겠죠?",
+      "questionAudio": "q019.mp3",
+      "answer": "On a night like tonight, maybe fifteen minutes or so.",
+      "answerKo": "오늘 같은 밤엔 한 15분 정도인 것 같아요.",
+      "answerAudio": "a019.mp3"
+    },
+    {
+      "question": "That's not bad at all. I was also wondering if you knew if they take reservations.",
+      "questionKo": "그 정도면 나쁘지 않네요. 그리고 혹시 예약도 받는지 아시나 해서요.",
+      "questionAudio": "q020.mp3",
+      "answer": "They do, actually, I'd recommend booking ahead on weekends.",
+      "answerKo": "받아요, 주말엔 미리 예약하시는 걸 추천드려요.",
+      "answerAudio": "a020.mp3"
+    },
+    {
+      "question": "That's really helpful, thank you for all the tips.",
+      "questionKo": "정말 도움이 많이 됐어요, 여러 가지 알려주셔서 감사해요.",
+      "questionAudio": "q021.mp3",
+      "answer": "Of course, enjoy your meal, you're going to love it here.",
+      "answerKo": "별말씀을요, 맛있게 드세요, 분명 마음에 드실 거예요.",
+      "answerAudio": "a021.mp3"
+    },
+    {
+      "question": "Hi, do you know if this bus goes downtown?",
+      "questionKo": "안녕하세요, 혹시 이 버스가 시내 가는지 아세요?",
+      "questionAudio": "q022.mp3",
+      "answer": "It does, yeah, downtown is about six stops from here.",
+      "answerKo": "네, 가요, 시내까지 여기서 여섯 정거장쯤 돼요.",
+      "answerAudio": "a022.mp3"
+    },
+    {
+      "question": "I was wondering whether I need exact change for the fare.",
+      "questionKo": "혹시 요금 낼 때 잔돈이 딱 맞아야 하는지 궁금해서요.",
+      "questionAudio": "q023.mp3",
+      "answer": "No, you can tap a card, exact change isn't necessary anymore.",
+      "answerKo": "아니요, 카드 태그하시면 돼요, 잔돈 정확히 안 맞아도 돼요.",
+      "answerAudio": "a023.mp3"
+    },
+    {
+      "question": "That's convenient. Could you let me know when we're getting close to my stop?",
+      "questionKo": "편리하네요. 제가 내릴 정류장 가까워지면 알려주실 수 있을까요?",
+      "questionAudio": "q024.mp3",
+      "answer": "Sure, just tell me which stop and I'll give you a heads up.",
+      "answerKo": "그럼요, 어느 정류장인지만 말씀해주시면 미리 알려드릴게요.",
+      "answerAudio": "a024.mp3"
+    },
+    {
+      "question": "I'm getting off at the library, if you happen to know where that is.",
+      "questionKo": "저는 도서관에서 내리는데, 혹시 거기가 어딘지 아시면요.",
+      "questionAudio": "q025.mp3",
+      "answer": "Oh yeah, I get off right after that one, I'll remind you.",
+      "answerKo": "아, 네, 저도 바로 그다음 정류장에서 내려요, 알려드릴게요.",
+      "answerAudio": "a025.mp3"
+    },
+    {
+      "question": "I really appreciate that, I'm still new to this side of town.",
+      "questionKo": "정말 감사해요, 제가 아직 이쪽 동네가 낯설어서요.",
+      "questionAudio": "q026.mp3",
+      "answer": "No worries, everyone gets turned around here at first.",
+      "answerKo": "괜찮아요, 다들 처음엔 여기서 헷갈려 해요.",
+      "answerAudio": "a026.mp3"
+    }
+  ]
+}

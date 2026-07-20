@@ -23,6 +23,10 @@
     "ipa": "ˈbeɪgəl",
     "ko": "베이글"
   },
+  "bakery": {
+    "ipa": "ˈbeɪkəri",
+    "ko": "빵집, 제과점"
+  },
   "billing": {
     "ipa": "ˈbɪlɪŋ",
     "ko": "청구, 대금 청구"
@@ -38,6 +42,10 @@
   "blueberry": {
     "ipa": "ˈbluˌbɛri",
     "ko": "블루베리"
+  },
+  "booking": {
+    "ipa": "ˈbʊkɪŋ",
+    "ko": "예약"
   },
   "boulevard": {
     "ipa": "ˈbʊləˌvɑrd",
@@ -91,6 +99,10 @@
     "ipa": "ˈʧɛˌkaʊt",
     "ko": "계산, 결제"
   },
+  "cheesy": {
+    "ipa": "ˈʧizi",
+    "ko": "치즈 맛이 강한"
+  },
   "chilling": {
     "ipa": "ˈʧɪlɪŋ",
     "ko": "느긋하게 쉬는"
@@ -130,6 +142,10 @@
   "croissant": {
     "ipa": "kˌwɑˈsɑnt",
     "ko": "크루아상"
+  },
+  "crowded": {
+    "ipa": "ˈkraʊdɪd",
+    "ko": "붐비는, 혼잡한"
   },
   "curiosity": {
     "ipa": "ˌkjʊriˈɑsəti",
@@ -210,6 +226,10 @@
   "factoring": {
     "ipa": "ˈfæktərɪŋ",
     "ko": "고려하는, 계산에 넣는"
+  },
+  "fare": {
+    "ipa": "fɛr",
+    "ko": "(교통) 요금"
   },
   "flown": {
     "ipa": "floʊn",
@@ -303,6 +323,10 @@
     "ipa": "ˈməfən",
     "ko": "머핀"
   },
+  "mushroom": {
+    "ipa": "ˈməʃrum",
+    "ko": "버섯"
+  },
   "narrows": {
     "ipa": "ˈnɛroʊz",
     "ko": "좁혀지다, 범위를 줄인다"
@@ -358,6 +382,10 @@
   "processed": {
     "ipa": "ˈprɑsɛst",
     "ko": "처리된, 결제 처리된"
+  },
+  "projector": {
+    "ipa": "prɑˈʤɛktər",
+    "ko": "프로젝터, 영사기"
   },
   "promo": {
     "ipa": "ˈproʊˌmoʊ",
@@ -415,9 +443,17 @@
     "ipa": "ˌrɛzərˈveɪʃən",
     "ko": "예약"
   },
+  "reservations": {
+    "ipa": "ˌrɛzərˈveɪʃənz",
+    "ko": "예약(들)"
+  },
   "rested": {
     "ipa": "ˈrɛstɪd",
     "ko": "충분히 쉰"
+  },
+  "risotto": {
+    "ipa": "ˌriˈsɔˌtoʊ",
+    "ko": "리조또"
   },
   "roast": {
     "ipa": "roʊst",
@@ -474,6 +510,10 @@
   "spice": {
     "ipa": "spaɪs",
     "ko": "향신료"
+  },
+  "spicy": {
+    "ipa": "ˈspaɪsi",
+    "ko": "매운"
   },
   "spill": {
     "ipa": "spɪl",
@@ -546,6 +586,10 @@
   "syrup": {
     "ipa": "ˈsɪrəp",
     "ko": "시럽"
+  },
+  "takeout": {
+    "ipa": "ˈteɪˌkaʊt",
+    "ko": "포장, 테이크아웃"
   },
   "tallest": {
     "ipa": "ˈtɔlɪst",

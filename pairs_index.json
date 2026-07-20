@@ -40,6 +40,10 @@
     "file": "scenarios_pairs/greetings_10_long_term_and_phone.json"
   },
   {
+    "name": "indirect_questions_01_polite_inquiries",
+    "file": "scenarios_pairs/indirect_questions_01_polite_inquiries.json"
+  },
+  {
     "name": "numbers_01_store_prices",
     "file": "scenarios_pairs/numbers_01_store_prices.json"
   },
