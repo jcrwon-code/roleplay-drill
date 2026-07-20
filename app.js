@@ -179,8 +179,8 @@ class MicVad {
 
   waitForSpeechThenSilence({
     speechThreshold = 0.04,
-    silenceMs = 900,
-    maxWaitMs = 15000,
+    silenceMs = 1800,
+    maxWaitMs = 20000,
     pollMs = 60,
   } = {}) {
     return new Promise((resolve) => {
