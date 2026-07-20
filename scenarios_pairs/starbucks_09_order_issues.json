@@ -3,122 +3,162 @@
   "turns": [
     {
       "question": "I think this isn't quite what I ordered.",
+      "questionKo": "제가 주문한 게 아닌 것 같아요.",
       "questionAudio": "q000.mp3",
       "answer": "I'm so sorry, let me fix that for you right away.",
+      "answerKo": "죄송해요, 바로 다시 해 드릴게요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "I asked for oat milk, but this has regular milk.",
+      "questionKo": "오트 밀크로 부탁드렸는데 일반 우유가 들어있네요.",
       "questionAudio": "q001.mp3",
       "answer": "So sorry about that, I'll redo it now.",
+      "answerKo": "정말 죄송해요. 지금 다시 만들어 드릴게요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "No worries, I just have a bit of a dairy allergy.",
+      "questionKo": "괜찮아요, 제가 유제품 알레르기가 좀 있어서요.",
       "questionAudio": "q002.mp3",
       "answer": "Oh, I really apologize then, let me remake it right away.",
+      "answerKo": "아이고, 정말 죄송합니다. 제가 바로 새로 만들어 드릴게요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Thank you, I appreciate you taking it seriously.",
+      "questionKo": "신경 써주셔서 정말 감사합니다.",
       "questionAudio": "q003.mp3",
       "answer": "Of course, safety comes first, this will just be a moment.",
+      "answerKo": "물론이죠, 안전이 제일 중요하죠. 잠시만 기다려 주세요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Here you go, fresh with oat milk this time, truly sorry.",
+      "questionKo": "죄송해요. 이번엔 오트 밀크로 새로 해드릴게요.",
       "questionAudio": "q004.mp3",
       "answer": "Thank you so much, this looks perfect now.",
+      "answerKo": "와, 이제 딱 맞네요! 감사합니다.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Excuse me, this drink tastes different than usual.",
+      "questionKo": "저기요, 이 음료 맛이 평소랑 다른 것 같아요.",
       "questionAudio": "q005.mp3",
       "answer": "I apologize, let me remake it for you.",
+      "answerKo": "죄송해요, 제가 다시 만들어 드릴게요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "I think there's too much ice in it, honestly.",
+      "questionKo": "솔직히 얼음이 너무 많은 것 같아요.",
       "questionAudio": "q006.mp3",
       "answer": "Sorry about that, let me remake it with less ice.",
+      "answerKo": "죄송해요, 얼음을 좀 덜 넣어서 다시 해 드릴게요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "That would be great, thank you for understanding.",
+      "questionKo": "그렇게 해주시면 정말 감사하겠습니다, 이해해 주셔서 고마워요.",
       "questionAudio": "q007.mp3",
       "answer": "Of course, I want to get it just right for you.",
+      "answerKo": "물론이죠, 손님께 완벽하게 맞춰드리고 싶어요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "This one tastes a lot better, thank you.",
+      "questionKo": "이게 훨씬 맛있네요, 감사합니다.",
       "questionAudio": "q008.mp3",
       "answer": "I'm so glad, sorry again for the first one.",
+      "answerKo": "다행이네요. 첫 번째 거 때문에 또 죄송해요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "No worries at all, mistakes happen sometimes.",
+      "questionKo": "전혀 신경 쓰지 마세요. 실수할 수도 있죠.",
       "questionAudio": "q009.mp3",
       "answer": "I appreciate you being so understanding about it.",
+      "answerKo": "이해해 주셔서 정말 감사해요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "I think you gave me the wrong size.",
+      "questionKo": "사이즈를 잘못 주신 것 같아요.",
       "questionAudio": "q010.mp3",
       "answer": "You're right, sorry, let me switch that for you.",
+      "answerKo": "맞아요, 죄송해요. 제가 바꿔 드릴게요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "I ordered a venti, but this looks like a grande.",
+      "questionKo": "벤티로 시켰는데 그란데처럼 보이는데요.",
       "questionAudio": "q011.mp3",
       "answer": "My mistake, sorry, I'll get you the correct size.",
+      "answerKo": "제 실수예요, 죄송합니다. 사이즈 다시 확인해서 제대로 가져올게요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Thanks, I really needed the bigger one today.",
+      "questionKo": "네, 오늘 큰 사이즈가 정말 필요했어요.",
       "questionAudio": "q012.mp3",
       "answer": "Of course, long day today, I take it?",
+      "answerKo": "오늘 많이 피곤하시죠? (혹시 힘드신가요?)",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Yeah, definitely, this should help a lot.",
+      "questionKo": "맞아요, 이거 덕분에 많이 나을 거예요.",
       "questionAudio": "q013.mp3",
       "answer": "Here's your venti, again, sorry for the mix-up.",
+      "answerKo": "벤티 사이즈 여기 있습니다. 헷갈리게 해 드려서 죄송해요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "This is perfect, thank you so much for fixing it.",
+      "questionKo": "완벽해요! 이렇게 바로 고쳐주셔서 정말 감사해요.",
       "questionAudio": "q014.mp3",
       "answer": "Anytime, thanks for your patience with us today.",
+      "answerKo": "언제든지요. 오늘 저희 기다려 주셔서 감사합니다.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "My total seems higher than I expected.",
+      "questionKo": "총 금액이 제가 예상했던 것보다 높은 것 같아요.",
       "questionAudio": "q015.mp3",
       "answer": "Let me double-check that receipt, sorry about the confusion.",
+      "answerKo": "영수증 다시 한번 확인해 볼게요. 혼란을 드렸네요, 죄송합니다.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "I think you charged me for the wrong drink.",
+      "questionKo": "제가 주문한 음료로 청구된 게 아닌 것 같은데요.",
       "questionAudio": "q016.mp3",
       "answer": "Let me check that and fix the charge, sorry about that.",
+      "answerKo": "확인해 보고 결제 금액 바로 수정해 드릴게요. 불편하게 해드려서 죄송해요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Yeah, this shows a venti, but I ordered a tall.",
+      "questionKo": "네, 여기 벤티라고 되어 있는데 저는 토울 시켰어요.",
       "questionAudio": "q017.mp3",
       "answer": "You're absolutely right, let me correct that now.",
+      "answerKo": "맞아요, 정말 죄송해요. 지금 바로 수정할게요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Thank you, I appreciate you catching that.",
+      "questionKo": "확인해 주셔서 감사합니다.",
       "questionAudio": "q018.mp3",
       "answer": "Of course, sorry again for the mix-up on our end.",
+      "answerKo": "저희 쪽 실수로 또 번 혼란 드려 죄송합니다.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "It's alright, thanks for sorting it out so quickly.",
+      "questionKo": "괜찮아요. 빨리 처리해주셔서 감사해요.",
       "questionAudio": "q019.mp3",
       "answer": "Happy to help, here's your corrected receipt.",
+      "answerKo": "도와드릴 수 있어서 기뻐요. 여기 수정된 영수증입니다.",
       "answerAudio": "a019.mp3"
     }
   ]

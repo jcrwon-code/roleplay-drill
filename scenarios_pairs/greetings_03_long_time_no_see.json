@@ -3,146 +3,194 @@
   "turns": [
     {
       "question": "Oh my gosh, look who it is! It's been forever!",
+      "questionKo": "어머, 이게 누구야! 진짜 오랜만이다!",
       "questionAudio": "q000.mp3",
       "answer": "I know, right? Way too long -- how have you been?",
+      "answerKo": "그러니까! 너무 오랜만이네, 그동안 어떻게 지냈어?",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Honestly, pretty good. How long has it actually been, like five years?",
+      "questionKo": "솔직히 잘 지냈어. 근데 진짜 몇 년 됐지, 5년쯤 됐나?",
       "questionAudio": "q001.mp3",
       "answer": "I think it's closer to six at this point, if I'm being honest.",
+      "answerKo": "솔직히 말하면 거의 6년 된 것 같아.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Six years, that's insane. Are you still living in the same place?",
+      "questionKo": "6년이라니, 말도 안 돼. 아직 같은 곳에 살아?",
       "questionAudio": "q002.mp3",
       "answer": "No, actually, I moved away a couple years ago for a new job.",
+      "answerKo": "아니, 사실 몇 년 전에 새 직장 때문에 이사 갔어.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Oh nice, where'd you end up moving to?",
+      "questionKo": "오, 좋네, 결국 어디로 이사 간 거야?",
       "questionAudio": "q003.mp3",
       "answer": "Out west, actually -- it was a big change, but a good one.",
+      "answerKo": "서쪽으로 갔어. 큰 변화였지만 좋은 변화였어.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "That's a huge move. Do you like it out there so far?",
+      "questionKo": "엄청난 이사네. 지금까지는 거기 마음에 들어?",
       "questionAudio": "q004.mp3",
       "answer": "I really do, the weather alone makes it worth it.",
+      "answerKo": "진짜 좋아, 날씨만 봐도 갈 만한 가치가 있어.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "I bet. Do you still keep in touch with anyone from back then?",
+      "questionKo": "그럴 것 같아. 그때 사람들이랑 아직 연락하는 사람 있어?",
       "questionAudio": "q005.mp3",
       "answer": "A few people, but definitely not as much as I should.",
+      "answerKo": "몇 명 있긴 한데, 확실히 해야 하는 만큼은 못하고 있어.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Same here, honestly, life just gets in the way.",
+      "questionKo": "나도 그래, 솔직히 사는 게 바빠서 그런가 봐.",
       "questionAudio": "q006.mp3",
       "answer": "Exactly, it's crazy how fast the years go by.",
+      "answerKo": "맞아, 시간이 이렇게 빨리 가는 게 신기해.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Well, we really need to fix that -- want to grab coffee sometime this week?",
+      "questionKo": "우리 이거 진짜 고쳐야겠다. 이번 주에 커피라도 한잔할래?",
       "questionAudio": "q007.mp3",
       "answer": "I'd love that, let's actually exchange numbers this time.",
+      "answerKo": "좋아, 이번엔 진짜 번호 교환하자.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Wait, is that you? I haven't seen you since graduation!",
+      "questionKo": "잠깐, 너 맞아? 졸업하고 처음 보네!",
       "questionAudio": "q008.mp3",
       "answer": "It really has been that long, hasn't it? How's life been treating you?",
+      "answerKo": "진짜 그렇게 오래됐네, 그치? 그동안 어떻게 살았어?",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Pretty good overall, ups and downs like everyone. What have you been up to?",
+      "questionKo": "전반적으로 괜찮았어, 다들 그렇듯이 오르락내리락하면서. 넌 요즘 뭐 하고 지냈어?",
       "questionAudio": "q009.mp3",
       "answer": "A lot, honestly -- changed jobs twice, and finally finished my degree.",
+      "answerKo": "솔직히 많은 일이 있었어. 직장도 두 번 옮기고, 드디어 학위도 마쳤어.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Wow, congrats on finishing! What did you end up studying?",
+      "questionKo": "와, 학위 마친 거 축하해! 결국 뭐 공부한 거야?",
       "questionAudio": "q010.mp3",
       "answer": "I switched to nursing, actually, which wasn't the plan back then.",
+      "answerKo": "사실 간호학으로 전공을 바꿨어, 그땐 계획에 없던 일이었지.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "That's a big shift from what you were doing before.",
+      "questionKo": "예전에 하던 거랑 완전 다른 방향이네.",
       "questionAudio": "q011.mp3",
       "answer": "Definitely, but it's been the best decision I've made in years.",
+      "answerKo": "맞아, 그래도 몇 년 만에 내린 최고의 결정이었어.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "That's amazing to hear. Are you working at a hospital now?",
+      "questionKo": "정말 잘됐다. 지금은 병원에서 일해?",
       "questionAudio": "q012.mp3",
       "answer": "Yeah, downtown, mostly in the emergency department.",
+      "answerKo": "응, 시내에서, 주로 응급실에서 일해.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "That sounds intense. Do you still talk to any of the old crew?",
+      "questionKo": "힘들 것 같다. 예전 친구들이랑은 아직 연락해?",
       "questionAudio": "q013.mp3",
       "answer": "A couple of them, but we drifted apart mostly, unfortunately.",
+      "answerKo": "몇 명이랑은 하는데, 안타깝게도 대부분 멀어졌어.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Same here, it's hard to keep everyone close over the years.",
+      "questionKo": "나도 그래, 세월이 흐르면서 다 가깝게 지내기가 힘들더라.",
       "questionAudio": "q014.mp3",
       "answer": "Tell me about it. We should get the old group back together sometime.",
+      "answerKo": "그러게 말이야. 언제 옛날 그 무리 다시 모아야겠다.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "I'd be so down for that. Let's actually plan it this time.",
+      "questionKo": "완전 좋지. 이번엔 진짜 계획을 짜보자.",
       "questionAudio": "q015.mp3",
       "answer": "Deal, I'll start a group chat tonight before I forget again.",
+      "answerKo": "콜, 또 잊어버리기 전에 오늘 밤 단체방 만들게.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "No way, I didn't expect to run into you here of all places!",
+      "questionKo": "말도 안 돼, 하필 여기서 널 만날 줄이야!",
       "questionAudio": "q016.mp3",
       "answer": "Me neither, what a small world -- how long has it been?",
+      "answerKo": "나도 그래, 세상 진짜 좁다. 얼마 만이지?",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Feels like ages. You look exactly the same, it's kind of crazy.",
+      "questionKo": "완전 오래된 느낌이야. 너 하나도 안 변했다, 신기할 정도야.",
       "questionAudio": "q017.mp3",
       "answer": "Ha, you're too kind -- you look great too, seriously.",
+      "answerKo": "하, 너무 좋게 봐주네. 너도 진짜 좋아 보여.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Thanks. So what have you been up to all these years?",
+      "questionKo": "고마워. 그래서 그동안 뭐 하고 지냈어?",
       "questionAudio": "q018.mp3",
       "answer": "Mostly work, but I got married last year, actually.",
+      "answerKo": "대부분 일했는데, 사실 작년에 결혼했어.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Wait, really? Congratulations, that's huge news!",
+      "questionKo": "잠깐, 진짜? 축하해, 엄청난 소식이네!",
       "questionAudio": "q019.mp3",
       "answer": "Thank you! It's been a wild but really good year.",
+      "answerKo": "고마워! 정신없었지만 정말 좋은 한 해였어.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "I'm so happy for you. Is your partner from around here?",
+      "questionKo": "정말 잘됐다. 배우자분은 이 근처 출신이야?",
       "questionAudio": "q020.mp3",
       "answer": "No, actually, we met while I was traveling for work.",
+      "answerKo": "아니, 사실 출장 다니다가 만났어.",
       "answerAudio": "a020.mp3"
     },
     {
       "question": "That's such a great story. Are your parents still doing okay?",
+      "questionKo": "정말 좋은 이야기다. 부모님은 여전히 잘 지내셔?",
       "questionAudio": "q021.mp3",
       "answer": "Yeah, they're doing great, thanks for asking -- they'd love to see you.",
+      "answerKo": "응, 잘 지내셔, 물어봐 줘서 고마워. 너 보고 싶어 하실 거야.",
       "answerAudio": "a021.mp3"
     },
     {
       "question": "I'd love to catch up with them too sometime.",
+      "questionKo": "나도 언제 부모님이랑 얘기 나누고 싶다.",
       "questionAudio": "q022.mp3",
       "answer": "You definitely should, they still ask about you every now and then.",
+      "answerKo": "꼭 그래야지, 지금도 가끔 네 안부 물으셔.",
       "answerAudio": "a022.mp3"
     },
     {
       "question": "That's so sweet. We really need to stop losing touch like this.",
+      "questionKo": "너무 좋다. 우리 진짜 이렇게 연락 끊기고 그러지 말자.",
       "questionAudio": "q023.mp3",
       "answer": "Agreed, let's actually make an effort this time around.",
+      "answerKo": "맞아, 이번엔 진짜 노력해보자.",
       "answerAudio": "a023.mp3"
     }
   ]

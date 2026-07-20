@@ -3,128 +3,170 @@
   "turns": [
     {
       "question": "Hey, can I get your phone number before you head out?",
+      "questionKo": "저기, 가시기 전에 전화번호 좀 알려주실래요?",
       "questionAudio": "q000.mp3",
       "answer": "Sure, it's five five five, oh one two three.",
+      "answerKo": "네, 555에 0123이에요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Could you read that back to me one more time? I want to make sure I got it.",
+      "questionKo": "한 번만 더 불러주실래요? 제대로 받아 적었는지 확인하고 싶어서요.",
       "questionAudio": "q001.mp3",
       "answer": "Of course, it's five five five, oh one two three.",
+      "answerKo": "네, 555에 0123이에요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Got it. And is that the best number to reach you at during the day?",
+      "questionKo": "알겠어요. 그럼 낮에 연락하기 제일 좋은 번호가 그거예요?",
       "questionAudio": "q002.mp3",
       "answer": "Yes, that one works fine, I keep it on me all day.",
+      "answerKo": "네, 그거면 돼요, 하루 종일 가지고 다녀요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Do you have a work number as well, just in case?",
+      "questionKo": "혹시 모르니까 회사 전화번호도 있어요?",
       "questionAudio": "q003.mp3",
       "answer": "Yeah, my office line is five five five, three three three three.",
+      "answerKo": "네, 사무실 번호는 555에 3333이에요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Can I text you at this same number too, or should I use the other one?",
+      "questionKo": "이 번호로 문자 보내도 돼요, 아니면 다른 번호로 보내야 돼요?",
       "questionAudio": "q004.mp3",
       "answer": "Yep, same personal number works fine for texting.",
+      "answerKo": "네, 같은 개인 번호로 문자 보내시면 돼요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Perfect, I'll save both numbers just to be safe.",
+      "questionKo": "좋아요, 혹시 모르니까 두 번호 다 저장해 둘게요.",
       "questionAudio": "q005.mp3",
       "answer": "Sounds good, that way you'll always be able to reach me.",
+      "answerKo": "좋아요, 그러면 언제든 저한테 연락하실 수 있어요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Hi, I'm calling about my account -- can you confirm the number on file?",
+      "questionKo": "안녕하세요, 제 계정 관련해서 전화드렸는데요, 등록된 번호 확인해 주실 수 있어요?",
       "questionAudio": "q006.mp3",
       "answer": "Sure, one moment -- is it five five five, four five six seven?",
+      "answerKo": "네, 잠시만요. 555에 4567 맞으세요?",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Actually, no, I think I switched numbers recently.",
+      "questionKo": "아니요, 사실 최근에 번호를 바꿨어요.",
       "questionAudio": "q007.mp3",
       "answer": "Ah, okay, do you have your new number handy for me?",
+      "answerKo": "아, 그러세요, 새 번호 지금 알려주실 수 있어요?",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Yes, it's five five five, nine zero zero one now.",
+      "questionKo": "네, 지금은 555에 9001이에요.",
       "questionAudio": "q008.mp3",
       "answer": "Got it, let me update that on your account right away.",
+      "answerKo": "네, 바로 계정에 업데이트해 드릴게요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Is there also a way to add a second number, like for emergencies?",
+      "questionKo": "혹시 비상용으로 두 번째 번호도 추가할 수 있어요?",
       "questionAudio": "q009.mp3",
       "answer": "Of course, do you have an emergency contact number to give me?",
+      "answerKo": "그럼요, 비상 연락처 번호 알려주실 수 있어요?",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Sure, it's my sister's number, five five five, two two four four.",
+      "questionKo": "네, 제 여동생 번호인데요, 555에 2244예요.",
       "questionAudio": "q010.mp3",
       "answer": "Perfect, I've added that as your emergency contact now.",
+      "answerKo": "좋아요, 비상 연락처로 추가해 드렸어요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Great, and is there a customer service number I can call directly next time?",
+      "questionKo": "좋아요, 그리고 다음에 바로 걸 수 있는 고객센터 번호도 있어요?",
       "questionAudio": "q011.mp3",
       "answer": "Yes, it's one eight hundred, five five five, one two three four.",
+      "answerKo": "네, 1-800에 555, 1234예요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Is there also a direct line, in case that one's busy?",
+      "questionKo": "혹시 그 번호가 통화 중일 때 쓸 직통 번호도 있어요?",
       "questionAudio": "q012.mp3",
       "answer": "Yes, you can also call five five five, seven seven zero zero directly.",
+      "answerKo": "네, 555에 7700으로 직접 거셔도 돼요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Thank you, I'll save both of those just in case.",
+      "questionKo": "감사합니다, 혹시 모르니까 둘 다 저장해 둘게요.",
       "questionAudio": "q013.mp3",
       "answer": "You're welcome, is there anything else I can help you update today?",
+      "answerKo": "천만에요, 오늘 그 외에 업데이트 도와드릴 거 더 있으세요?",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Excuse me, do you know the number for the front desk?",
+      "questionKo": "저기요, 프런트 데스크 번호 아세요?",
       "questionAudio": "q014.mp3",
       "answer": "Yes, the front desk is five five five, four four zero zero.",
+      "answerKo": "네, 프런트는 555에 4400이에요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Is there also an after-hours number in case something comes up?",
+      "questionKo": "혹시 무슨 일 생기면 야간 시간대에 걸 수 있는 번호도 있어요?",
       "questionAudio": "q015.mp3",
       "answer": "Yes, after hours, you'd call five five five, zero zero nine nine instead.",
+      "answerKo": "네, 야간에는 555에 0099로 거시면 돼요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Got it. And what number should the delivery driver call if he can't find the place?",
+      "questionKo": "알겠어요. 그럼 배달 기사가 위치를 못 찾으면 어디로 전화해야 돼요?",
       "questionAudio": "q016.mp3",
       "answer": "Have him call five five five, seven six five four, that's the manager's line.",
+      "answerKo": "555에 7654로 걸라고 하세요, 매니저 번호예요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Perfect. One more thing, is there an extension I need after the main number?",
+      "questionKo": "좋아요. 한 가지 더요, 대표 번호 뒤에 내선 번호도 눌러야 돼요?",
       "questionAudio": "q017.mp3",
       "answer": "Yes, dial the main number, then extension four five six for my desk.",
+      "answerKo": "네, 대표 번호 누르고 나서 제 자리 내선 456번 누르시면 돼요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Okay, let me repeat that back slowly to make sure I have it right.",
+      "questionKo": "네, 제대로 받아 적었는지 천천히 다시 말해볼게요.",
       "questionAudio": "q018.mp3",
       "answer": "Sure, go ahead, take your time.",
+      "answerKo": "네, 천천히 말씀해 보세요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Five five five, four four zero zero, then extension four five six?",
+      "questionKo": "555, 4400, 그다음 내선 456번 맞아요?",
       "questionAudio": "q019.mp3",
       "answer": "That's exactly right, you've got it.",
+      "answerKo": "네, 정확해요, 맞게 하셨어요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "Great, thank you so much for all the numbers.",
+      "questionKo": "좋아요, 번호들 다 알려주셔서 정말 감사해요.",
       "questionAudio": "q020.mp3",
       "answer": "Of course, happy to help, just call anytime you need us.",
+      "answerKo": "천만에요, 언제든 필요하시면 전화 주세요.",
       "answerAudio": "a020.mp3"
     }
   ]

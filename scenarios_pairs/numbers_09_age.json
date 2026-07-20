@@ -3,110 +3,146 @@
   "turns": [
     {
       "question": "So, how old are you now, if you don't mind me asking?",
+      "questionKo": "그런데, 실례가 안 된다면 지금 나이가 어떻게 되세요?",
       "questionAudio": "q000.mp3",
       "answer": "I'm twenty-seven.",
+      "answerKo": "저는 스물일곱 살이에요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "How old were you when you moved to this city?",
+      "questionKo": "이 도시로 이사 왔을 때 몇 살이었어요?",
       "questionAudio": "q001.mp3",
       "answer": "I was about nineteen when I moved here.",
+      "answerKo": "여기로 이사 왔을 때 열아홉 살 정도였어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "That's young to be on your own. How old were you when you got your first job?",
+      "questionKo": "혼자 살기엔 어린 나이네요. 첫 직장 다녔을 때는 몇 살이었어요?",
       "questionAudio": "q002.mp3",
       "answer": "I was sixteen, working at a grocery store back home.",
+      "answerKo": "열여섯 살이었어요, 고향에서 식료품점에서 일했었죠.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "How old were you when you learned to drive?",
+      "questionKo": "운전 배웠을 때는 몇 살이었어요?",
       "questionAudio": "q003.mp3",
       "answer": "I was seventeen when I finally got my license.",
+      "answerKo": "드디어 면허 땄을 때 열일곱 살이었어요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "And how old were you when you first traveled abroad?",
+      "questionKo": "그리고 처음 해외여행 갔을 때는 몇 살이었어요?",
       "questionAudio": "q004.mp3",
       "answer": "I was twenty-one on my very first trip overseas.",
+      "answerKo": "첫 해외여행 갔을 때 스물한 살이었어요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "That's a nice string of milestones. What was your first trip like?",
+      "questionKo": "인생의 이정표들이 쭉 이어지네요. 첫 여행은 어땠어요?",
       "questionAudio": "q005.mp3",
       "answer": "It was amazing, honestly, that's actually what got me into traveling.",
+      "answerKo": "정말 좋았어요, 솔직히 그게 계기가 돼서 여행을 좋아하게 됐어요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "How old is your daughter now? Last I remember she was tiny.",
+      "questionKo": "따님 지금 몇 살이에요? 제 기억으론 아직 어렸는데요.",
       "questionAudio": "q006.mp3",
       "answer": "She just turned five last month.",
+      "answerKo": "지난달에 다섯 살 됐어요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Wow, time flies. How old was she when she started school?",
+      "questionKo": "와, 시간 진짜 빠르네요. 학교 들어갔을 때 몇 살이었어요?",
       "questionAudio": "q007.mp3",
       "answer": "She was about four when she started preschool.",
+      "answerKo": "유치원 들어갔을 때 네 살 정도였어요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "And how old is your son, is he older or younger than her?",
+      "questionKo": "그리고 아드님은 몇 살이에요, 따님보다 형이에요 동생이에요?",
       "questionAudio": "q008.mp3",
       "answer": "He's older, he just turned eight last month.",
+      "answerKo": "형이에요, 지난달에 여덟 살 됐어요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "So there's about a three-year gap between them?",
+      "questionKo": "그럼 둘이 세 살 정도 차이 나는 거네요?",
       "questionAudio": "q009.mp3",
       "answer": "Yeah, exactly three years, keeps things interesting at home.",
+      "answerKo": "네, 정확히 세 살 차이예요, 집에서 심심할 틈이 없어요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "How old were you when you had your first, if you don't mind me asking?",
+      "questionKo": "실례가 안 된다면, 첫째 낳으셨을 때 몇 살이었어요?",
       "questionAudio": "q010.mp3",
       "answer": "I was twenty-nine when I had him.",
+      "answerKo": "첫째 낳았을 때 스물아홉 살이었어요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "That's a good age to start. Do you think you'll have more?",
+      "questionKo": "시작하기 딱 좋은 나이네요. 더 낳으실 생각 있으세요?",
       "questionAudio": "q011.mp3",
       "answer": "Maybe one more someday, but we're happy with two for now.",
+      "answerKo": "언젠가 하나 더 생각은 있는데, 지금은 둘이서 만족해요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "How old is your grandmother these days?",
+      "questionKo": "할머니 요즘 연세가 어떻게 되세요?",
       "questionAudio": "q012.mp3",
       "answer": "She's eighty-two this year, still going strong.",
+      "answerKo": "올해 여든두 살이신데, 여전히 정정하세요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "That's wonderful. How old was she when she got married?",
+      "questionKo": "정말 대단하시네요. 결혼하셨을 때 몇 살이셨어요?",
       "questionAudio": "q013.mp3",
       "answer": "She was twenty-four when she got married, believe it or not.",
+      "answerKo": "믿기 힘드시겠지만 결혼하셨을 때 스물네 살이셨어요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "And how old was your grandfather at the time?",
+      "questionKo": "그럼 그때 할아버지는 몇 살이셨어요?",
       "questionAudio": "q014.mp3",
       "answer": "He was a couple years older, twenty-six I think.",
+      "answerKo": "몇 살 더 많으셨어요, 스물여섯 살 정도였던 것 같아요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "How old is he turning this year, is he still with us?",
+      "questionKo": "올해 몇 살 되시나요, 지금도 계세요?",
       "questionAudio": "q015.mp3",
       "answer": "He would be turning ninety this year, but he passed a while back.",
+      "answerKo": "올해 아흔 되셨을 텐데, 얼마 전에 돌아가셨어요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "I'm sorry to hear that. How old were you when that happened?",
+      "questionKo": "안타깝네요. 그때 몇 살이었어요?",
       "questionAudio": "q016.mp3",
       "answer": "I was about thirteen, so I still remember him pretty well.",
+      "answerKo": "열세 살 정도였어서, 아직 할아버지가 꽤 잘 기억나요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "That's a special thing to hold onto, those memories.",
+      "questionKo": "그런 기억을 간직하고 계신 게 참 특별하네요.",
       "questionAudio": "q017.mp3",
       "answer": "It really is, I think about him more as I get older myself.",
+      "answerKo": "정말 그래요, 저도 나이 들수록 할아버지 생각을 더 하게 돼요.",
       "answerAudio": "a017.mp3"
     }
   ]

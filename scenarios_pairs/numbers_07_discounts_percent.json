@@ -3,110 +3,146 @@
   "turns": [
     {
       "question": "How much of a discount is this sale advertising?",
+      "questionKo": "이번 세일은 할인을 얼마나 해주는 거예요?",
       "questionAudio": "q000.mp3",
       "answer": "It's twenty percent off everything in the store.",
+      "answerKo": "매장 전체 20% 할인이에요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Is the whole store included, or just select items?",
+      "questionKo": "매장 전체 다 포함이에요, 아니면 일부 품목만이에요?",
       "questionAudio": "q001.mp3",
       "answer": "Just select items, those are marked at thirty percent off instead.",
+      "answerKo": "일부 품목만이고, 그 대신 그건 30% 할인이 붙어 있어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "What percentage do I save if I use this coupon on top of that?",
+      "questionKo": "거기에 이 쿠폰까지 쓰면 몇 퍼센트 더 절약돼요?",
       "questionAudio": "q002.mp3",
       "answer": "The coupon takes an extra fifteen percent off your total.",
+      "answerKo": "쿠폰 쓰시면 전체 금액에서 15% 추가로 빠져요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Wait, does that stack with the sale price, or is it one or the other?",
+      "questionKo": "잠깐, 그거 세일 가격이랑 중복 적용돼요, 아니면 둘 중 하나만이에요?",
       "questionAudio": "q003.mp3",
       "answer": "It stacks, so you'd be saving even more combined.",
+      "answerKo": "중복 적용돼요, 그래서 합치면 훨씬 더 절약되세요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "That's great. What about members, do they get an additional discount?",
+      "questionKo": "잘됐네요. 그럼 회원은 추가 할인 받아요?",
       "questionAudio": "q004.mp3",
       "answer": "Yes, members get an extra ten percent off on top of that too.",
+      "answerKo": "네, 회원분들은 거기에 10% 추가로 더 할인돼요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "I should really sign up for membership then, it sounds worth it.",
+      "questionKo": "그럼 저도 멤버십 가입해야겠네요, 확실히 가입할 가치가 있는 것 같아요.",
       "questionAudio": "q005.mp3",
       "answer": "Honestly, with savings like these, it usually pays for itself fast.",
+      "answerKo": "솔직히 이 정도 절약이면 보통 금방 본전 뽑아요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "What's the interest rate on this loan you're offering?",
+      "questionKo": "지금 제공하시는 대출 금리가 몇 퍼센트예요?",
       "questionAudio": "q006.mp3",
       "answer": "The interest rate is four point five percent.",
+      "answerKo": "금리는 4.5%예요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "How does that compare to the rate from last year?",
+      "questionKo": "작년 금리랑 비교하면 어때요?",
       "questionAudio": "q007.mp3",
       "answer": "It's actually a bit lower, rates went down about half a percent.",
+      "answerKo": "사실 조금 낮아졌어요, 금리가 0.5% 정도 내려갔어요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "What percentage down payment would I need to qualify?",
+      "questionKo": "대출 받으려면 계약금을 몇 퍼센트 내야 돼요?",
       "questionAudio": "q008.mp3",
       "answer": "You'll need at least twenty percent down to qualify.",
+      "answerKo": "최소 20% 계약금은 있으셔야 자격이 돼요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "And how much would my monthly rate change with a longer term?",
+      "questionKo": "그리고 기간을 늘리면 월 상환액이 얼마나 달라져요?",
       "questionAudio": "q009.mp3",
       "answer": "A longer term brings the monthly rate down noticeably.",
+      "answerKo": "기간을 늘리면 월 상환액이 눈에 띄게 줄어들어요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "What's the current inflation rate factoring into all this?",
+      "questionKo": "이 계산에 반영되는 현재 물가상승률은 얼마예요?",
       "questionAudio": "q010.mp3",
       "answer": "It's sitting around three point two percent right now.",
+      "answerKo": "지금은 3.2% 정도예요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "That's helpful context, thank you for explaining all the numbers.",
+      "questionKo": "이해하는 데 도움이 되네요, 숫자들 다 설명해 주셔서 감사해요.",
       "questionAudio": "q011.mp3",
       "answer": "Of course, happy to walk through anything else you're unsure about.",
+      "answerKo": "천만에요, 궁금하신 거 더 있으면 언제든 설명해 드릴게요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "What percentage of the class actually passed the final exam?",
+      "questionKo": "실제로 반에서 몇 퍼센트가 기말고사를 통과했어요?",
       "questionAudio": "q012.mp3",
       "answer": "About ninety percent of the class passed overall.",
+      "answerKo": "전체적으로 반의 90% 정도가 통과했어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "That's pretty high. What was the failure rate exactly then?",
+      "questionKo": "꽤 높네요. 그럼 정확히 낙제율은 얼마였어요?",
       "questionAudio": "q013.mp3",
       "answer": "The failure rate was only about ten percent this time.",
+      "answerKo": "이번엔 낙제율이 10% 정도밖에 안 됐어요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "How does that compare to last semester's numbers?",
+      "questionKo": "지난 학기 수치랑 비교하면 어때요?",
       "questionAudio": "q014.mp3",
       "answer": "Last semester was a bit worse, closer to fifteen percent failed.",
+      "answerKo": "지난 학기는 좀 더 안 좋았어요, 낙제율이 15%에 가까웠어요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "What do you think caused the improvement this time around?",
+      "questionKo": "이번엔 뭐 때문에 나아졌다고 생각해요?",
       "questionAudio": "q015.mp3",
       "answer": "Honestly, probably the extra review sessions we added before the exam.",
+      "answerKo": "솔직히 시험 전에 추가로 넣은 복습 시간 덕분인 것 같아요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "That makes sense. What percentage of students actually attended those?",
+      "questionKo": "그럴 만하네요. 실제로 학생들 중 몇 퍼센트가 참석했어요?",
       "questionAudio": "q016.mp3",
       "answer": "About seventy-five percent of the class showed up to at least one.",
+      "answerKo": "반의 75% 정도가 적어도 한 번은 참석했어요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "That's a solid turnout. I think we should keep doing those then.",
+      "questionKo": "꽤 괜찮은 참석률이네요. 그럼 계속 진행하는 게 좋을 것 같아요.",
       "questionAudio": "q017.mp3",
       "answer": "Agreed, I'll plan to add even more next semester.",
+      "answerKo": "저도 동의해요, 다음 학기엔 더 늘려볼 계획이에요.",
       "answerAudio": "a017.mp3"
     }
   ]

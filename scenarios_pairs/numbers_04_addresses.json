@@ -3,128 +3,170 @@
   "turns": [
     {
       "question": "Hi, can I get your address for the delivery?",
+      "questionKo": "안녕하세요, 배송받으실 주소 좀 알려주실래요?",
       "questionAudio": "q000.mp3",
       "answer": "Sure, it's one twenty-three Maple Street.",
+      "answerKo": "네, 메이플 스트리트 123번지예요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Is there an apartment number I should add too?",
+      "questionKo": "혹시 아파트 호수도 같이 적어야 돼요?",
       "questionAudio": "q001.mp3",
       "answer": "Yes, it's apartment four B.",
+      "answerKo": "네, 4B호예요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Great, and what's the zip code for that area?",
+      "questionKo": "좋아요, 그 지역 우편번호는 뭐예요?",
       "questionAudio": "q002.mp3",
       "answer": "The zip code is nine oh two one oh.",
+      "answerKo": "우편번호는 90210이에요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Perfect. Is there a gate code or anything the driver will need?",
+      "questionKo": "좋아요. 혹시 기사님이 필요할 대문 비밀번호 같은 거 있어요?",
       "questionAudio": "q003.mp3",
       "answer": "Yes, the gate code is one two three four.",
+      "answerKo": "네, 대문 비밀번호는 1234예요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Got it. What's the nearest cross street, just in case they get lost?",
+      "questionKo": "알겠어요. 혹시 길을 못 찾을 경우를 대비해서 가장 가까운 교차로가 어디예요?",
       "questionAudio": "q004.mp3",
       "answer": "It's right off Fifth and Main, easy to spot.",
+      "answerKo": "5번가랑 메인 스트리트 근처예요, 찾기 쉬워요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Great, that should be everything we need then.",
+      "questionKo": "좋아요, 그럼 필요한 건 다 확인된 것 같네요.",
       "questionAudio": "q005.mp3",
       "answer": "Sounds good, thank you for setting that up.",
+      "answerKo": "네, 준비해 주셔서 감사해요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Can I get the full address for the new office space?",
+      "questionKo": "새 사무실 전체 주소 좀 알 수 있을까요?",
       "questionAudio": "q006.mp3",
       "answer": "Sure, it's eighteen ninety Corporate Drive.",
+      "answerKo": "네, 코퍼레이트 드라이브 1890번지예요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "What floor and suite number is that on?",
+      "questionKo": "몇 층 몇 호실이에요?",
       "questionAudio": "q007.mp3",
       "answer": "We're on the twelfth floor, suite twelve oh five.",
+      "answerKo": "12층, 1205호예요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Is there a separate entrance for deliveries, or the same one?",
+      "questionKo": "배송 전용 입구가 따로 있어요, 아니면 같은 입구예요?",
       "questionAudio": "q008.mp3",
       "answer": "There's a separate one, unit number seven, near the back.",
+      "answerKo": "따로 있어요, 7번 유닛이고 뒤쪽에 있어요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Got it. And what's the zip code you use for shipping there?",
+      "questionKo": "알겠어요. 거기 배송용 우편번호는 뭐예요?",
       "questionAudio": "q009.mp3",
       "answer": "I usually use seven seven zero zero two for that.",
+      "answerKo": "보통 77002를 써요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Perfect, and is the loading dock nearby as well?",
+      "questionKo": "좋아요, 그리고 하역장도 근처에 있어요?",
       "questionAudio": "q010.mp3",
       "answer": "Yes, it's dock number eleven, right around back.",
+      "answerKo": "네, 11번 하역장이고 바로 뒤쪽에 있어요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Great, I'll make sure the courier has all of that.",
+      "questionKo": "좋아요, 택배 기사님한테 그거 다 전달해 둘게요.",
       "questionAudio": "q011.mp3",
       "answer": "Thanks, that should make it easy for them to find us.",
+      "answerKo": "감사해요, 그러면 저희 찾기 쉬우실 거예요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "One more thing, what's the address for billing purposes?",
+      "questionKo": "한 가지 더요, 청구서 보낼 주소는 뭐예요?",
       "questionAudio": "q012.mp3",
       "answer": "For billing, use nine thirty-four Pine Street, suite one.",
+      "answerKo": "청구서는 파인 스트리트 934번지, 1호실로 보내주세요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Is that different from the shipping address then?",
+      "questionKo": "그럼 배송 주소랑 다른 거예요?",
       "questionAudio": "q013.mp3",
       "answer": "Yes, our accounting office is in a separate building entirely.",
+      "answerKo": "네, 저희 회계 사무실은 완전히 다른 건물에 있어요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Understood, I'll keep those two addresses separate in our system.",
+      "questionKo": "알겠어요, 저희 시스템에 두 주소 따로 저장해 둘게요.",
       "questionAudio": "q014.mp3",
       "answer": "Perfect, that'll save us a lot of confusion later on.",
+      "answerKo": "좋아요, 그러면 나중에 혼란이 훨씬 덜할 거예요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Excuse me, can you confirm the address for the venue tonight?",
+      "questionKo": "저기요, 오늘 밤 행사 장소 주소 확인해 주실 수 있어요?",
       "questionAudio": "q015.mp3",
       "answer": "Sure, it's two forty-five Sunset Boulevard, second floor.",
+      "answerKo": "네, 선셋 대로 245번지, 2층이에요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Is there parking nearby, or should we take a cab?",
+      "questionKo": "근처에 주차장 있어요, 아니면 택시 타는 게 나아요?",
       "questionAudio": "q016.mp3",
       "answer": "There's a garage right next door, lot number fourteen.",
+      "answerKo": "바로 옆에 주차장 있어요, 14번 구역이에요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Great, and which entrance should we use once we're there?",
+      "questionKo": "좋아요, 도착하면 어느 입구로 들어가야 돼요?",
       "questionAudio": "q017.mp3",
       "answer": "Use the entrance on street number two, that's the side door.",
+      "answerKo": "2번 거리 쪽 입구로 들어가세요, 옆문이에요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Got it. Is the event in building A or building B?",
+      "questionKo": "알겠어요. 행사가 A동이에요, B동이에요?",
       "questionAudio": "q018.mp3",
       "answer": "It's building B, right past the second entrance.",
+      "answerKo": "B동이에요, 두 번째 입구 지나서 바로예요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Perfect. What room number is the event actually in?",
+      "questionKo": "좋아요. 행사가 몇 호실에서 열려요?",
       "questionAudio": "q019.mp3",
       "answer": "It's room two twenty, just down the hall from the elevator.",
+      "answerKo": "220호예요, 엘리베이터에서 복도 따라가면 있어요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "Thanks, that's really helpful, I don't want us to get lost tonight.",
+      "questionKo": "감사해요, 정말 도움 되네요, 오늘 밤 길 잃고 싶지 않아서요.",
       "questionAudio": "q020.mp3",
       "answer": "No problem, just follow the signs once you're inside the lobby.",
+      "answerKo": "네, 로비 들어가시면 표지판만 따라가시면 돼요.",
       "answerAudio": "a020.mp3"
     }
   ]

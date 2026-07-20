@@ -3,116 +3,154 @@
   "turns": [
     {
       "question": "Good morning! Did you sleep well?",
+      "questionKo": "좋은 아침이에요! 잘 주무셨어요?",
       "questionAudio": "q000.mp3",
       "answer": "I did, thanks -- feeling pretty refreshed for once.",
+      "answerKo": "네, 잘 잤어요. 오랜만에 컨디션 상쾌하네요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "That's great to hear. You're here early today too.",
+      "questionKo": "다행이네요. 오늘도 일찍 오셨네요.",
       "questionAudio": "q001.mp3",
       "answer": "Yeah, I wanted to beat the traffic for once, and it actually worked.",
+      "answerKo": "네, 오랜만에 교통체증 피해보고 싶었는데, 진짜 잘 됐어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Smart move. Coffee's ready if you want some.",
+      "questionKo": "잘하셨네요. 커피 준비돼 있으니 드시고 싶으면 드세요.",
       "questionAudio": "q002.mp3",
       "answer": "Oh, perfect timing, I definitely need it before anything else.",
+      "answerKo": "아, 타이밍 딱 좋네요, 뭐보다 커피부터 필요했거든요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Same here, honestly. Big day ahead of you?",
+      "questionKo": "저도 그래요, 솔직히. 오늘 바쁜 하루예요?",
       "questionAudio": "q003.mp3",
       "answer": "Kind of, I've got a few meetings lined up back to back.",
+      "answerKo": "그런 편이에요, 회의가 연달아 잡혀 있어요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Sounds busy. Well, at least you're starting off well-rested.",
+      "questionKo": "바쁘겠네요. 그래도 컨디션 좋게 시작하니 다행이에요.",
       "questionAudio": "q004.mp3",
       "answer": "True, that's already a win compared to most mornings.",
+      "answerKo": "맞아요, 평소 아침에 비하면 그것만으로도 성공이죠.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Ha, fair enough. Good luck with the meetings today.",
+      "questionKo": "하, 그렇네요. 오늘 회의 잘하세요.",
       "questionAudio": "q005.mp3",
       "answer": "Thanks, I'll definitely need it, but I'm feeling optimistic.",
+      "answerKo": "감사해요, 확실히 필요할 것 같은데 그래도 긍정적으로 생각하고 있어요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Good afternoon, how's your day going so far?",
+      "questionKo": "안녕하세요, 오늘 하루 어떻게 보내고 계세요?",
       "questionAudio": "q006.mp3",
       "answer": "Pretty good so far, keeping busy but nothing too crazy.",
+      "answerKo": "지금까지는 괜찮아요, 바쁘긴 한데 그렇게 정신없진 않아요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Glad to hear it. Have you had lunch yet?",
+      "questionKo": "다행이네요. 점심은 드셨어요?",
       "questionAudio": "q007.mp3",
       "answer": "Just finished, actually -- feeling much better now that I've eaten.",
+      "answerKo": "방금 다 먹었어요. 먹고 나니 훨씬 낫네요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "That makes a big difference. Has the day flown by for you too?",
+      "questionKo": "그게 크죠. 오늘 하루도 순식간에 지나갔어요?",
       "questionAudio": "q008.mp3",
       "answer": "Seriously, I can't believe it's already this late already.",
+      "answerKo": "진짜요, 벌써 이렇게 늦은 시간이라니 믿기지 않아요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Right? Did you manage to grab a break at all yet?",
+      "questionKo": "그러니까요? 그래도 쉬는 시간은 좀 있었어요?",
       "questionAudio": "q009.mp3",
       "answer": "Not yet, but I'm hoping to squeeze one in before my next call.",
+      "answerKo": "아직요, 근데 다음 통화 전에 좀 짬을 내볼까 해요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Well, hopefully the second half is a bit lighter for you.",
+      "questionKo": "오후는 좀 덜 바빴으면 좋겠네요.",
       "questionAudio": "q010.mp3",
       "answer": "Fingers crossed, this morning was pretty packed.",
+      "answerKo": "그러길 바라요, 오전은 정말 빡빡했거든요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Here's hoping. Has it been a productive day at least?",
+      "questionKo": "그러길 바라요. 그래도 오늘 생산적인 하루였어요?",
       "questionAudio": "q011.mp3",
       "answer": "Surprisingly, yes, I got a lot more done than I expected.",
+      "answerKo": "의외로 그랬어요, 생각보다 훨씬 많이 처리했어요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Good evening, long day at the office?",
+      "questionKo": "좋은 저녁이에요, 오늘 사무실에서 긴 하루였어요?",
       "questionAudio": "q012.mp3",
       "answer": "You could say that -- I'm honestly ready to head home.",
+      "answerKo": "뭐 그런 셈이죠, 솔직히 이제 퇴근하고 싶어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "I hear you. How was the rest of your day after this morning?",
+      "questionKo": "이해해요. 아까 아침 이후로는 하루가 어땠어요?",
       "questionAudio": "q013.mp3",
       "answer": "Pretty uneventful, in a good way, no major surprises.",
+      "answerKo": "좋은 의미로 별일 없었어요, 큰 변수도 없었고요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "That's always a relief. Any plans for tonight?",
+      "questionKo": "그럼 늘 안심되죠. 오늘 저녁 계획 있어요?",
       "questionAudio": "q014.mp3",
       "answer": "Nothing major, just relaxing at home with some dinner.",
+      "answerKo": "특별한 건 없고, 그냥 집에서 저녁 먹으면서 쉴 거예요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "That sounds perfect after a day like this.",
+      "questionKo": "오늘 같은 날엔 딱 좋은 계획이네요.",
       "questionAudio": "q015.mp3",
       "answer": "Exactly what I need, honestly, just some quiet time.",
+      "answerKo": "솔직히 딱 필요한 거예요, 그냥 조용한 시간이요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Well, how was your commute home looking, lighter than usual?",
+      "questionKo": "그런데 퇴근길은 어땠어요, 평소보다 덜 막혔어요?",
       "questionAudio": "q016.mp3",
       "answer": "Actually yeah, not bad at all compared to this morning.",
+      "answerKo": "사실 그랬어요, 아침이랑 비교하면 전혀 나쁘지 않았어요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Good, at least something went smoothly today.",
+      "questionKo": "다행이네요, 오늘 뭐 하나라도 순조로웠네요.",
       "questionAudio": "q017.mp3",
       "answer": "Right? I'll take the small wins where I can get them.",
+      "answerKo": "그러니까요? 작은 성공이라도 감사히 받아야죠.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Well, glad the day's finally over for you.",
+      "questionKo": "아무튼, 오늘 하루도 드디어 끝나서 다행이에요.",
       "questionAudio": "q018.mp3",
       "answer": "Honestly, more than you know -- see you tomorrow morning.",
+      "answerKo": "솔직히 말도 못하게요. 내일 아침에 봬요.",
       "answerAudio": "a018.mp3"
     }
   ]

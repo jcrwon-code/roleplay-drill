@@ -1,0 +1,678 @@
+{
+  "accommodating": {
+    "ipa": "əˈkɑməˌdeɪtɪŋ",
+    "ko": "잘 맞춰주는, 배려하는"
+  },
+  "adventurous": {
+    "ipa": "ædˈvɛnʧərəs",
+    "ko": "모험적인, 새로운 걸 시도하는"
+  },
+  "allergy": {
+    "ipa": "ˈælərʤi",
+    "ko": "알레르기"
+  },
+  "almond": {
+    "ipa": "ˈɑmənd",
+    "ko": "아몬드"
+  },
+  "appetizers": {
+    "ipa": "ˈæpəˌtaɪzərz",
+    "ko": "애피타이저, 전채요리"
+  },
+  "bagel": {
+    "ipa": "ˈbeɪgəl",
+    "ko": "베이글"
+  },
+  "billing": {
+    "ipa": "ˈbɪlɪŋ",
+    "ko": "청구, 대금 청구"
+  },
+  "bites": {
+    "ipa": "baɪts",
+    "ko": "한입 크기 음식"
+  },
+  "blended": {
+    "ipa": "ˈblɛndɪd",
+    "ko": "블렌딩된, 갈아 만든"
+  },
+  "blueberry": {
+    "ipa": "ˈbluˌbɛri",
+    "ko": "블루베리"
+  },
+  "boulevard": {
+    "ipa": "ˈbʊləˌvɑrd",
+    "ko": "대로, 큰길"
+  },
+  "brew": {
+    "ipa": "bru",
+    "ko": "우려낸 커피, 끓이다"
+  },
+  "brewing": {
+    "ipa": "bruɪŋ",
+    "ko": "(커피를) 내리는 중인"
+  },
+  "brunch": {
+    "ipa": "brənʧ",
+    "ko": "브런치(아침 겸 점심)"
+  },
+  "budgeted": {
+    "ipa": "ˈbəʤɪtɪd",
+    "ko": "예산이 잡힌"
+  },
+  "bugging": {
+    "ipa": "ˈbəgɪŋ",
+    "ko": "귀찮게 조르는"
+  },
+  "builds": {
+    "ipa": "bɪldz",
+    "ko": "쌓이다, 축적되다"
+  },
+  "caffeine": {
+    "ipa": "kæˈfin",
+    "ko": "카페인"
+  },
+  "candles": {
+    "ipa": "ˈkændəlz",
+    "ko": "초, 양초"
+  },
+  "cappuccino": {
+    "ipa": "ˌkæˌpuˈʧinoʊ",
+    "ko": "카푸치노"
+  },
+  "caramel": {
+    "ipa": "ˈkɛrəməl",
+    "ko": "카라멜"
+  },
+  "cardio": {
+    "ipa": "ˈkɑrdioʊ",
+    "ko": "유산소 운동"
+  },
+  "checkout": {
+    "ipa": "ˈʧɛˌkaʊt",
+    "ko": "계산, 결제"
+  },
+  "chilling": {
+    "ipa": "ˈʧɪlɪŋ",
+    "ko": "느긋하게 쉬는"
+  },
+  "cinnamon": {
+    "ipa": "ˈsɪnəmən",
+    "ko": "계피"
+  },
+  "closes": {
+    "ipa": "ˈkloʊzɪz",
+    "ko": "닫다, 문을 닫다"
+  },
+  "collaborating": {
+    "ipa": "kəˈlæbərˌeɪtɪŋ",
+    "ko": "협업하는"
+  },
+  "commute": {
+    "ipa": "kəmˈjut",
+    "ko": "통근(하다)"
+  },
+  "concentrated": {
+    "ipa": "ˈkɔnsənˌtreɪtɪd",
+    "ko": "농축된, 진한"
+  },
+  "corrected": {
+    "ipa": "kərˈɛktɪd",
+    "ko": "정정된, 고쳐진"
+  },
+  "coupon": {
+    "ipa": "ˈkuˌpɔn",
+    "ko": "쿠폰, 할인권"
+  },
+  "courier": {
+    "ipa": "ˈkəriər",
+    "ko": "택배기사, 배달원"
+  },
+  "croissant": {
+    "ipa": "kˌwɑˈsɑnt",
+    "ko": "크루아상"
+  },
+  "curiosity": {
+    "ipa": "ˌkjʊriˈɑsəti",
+    "ko": "호기심"
+  },
+  "deadlines": {
+    "ipa": "ˈdɛˌdlaɪnz",
+    "ko": "마감기한"
+  },
+  "decaf": {
+    "ipa": "ˈdikæf",
+    "ko": "디카페인"
+  },
+  "deliveries": {
+    "ipa": "dɪˈlɪvəriz",
+    "ko": "배송(들)"
+  },
+  "dial": {
+    "ipa": "daɪəl",
+    "ko": "전화를 걸다, 다이얼을 돌리다"
+  },
+  "diner": {
+    "ipa": "ˈdaɪnər",
+    "ko": "(캐주얼한) 식당"
+  },
+  "doable": {
+    "ipa": "ˈduəbəl",
+    "ko": "해볼 만한, 가능한"
+  },
+  "dock": {
+    "ipa": "dɑk",
+    "ko": "하역장, 부두"
+  },
+  "downs": {
+    "ipa": "daʊnz",
+    "ko": "(우여곡절 중) 안 좋은 시기 (ups and downs: 굴곡)"
+  },
+  "drifted": {
+    "ipa": "ˈdrɪftɪd",
+    "ko": "멀어졌다, 소원해졌다"
+  },
+  "drizzle": {
+    "ipa": "ˈdrɪzəl",
+    "ko": "살짝 뿌리다, 조금 뿌린 것"
+  },
+  "eighteenth": {
+    "ipa": "ˈeɪˈtinθ",
+    "ko": "18일, 18번째"
+  },
+  "elevator": {
+    "ipa": "ˈɛləˌveɪtər",
+    "ko": "엘리베이터"
+  },
+  "emailed": {
+    "ipa": "iˈmeɪld",
+    "ko": "이메일로 보내다"
+  },
+  "emergencies": {
+    "ipa": "ˈimərʤənsiz",
+    "ko": "비상상황(들)"
+  },
+  "errands": {
+    "ipa": "ˈɛrəndz",
+    "ko": "심부름, 볼일"
+  },
+  "exhausting": {
+    "ipa": "ɪgˈzɔstɪŋ",
+    "ko": "진 빠지게 하는, 지치게 만드는"
+  },
+  "experimenting": {
+    "ipa": "ɛkˈspɛrəˌmɛntɪŋ",
+    "ko": "이것저것 시도해보는"
+  },
+  "explored": {
+    "ipa": "ɪkˈsplɔrd",
+    "ko": "둘러봤다, 탐방했다"
+  },
+  "factoring": {
+    "ipa": "ˈfæktərɪŋ",
+    "ko": "고려하는, 계산에 넣는"
+  },
+  "flown": {
+    "ipa": "floʊn",
+    "ko": "(시간이) 순식간에 지나간 (fly의 과거분사)"
+  },
+  "foam": {
+    "ipa": "foʊm",
+    "ko": "거품"
+  },
+  "gosh": {
+    "ipa": "gɑʃ",
+    "ko": "어머, 세상에 (놀람 표현)"
+  },
+  "gotcha": {
+    "ipa": "ˈgɑʧə",
+    "ko": "알았어, 이해했어 (got you의 구어체)"
+  },
+  "grabbing": {
+    "ipa": "ˈgræbɪŋ",
+    "ko": "간단히 챙기는, 얼른 사는"
+  },
+  "grading": {
+    "ipa": "ˈgreɪdɪŋ",
+    "ko": "채점하는"
+  },
+  "graduating": {
+    "ipa": "ˈgræʤəˌweɪtɪŋ",
+    "ko": "졸업하는"
+  },
+  "grande": {
+    "ipa": "grænd",
+    "ko": "그란데 사이즈(스타벅스 중간 사이즈)"
+  },
+  "handy": {
+    "ipa": "ˈhændi",
+    "ko": "가까이에 있는, 편리한"
+  },
+  "hospitality": {
+    "ipa": "ˌhɑspəˈtæləti",
+    "ko": "환대, 접대"
+  },
+  "iced": {
+    "ipa": "aɪst",
+    "ko": "아이스로 된, 차가운"
+  },
+  "labeled": {
+    "ipa": "ˈleɪbəld",
+    "ko": "라벨이 붙은, 표시된"
+  },
+  "latte": {
+    "ipa": "ˈlɑˌteɪ",
+    "ko": "라떼"
+  },
+  "leaning": {
+    "ipa": "ˈlinɪŋ",
+    "ko": "~쪽으로 기울어진, 마음이 가는"
+  },
+  "linking": {
+    "ipa": "ˈlɪŋkɪŋ",
+    "ko": "만나는, 연결되는 (link up: 만나다)"
+  },
+  "majored": {
+    "ipa": "ˈmeɪʤərd",
+    "ko": "전공했다"
+  },
+  "manageable": {
+    "ipa": "ˈmænɪʤəbəl",
+    "ko": "감당할 만한"
+  },
+  "maple": {
+    "ipa": "ˈmeɪpəl",
+    "ko": "단풍나무의"
+  },
+  "maze": {
+    "ipa": "meɪz",
+    "ko": "미로"
+  },
+  "milestones": {
+    "ipa": "ˈmaɪlˌstoʊnz",
+    "ko": "중요한 이정표, 인생의 전환점들"
+  },
+  "mondays": {
+    "ipa": "ˈmənˌdeɪz",
+    "ko": "월요일마다"
+  },
+  "mornings": {
+    "ipa": "ˈmɔrnɪŋz",
+    "ko": "아침마다"
+  },
+  "muffin": {
+    "ipa": "ˈməfən",
+    "ko": "머핀"
+  },
+  "narrows": {
+    "ipa": "ˈnɛroʊz",
+    "ko": "좁혀지다, 범위를 줄인다"
+  },
+  "negotiable": {
+    "ipa": "nəˈgoʊʃəbəl",
+    "ko": "협상 가능한"
+  },
+  "negotiate": {
+    "ipa": "nɪˈgoʊʃiˌeɪt",
+    "ko": "협상하다, 흥정하다"
+  },
+  "noticeably": {
+    "ipa": "ˈnoʊtɪsəbli",
+    "ko": "눈에 띄게"
+  },
+  "optimistic": {
+    "ipa": "ˌɑptɪˈmɪstɪk",
+    "ko": "낙관적인"
+  },
+  "overboard": {
+    "ipa": "ˈoʊvərˌbɔrd",
+    "ko": "지나치게, 과하게"
+  },
+  "overly": {
+    "ipa": "ˈoʊvərli",
+    "ko": "지나치게"
+  },
+  "pancakes": {
+    "ipa": "ˈpænˌkeɪks",
+    "ko": "팬케이크"
+  },
+  "pastry": {
+    "ipa": "ˈpeɪstri",
+    "ko": "페이스트리"
+  },
+  "payroll": {
+    "ipa": "ˈpeɪˌroʊl",
+    "ko": "급여, 인건비"
+  },
+  "piling": {
+    "ipa": "ˈpaɪlɪŋ",
+    "ko": "쌓이는"
+  },
+  "pizzas": {
+    "ipa": "ˈpitsəz",
+    "ko": "피자들"
+  },
+  "preschool": {
+    "ipa": "ˈpriˌskul",
+    "ko": "유치원, 미취학"
+  },
+  "processed": {
+    "ipa": "ˈprɑsɛst",
+    "ko": "처리된, 결제 처리된"
+  },
+  "promo": {
+    "ipa": "ˈproʊˌmoʊ",
+    "ko": "프로모션, 판촉"
+  },
+  "pumpkin": {
+    "ipa": "ˈpəmpkɪn",
+    "ko": "호박"
+  },
+  "pumps": {
+    "ipa": "pəmps",
+    "ko": "(시럽 등을 뿌리는) 펌프 횟수"
+  },
+  "qualifies": {
+    "ipa": "kˈwɑləˌfaɪz",
+    "ko": "자격이 되다, 조건을 충족하다"
+  },
+  "receipt": {
+    "ipa": "rɪˈsit",
+    "ko": "영수증"
+  },
+  "redeem": {
+    "ipa": "rɪˈdim",
+    "ko": "(포인트 등을) 사용하다, 교환하다"
+  },
+  "redo": {
+    "ipa": "riˈdu",
+    "ko": "다시 하다"
+  },
+  "refreshed": {
+    "ipa": "riˈfrɛʃt",
+    "ko": "개운한, 상쾌한"
+  },
+  "relaxing": {
+    "ipa": "rɪˈlæksɪŋ",
+    "ko": "느긋한, 편안하게 해주는"
+  },
+  "remake": {
+    "ipa": "ˈriˈmeɪk",
+    "ko": "다시 만들다"
+  },
+  "reminding": {
+    "ipa": "riˈmaɪndɪŋ",
+    "ko": "다시 알려주는, 상기시켜주는"
+  },
+  "renting": {
+    "ipa": "ˈrɛntɪŋ",
+    "ko": "세를 얻어 사는, 임대하는"
+  },
+  "rescheduling": {
+    "ipa": "riˈskɛʤulɪŋ",
+    "ko": "일정을 재조정하는"
+  },
+  "reservation": {
+    "ipa": "ˌrɛzərˈveɪʃən",
+    "ko": "예약"
+  },
+  "rested": {
+    "ipa": "ˈrɛstɪd",
+    "ko": "충분히 쉰"
+  },
+  "roast": {
+    "ipa": "roʊst",
+    "ko": "로스팅한 원두, 볶은 정도"
+  },
+  "roommate": {
+    "ipa": "ˈruˌmeɪt",
+    "ko": "룸메이트"
+  },
+  "roommates": {
+    "ipa": "ˈruˌmeɪts",
+    "ko": "룸메이트들"
+  },
+  "rushing": {
+    "ipa": "ˈrəʃɪŋ",
+    "ko": "서두르는"
+  },
+  "scarf": {
+    "ipa": "skɑrf",
+    "ko": "스카프, 목도리"
+  },
+  "seasonal": {
+    "ipa": "ˈsizənəl",
+    "ko": "계절 한정의"
+  },
+  "settling": {
+    "ipa": "ˈsɛtəlɪŋ",
+    "ko": "정착하는, 자리잡는"
+  },
+  "shipment": {
+    "ipa": "ˈʃɪpmənt",
+    "ko": "배송물, 화물"
+  },
+  "sleeve": {
+    "ipa": "sliv",
+    "ko": "컵 슬리브(뜨거운 컵 감싸는 종이)"
+  },
+  "slices": {
+    "ipa": "sˈlaɪsɪz",
+    "ko": "조각들"
+  },
+  "smoother": {
+    "ipa": "sˈmuðər",
+    "ko": "더 부드러운"
+  },
+  "smoothly": {
+    "ipa": "sˈmuðli",
+    "ko": "순조롭게"
+  },
+  "sorting": {
+    "ipa": "ˈsɔrtɪŋ",
+    "ko": "정리하는, 분류하는"
+  },
+  "spice": {
+    "ipa": "spaɪs",
+    "ko": "향신료"
+  },
+  "spill": {
+    "ipa": "spɪl",
+    "ko": "쏟아짐, 흘림"
+  },
+  "splitting": {
+    "ipa": "ˈsplɪtɪŋ",
+    "ko": "나누는, 분담하는"
+  },
+  "sprinkle": {
+    "ipa": "ˈsprɪŋkəl",
+    "ko": "살짝 뿌리기"
+  },
+  "sprinkled": {
+    "ipa": "ˈsprɪŋkəld",
+    "ko": "살짝 뿌려진"
+  },
+  "squeeze": {
+    "ipa": "skwiz",
+    "ko": "짬을 내다, 끼워넣다"
+  },
+  "stacks": {
+    "ipa": "stæks",
+    "ko": "쌓이다, 누적되다"
+  },
+  "steadily": {
+    "ipa": "ˈstɛdəli",
+    "ko": "꾸준히"
+  },
+  "steaming": {
+    "ipa": "ˈstimɪŋ",
+    "ko": "(우유 등을) 데우는"
+  },
+  "steeped": {
+    "ipa": "stipt",
+    "ko": "우려낸, 침출된"
+  },
+  "stranded": {
+    "ipa": "ˈstrændɪd",
+    "ko": "발이 묶인, 오도가도 못하는"
+  },
+  "stressful": {
+    "ipa": "ˈstrɛsfəl",
+    "ko": "스트레스가 많은"
+  },
+  "sugary": {
+    "ipa": "ˈʃʊgəri",
+    "ko": "설탕이 많이 든, 단맛이 강한"
+  },
+  "summers": {
+    "ipa": "ˈsəmərz",
+    "ko": "여름들"
+  },
+  "sundays": {
+    "ipa": "ˈsənˌdiz",
+    "ko": "일요일마다"
+  },
+  "surprises": {
+    "ipa": "səˈpraɪzɪz",
+    "ko": "놀라운 일들"
+  },
+  "sweetener": {
+    "ipa": "sˈwitənər",
+    "ko": "감미료, 단맛을 내는 것"
+  },
+  "sweeter": {
+    "ipa": "sˈwitər",
+    "ko": "더 단, 더 달콤한"
+  },
+  "syrup": {
+    "ipa": "ˈsɪrəp",
+    "ko": "시럽"
+  },
+  "tallest": {
+    "ipa": "ˈtɔlɪst",
+    "ko": "가장 높은"
+  },
+  "texting": {
+    "ipa": "ˈtɛkˌstɪŋ",
+    "ko": "문자를 보내는"
+  },
+  "thankfully": {
+    "ipa": "ˈθæŋkfəli",
+    "ko": "다행히도"
+  },
+  "thicker": {
+    "ipa": "ˈθɪkər",
+    "ko": "더 진한, 더 두꺼운"
+  },
+  "thinner": {
+    "ipa": "ˈθɪnər",
+    "ko": "더 묽은, 더 얇은"
+  },
+  "toasted": {
+    "ipa": "ˈtoʊstɪd",
+    "ko": "토스트한, 구운"
+  },
+  "togethers": {
+    "ipa": "təˈgɛðərz",
+    "ko": "모임들 (get-together: 소모임)"
+  },
+  "topped": {
+    "ipa": "tɑpt",
+    "ko": "위에 얹은"
+  },
+  "turnout": {
+    "ipa": "ˈtərˌnaʊt",
+    "ko": "참석률, 참가자 수"
+  },
+  "uneventful": {
+    "ipa": "ˌəniˈvɛntfəl",
+    "ko": "별일 없는, 평범한"
+  },
+  "unlabeled": {
+    "ipa": "ənˈleɪbəld",
+    "ko": "라벨이 없는, 표시 안 된"
+  },
+  "unsure": {
+    "ipa": "ənˈʃʊr",
+    "ko": "확실하지 않은"
+  },
+  "upstairs": {
+    "ipa": "əpˈstɛrz",
+    "ko": "위층"
+  },
+  "upstate": {
+    "ipa": "ˈəpˈsteɪt",
+    "ko": "(주의) 북부 지역, 도심 외곽"
+  },
+  "valuation": {
+    "ipa": "væljuˈeɪʃən",
+    "ko": "기업가치 평가"
+  },
+  "vanilla": {
+    "ipa": "vəˈnɪlə",
+    "ko": "바닐라"
+  },
+  "vent": {
+    "ipa": "vɛnt",
+    "ko": "속마음을 털어놓다, 하소연하다"
+  },
+  "venti": {
+    "ipa": "ˈvɛnti",
+    "ko": "벤티 사이즈(스타벅스 가장 큰 사이즈)"
+  },
+  "vibe": {
+    "ipa": "vaɪb",
+    "ko": "분위기, 느낌"
+  },
+  "waive": {
+    "ipa": "weɪv",
+    "ko": "면제해주다"
+  },
+  "warmed": {
+    "ipa": "wɔrmd",
+    "ko": "데워진"
+  },
+  "warranty": {
+    "ipa": "ˈwɔrənti",
+    "ko": "품질보증, 보증"
+  },
+  "weigh": {
+    "ipa": "weɪ",
+    "ko": "무게가 나가다"
+  },
+  "weighs": {
+    "ipa": "weɪz",
+    "ko": "무게가 나간다"
+  },
+  "weights": {
+    "ipa": "weɪts",
+    "ko": "웨이트(근력) 운동"
+  },
+  "welcoming": {
+    "ipa": "ˈwɛlkəmɪŋ",
+    "ko": "따뜻하게 맞아주는"
+  },
+  "whichever": {
+    "ipa": "wɪˈʧɛvər",
+    "ko": "어느 쪽이든"
+  },
+  "whipped": {
+    "ipa": "wɪpt",
+    "ko": "휘핑한, 거품 낸"
+  },
+  "wifi": {
+    "ipa": "ˈwiˌfi",
+    "ko": "와이파이"
+  },
+  "windy": {
+    "ipa": "ˈwɪndi",
+    "ko": "바람 부는"
+  },
+  "wiped": {
+    "ipa": "waɪpt",
+    "ko": "지친, 녹초가 된"
+  },
+  "workload": {
+    "ipa": "ˈwərˌkloʊd",
+    "ko": "업무량"
+  }
+}

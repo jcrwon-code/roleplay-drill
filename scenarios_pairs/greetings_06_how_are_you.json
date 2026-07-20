@@ -3,122 +3,162 @@
   "turns": [
     {
       "question": "How are you doing today?",
+      "questionKo": "오늘 좀 어때요?",
       "questionAudio": "q000.mp3",
       "answer": "Pretty good, thanks for asking -- just a bit tired lately.",
+      "answerKo": "그럭저럭 괜찮아요, 물어봐 줘서 고마워요. 요즘 좀 피곤하긴 해요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Yeah? What's been keeping you so busy?",
+      "questionKo": "그래요? 뭐 때문에 그렇게 바빠요?",
       "questionAudio": "q001.mp3",
       "answer": "Mostly work, honestly, it's been a pretty heavy few weeks.",
+      "answerKo": "거의 다 일이에요, 솔직히 요 몇 주 꽤 힘들었어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "That sounds rough. Is your stress level okay with everything going on?",
+      "questionKo": "힘들었겠네요. 이것저것 겹치는데 스트레스는 괜찮아요?",
       "questionAudio": "q002.mp3",
       "answer": "Honestly, better than it's been in a while, believe it or not.",
+      "answerKo": "솔직히 믿기지 않겠지만 한동안보다는 나아요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "That's good to hear at least. How's your energy been lately?",
+      "questionKo": "그래도 다행이네요. 요즘 에너지는 어때요?",
       "questionAudio": "q003.mp3",
       "answer": "A bit low, honestly, but I'm managing okay overall.",
+      "answerKo": "솔직히 좀 낮은 편인데, 전반적으로는 잘 버티고 있어요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Are you feeling better than you were last week, at least?",
+      "questionKo": "적어도 지난주보다는 좀 나아졌어요?",
       "questionAudio": "q004.mp3",
       "answer": "Much better, actually, thank you for asking.",
+      "answerKo": "사실 훨씬 나아졌어요, 물어봐 줘서 고마워요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Good, I'm glad. Is there anything on your mind lately I should know about?",
+      "questionKo": "다행이네요. 요즘 마음에 걸리는 거 뭐 있어요, 제가 알아야 할 거?",
       "questionAudio": "q005.mp3",
       "answer": "Not really, just the usual work stuff piling up a bit.",
+      "answerKo": "딱히 없어요, 그냥 평소처럼 일이 좀 쌓이는 정도예요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Well, if you ever need to vent, I'm here.",
+      "questionKo": "혹시 답답한 거 털어놓고 싶으면 저 여기 있어요.",
       "questionAudio": "q006.mp3",
       "answer": "Thanks, I really appreciate that, means a lot.",
+      "answerKo": "고마워요, 정말 큰 힘이 돼요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "How have you been lately?",
+      "questionKo": "요즘 어떻게 지내요?",
       "questionAudio": "q007.mp3",
       "answer": "Can't complain, honestly, staying pretty busy.",
+      "answerKo": "솔직히 나쁘지 않아요, 꽤 바쁘게 지내고 있어요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Busy in a good way, or a stressful way?",
+      "questionKo": "좋은 의미로 바쁜 거예요, 아니면 스트레스받게 바쁜 거예요?",
       "questionAudio": "q008.mp3",
       "answer": "A good way, mostly -- lots of exciting things happening.",
+      "answerKo": "대부분 좋은 의미로요, 재밌는 일들이 많이 생기고 있어요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "That's great to hear. How's everything with the family?",
+      "questionKo": "잘됐네요. 가족들은 다 잘 지내요?",
       "questionAudio": "q009.mp3",
       "answer": "Everyone's doing well, thanks for asking, no complaints there.",
+      "answerKo": "다들 잘 지내요, 물어봐 줘서 고마워요, 별문제 없어요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Glad to hear it. Is life treating you well these days overall?",
+      "questionKo": "다행이네요. 전반적으로 요즘 삶이 잘 풀리는 편이에요?",
       "questionAudio": "q010.mp3",
       "answer": "It really is, I can't complain at all, honestly.",
+      "answerKo": "정말 그래요, 솔직히 전혀 불만 없어요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "That's wonderful. How's your week been going so far?",
+      "questionKo": "정말 좋네요. 이번 주는 지금까지 어땠어요?",
       "questionAudio": "q011.mp3",
       "answer": "Busy, but in a good way, mostly just staying on top of things.",
+      "answerKo": "바쁘긴 한데 좋은 쪽으로요, 그냥 할 일들을 잘 챙기고 있어요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Are things looking up for you lately then?",
+      "questionKo": "그럼 요즘 상황이 좋아지고 있는 거예요?",
       "questionAudio": "q012.mp3",
       "answer": "Yeah, actually, things are finally coming together nicely.",
+      "answerKo": "네, 사실 이제야 일들이 잘 맞아떨어지고 있어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "That's really good to hear, I'm happy for you.",
+      "questionKo": "정말 좋은 소식이네요, 저도 기뻐요.",
       "questionAudio": "q013.mp3",
       "answer": "Thanks, it means a lot to hear that, honestly.",
+      "answerKo": "고마워요, 솔직히 그렇게 말해주니 큰 힘이 돼요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Is everything okay with you? You seem a little quiet today.",
+      "questionKo": "괜찮아요? 오늘 좀 조용한 것 같아서요.",
       "questionAudio": "q014.mp3",
       "answer": "I'm okay, just a long day, that's really all it is.",
+      "answerKo": "괜찮아요, 그냥 긴 하루였어요, 그게 다예요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "You sure? You can talk to me if something's up.",
+      "questionKo": "정말요? 무슨 일 있으면 저한테 얘기해도 돼요.",
       "questionAudio": "q015.mp3",
       "answer": "I appreciate that, honestly, hanging in there, but doing okay.",
+      "answerKo": "고마워요, 솔직히 좀 버티고 있긴 한데 괜찮아요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Okay, well, how are you feeling after everything that happened this week?",
+      "questionKo": "그래요, 이번 주에 있었던 일들 다 겪고 나니 기분이 어때요?",
       "questionAudio": "q016.mp3",
       "answer": "A lot better now, thanks for checking in on me.",
+      "answerKo": "지금은 훨씬 나아요, 신경 써줘서 고마워요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Of course. Are you doing okay with the workload at least?",
+      "questionKo": "당연하죠. 그래도 업무량은 괜찮아요?",
       "questionAudio": "q017.mp3",
       "answer": "It's manageable, thankfully, nothing too overwhelming right now.",
+      "answerKo": "다행히 감당할 만해요, 지금은 그렇게 벅차지 않아요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "That's a relief to hear. How's your headspace been overall?",
+      "questionKo": "다행이네요. 전체적으로 머릿속은 좀 어때요?",
       "questionAudio": "q018.mp3",
       "answer": "Pretty clear, actually, feeling more relaxed than before.",
+      "answerKo": "사실 꽤 맑아요, 예전보다 편안한 느낌이에요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "I'm glad. How are you feeling about everything overall these days?",
+      "questionKo": "다행이네요. 요즘 전반적으로 기분이 어때요?",
       "questionAudio": "q019.mp3",
       "answer": "Pretty optimistic, actually, things feel steady for once.",
+      "answerKo": "사실 꽤 긍정적이에요, 오랜만에 안정된 느낌이에요.",
       "answerAudio": "a019.mp3"
     }
   ]

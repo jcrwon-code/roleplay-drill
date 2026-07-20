@@ -3,128 +3,170 @@
   "turns": [
     {
       "question": "What size shoe do you wear? I want to get you something.",
+      "questionKo": "신발 사이즈가 어떻게 되세요? 뭐 하나 선물하고 싶어서요.",
       "questionAudio": "q000.mp3",
       "answer": "I wear a size nine.",
+      "answerKo": "저는 9사이즈 신어요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Got it. And roughly how tall are you, for reference?",
+      "questionKo": "알겠어요. 그리고 참고로 키가 대략 어떻게 되세요?",
       "questionAudio": "q001.mp3",
       "answer": "I'm about five foot ten.",
+      "answerKo": "키는 5피트 10인치 정도예요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Okay, that helps. What size shirt do you usually go with?",
+      "questionKo": "네, 도움 되네요. 셔츠는 보통 어떤 사이즈 입으세요?",
       "questionAudio": "q002.mp3",
       "answer": "It's a medium, so size ten works fine.",
+      "answerKo": "미디엄이요, 그러니까 10사이즈면 괜찮아요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Perfect, I think I have a good idea what to look for now.",
+      "questionKo": "좋아요, 이제 뭘 찾아야 할지 감이 좀 잡히네요.",
       "questionAudio": "q003.mp3",
       "answer": "Thanks for asking, that'll definitely help you pick the right thing.",
+      "answerKo": "물어봐 주셔서 감사해요, 그러면 딱 맞는 걸 고르는 데 확실히 도움 될 거예요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "How much does this package weigh? I need to fill out the label.",
+      "questionKo": "이 소포 무게가 얼마나 돼요? 라벨 작성해야 해서요.",
       "questionAudio": "q004.mp3",
       "answer": "It weighs about three pounds.",
+      "answerKo": "한 3파운드 정도 나가요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "And how long is the box itself, for the dimensions?",
+      "questionKo": "그리고 치수 적으려면 상자 길이는 얼마나 돼요?",
       "questionAudio": "q005.mp3",
       "answer": "It's roughly two feet long, maybe a bit less.",
+      "answerKo": "대략 2피트 정도예요, 조금 덜 될 수도 있고요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "How wide is it, would you say?",
+      "questionKo": "폭은 어느 정도 될 것 같아요?",
       "questionAudio": "q006.mp3",
       "answer": "About one foot wide, give or take.",
+      "answerKo": "폭은 1피트 정도예요, 대략 그 정도로요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Great, that should be enough info for the shipping label.",
+      "questionKo": "좋아요, 그 정도면 배송 라벨 작성하기에 충분할 것 같아요.",
       "questionAudio": "q007.mp3",
       "answer": "Perfect, let me know if you need anything else measured.",
+      "answerKo": "네, 다른 것도 재야 하면 말씀해 주세요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Actually, how much does the whole shipment weigh once combined?",
+      "questionKo": "그런데 다 합치면 전체 배송물 무게가 얼마나 돼요?",
       "questionAudio": "q008.mp3",
       "answer": "All together, it comes to about ten pounds.",
+      "answerKo": "다 합쳐서 한 10파운드 정도 돼요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "That should keep the shipping cost pretty reasonable then.",
+      "questionKo": "그럼 배송비도 꽤 합리적으로 나올 것 같네요.",
       "questionAudio": "q009.mp3",
       "answer": "That's what I was hoping, it adds up fast otherwise.",
+      "answerKo": "저도 그거 바랐어요, 안 그러면 금방 비싸지거든요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "How far is it from here to the nearest gas station?",
+      "questionKo": "여기서 가장 가까운 주유소까지 거리가 얼마나 돼요?",
       "questionAudio": "q010.mp3",
       "answer": "It's about two miles from here.",
+      "answerKo": "여기서 한 2마일 정도 돼요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "And how long would that take walking versus driving?",
+      "questionKo": "그리고 걸어가는 거랑 운전해서 가는 거랑 시간이 얼마나 차이나요?",
       "questionAudio": "q011.mp3",
       "answer": "Walking, maybe forty minutes; driving, only about five.",
+      "answerKo": "걸어가면 한 40분, 운전하면 한 5분밖에 안 걸려요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "I think I'll just drive then, that makes more sense.",
+      "questionKo": "그럼 그냥 운전해서 갈게요, 그게 더 나을 것 같아요.",
       "questionAudio": "q012.mp3",
       "answer": "Yeah, especially with how hot it's been out lately.",
+      "answerKo": "네, 특히 요즘 날씨가 많이 더워서요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "How far is the airport from your place, out of curiosity?",
+      "questionKo": "그냥 궁금해서 그런데, 공항이 댁에서 얼마나 멀어요?",
       "questionAudio": "q013.mp3",
       "answer": "It's roughly fifteen miles away from where I live.",
+      "answerKo": "저희 집에서 한 15마일 정도 떨어져 있어요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "That's not too bad. How long does that usually take you?",
+      "questionKo": "그렇게 나쁘진 않네요. 보통 시간이 얼마나 걸려요?",
       "questionAudio": "q014.mp3",
       "answer": "About twenty-five minutes without traffic, longer during rush hour.",
+      "answerKo": "차 안 막히면 25분 정도고, 출퇴근 시간대엔 더 걸려요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Good to know for next time I need a ride there.",
+      "questionKo": "다음에 거기 갈 일 있을 때 참고할게요.",
       "questionAudio": "q015.mp3",
       "answer": "Just let me know, I don't mind driving you at all.",
+      "answerKo": "말씀만 하세요, 데려다드리는 거 전혀 상관없어요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "How tall is that new building downtown, do you know?",
+      "questionKo": "시내에 새로 생긴 건물 높이가 얼마나 되는지 아세요?",
       "questionAudio": "q016.mp3",
       "answer": "It's around forty stories tall, one of the tallest around.",
+      "answerKo": "한 40층 정도예요, 이 근처에서 제일 높은 축에 속해요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Wow, that's impressive. How wide is the base of it?",
+      "questionKo": "와, 대단하네요. 밑변 폭은 얼마나 돼요?",
       "questionAudio": "q017.mp3",
       "answer": "I'm not totally sure, but it looks pretty wide from the street.",
+      "answerKo": "정확히는 모르겠는데, 길에서 보면 꽤 넓어 보여요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "I'd love to see it up close sometime.",
+      "questionKo": "언젠가 가까이서 한번 보고 싶네요.",
       "questionAudio": "q018.mp3",
       "answer": "We should walk by it this weekend if you're free.",
+      "answerKo": "이번 주말에 시간 되시면 같이 걸어가 봐요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "How far is it from your office, actually?",
+      "questionKo": "그런데 그게 사무실에서 얼마나 멀어요?",
       "questionAudio": "q019.mp3",
       "answer": "Not far at all, maybe a ten-minute walk.",
+      "answerKo": "전혀 멀지 않아요, 걸어서 한 10분 정도예요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "That's really convenient then, let's do that this weekend.",
+      "questionKo": "그럼 정말 편하네요, 이번 주말에 그렇게 해요.",
       "questionAudio": "q020.mp3",
       "answer": "Sounds good, I'll show you around the area too.",
+      "answerKo": "좋아요, 그 근처도 같이 구경시켜 드릴게요.",
       "answerAudio": "a020.mp3"
     }
   ]

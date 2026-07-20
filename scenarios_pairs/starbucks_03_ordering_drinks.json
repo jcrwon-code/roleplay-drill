@@ -3,122 +3,162 @@
   "turns": [
     {
       "question": "What can I get started for you?",
+      "questionKo": "뭐부터 드릴까요?",
       "questionAudio": "q000.mp3",
       "answer": "I'll have a grande caramel macchiato, please.",
+      "answerKo": "그란데 카라멜 마키아토로 할게요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Would you like that hot or iced?",
+      "questionKo": "따뜻하게 드실래요, 아니면 아이스로 해드릴까요?",
       "questionAudio": "q001.mp3",
       "answer": "Iced, please, it's pretty warm out.",
+      "answerKo": "아이스로 해주세요. 밖에 좀 덥네요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Would you like whipped cream on that as well?",
+      "questionKo": "휘핑크림도 추가해 드릴까요?",
       "questionAudio": "q002.mp3",
       "answer": "Yes, please, extra whipped cream.",
+      "answerKo": "네, 위핑 크림 많이 부탁드려요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Do you want an extra shot added to that too?",
+      "questionKo": "샷 하나 더 넣어 드릴까요?",
       "questionAudio": "q003.mp3",
       "answer": "Yes, please, add an extra shot.",
+      "answerKo": "네, 샷 하나 더 추가해 주세요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Anything else to go with that today?",
+      "questionKo": "혹시 다른 거 필요하신 거 있으세요?",
       "questionAudio": "q004.mp3",
       "answer": "Actually, yes, I'll add a blueberry muffin.",
+      "answerKo": "아니요, 사실 블루베리 머핀으로 바꿀게요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Would you like that warmed up for you?",
+      "questionKo": "따뜻하게 데워 드릴까요?",
       "questionAudio": "q005.mp3",
       "answer": "Yes, please, warmed up would be great.",
+      "answerKo": "네, 따뜻하게 데워주시면 좋겠어요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Perfect, anything else, or is that everything?",
+      "questionKo": "네, 그럼 더 필요하신 건 없으시고 이게 전부 맞으신가요?",
       "questionAudio": "q006.mp3",
       "answer": "No, that'll be everything for now, thanks.",
+      "answerKo": "아뇨, 오늘은 이 정도면 다 됐어요. 감사합니다.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Hot or iced coffee today?",
+      "questionKo": "오늘 커피는 따뜻한 걸로 하시겠어요, 아이스로 하시겠어요?",
       "questionAudio": "q007.mp3",
       "answer": "Hot coffee, please, a tall size.",
+      "answerKo": "핫커피 한 잔 부탁드려요, 라지 사이즈로요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Do you want sugar or sweetener in that?",
+      "questionKo": "설탕 넣을까요, 아니면 시럽으로 할까요?",
       "questionAudio": "q008.mp3",
       "answer": "Just a little sugar, thanks.",
+      "answerKo": "설탕은 조금만 넣어주세요, 고마워요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Would you like room for cream as well?",
+      "questionKo": "크림 넣을 공간도 좀 남겨 드릴까요?",
       "questionAudio": "q009.mp3",
       "answer": "Yes, please, just a little room.",
+      "answerKo": "네, 공간 좀 여유 있게 해주세요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Anything to eat with your coffee this morning?",
+      "questionKo": "커피랑 같이 드실 만한 거 있으세요?",
       "questionAudio": "q010.mp3",
       "answer": "Sure, I'll take a plain bagel with cream cheese.",
+      "answerKo": "네, 플레인 베이글에 크림치즈 하나 주세요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Would you like that toasted or as is?",
+      "questionKo": "토스트 해드릴까요, 그냥 드릴까요?",
       "questionAudio": "q011.mp3",
       "answer": "Toasted, please, thank you.",
+      "answerKo": "토스트 해주시겠어요? 감사합니다.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Perfect, that should be everything then?",
+      "questionKo": "네, 그럼 이게 전부 맞으신 거죠?",
       "questionAudio": "q012.mp3",
       "answer": "Yes, that's everything, thank you.",
+      "answerKo": "네, 이게 다예요. 감사합니다.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "What's your order today?",
+      "questionKo": "주문하신 거 말씀해 주시겠어요?",
       "questionAudio": "q013.mp3",
       "answer": "I'll have a grande vanilla latte, please.",
+      "answerKo": "그란데 바닐라 라떼로 할게요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Do you want that with two pumps or three?",
+      "questionKo": "두 펌프 넣을까요, 아니면 세 펌프 넣을까요?",
       "questionAudio": "q014.mp3",
       "answer": "Three pumps would be great, thanks.",
+      "answerKo": "펌프 세 번 넣어주시면 좋겠어요, 고마워요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Would you like whole milk or a dairy alternative?",
+      "questionKo": "일반 우유로 할까요, 아니면 대체 우유로 해드릴까요?",
       "questionAudio": "q015.mp3",
       "answer": "Actually, could I get oat milk instead?",
+      "answerKo": "아니요, 혹시 오트 밀크로 바꿔주실 수 있나요?",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Of course. Would you like it extra hot?",
+      "questionKo": "물론이죠. 더 뜨겁게 해 드릴까요?",
       "questionAudio": "q016.mp3",
       "answer": "Yes, please, extra hot if possible.",
+      "answerKo": "네, 가능하다면 좀 더 뜨겁게 해주세요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Anything else you'd like to add to that order?",
+      "questionKo": "혹시 주문에 추가하고 싶으신 거 있으세요?",
       "questionAudio": "q017.mp3",
       "answer": "Yes, I'll also add a chocolate croissant.",
+      "answerKo": "네, 초콜릿 크루아상도 같이 할게요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Would you like that warmed up as well?",
+      "questionKo": "따뜻하게 데워 드릴까요?",
       "questionAudio": "q018.mp3",
       "answer": "Yes, please, that would be great.",
+      "answerKo": "네, 그렇게 해주시면 감사하겠습니다.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Perfect, I'll get that started for you right away.",
+      "questionKo": "네, 바로 준비해 드릴게요.",
       "questionAudio": "q019.mp3",
       "answer": "Thank you so much, I appreciate it.",
+      "answerKo": "정말 감사합니다. 잘 부탁드려요.",
       "answerAudio": "a019.mp3"
     }
   ]

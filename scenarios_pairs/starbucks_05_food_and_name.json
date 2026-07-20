@@ -3,122 +3,162 @@
   "turns": [
     {
       "question": "Would you like anything to eat with that?",
+      "questionKo": "음료랑 같이 드실 거 있으세요?",
       "questionAudio": "q000.mp3",
       "answer": "Yes, I'll take a blueberry muffin, please.",
+      "answerKo": "네, 블루베리 머핀 하나 주세요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Would you like that pastry warmed up?",
+      "questionKo": "그 페이스트리 데워 드릴까요?",
       "questionAudio": "q001.mp3",
       "answer": "Yes, please, warmed up would be great.",
+      "answerKo": "네, 따뜻하게 데워주시면 좋겠어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Perfect. Can I get a name for the order?",
+      "questionKo": "네, 주문할 때 성함 말씀해 주시겠어요?",
       "questionAudio": "q002.mp3",
       "answer": "Sure, it's Michael.",
+      "answerKo": "네, 마이클이에요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Got it, Michael, I'll call that out when it's ready.",
+      "questionKo": "알겠습니다. 마이클님, 준비되면 불러드릴게요.",
       "questionAudio": "q003.mp3",
       "answer": "Thanks so much, I'll be waiting over there.",
+      "answerKo": "감사합니다. 저기서 기다리고 있을게요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Would you like a bagel with cream cheese today?",
+      "questionKo": "오늘 베이글에 크림치즈 곁들여 드실래요?",
       "questionAudio": "q004.mp3",
       "answer": "Yes, please, that sounds great.",
+      "answerKo": "네, 좋아요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Would you like that toasted or as is?",
+      "questionKo": "토스트 해 드릴까요, 아니면 그냥 드릴까요?",
       "questionAudio": "q005.mp3",
       "answer": "Toasted, please, thank you.",
+      "answerKo": "토스트로 부탁드려요, 감사합니다.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "What's the name for this order?",
+      "questionKo": "주문자분 성함이 어떻게 되세요?",
       "questionAudio": "q006.mp3",
       "answer": "It's under Sarah, S-A-R-A-H.",
+      "answerKo": "사라예요, S-A-R-A-H.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Got it, Sarah, that'll be ready in just a few minutes.",
+      "questionKo": "네, 사라님. 몇 분 뒤에 준비될 거예요.",
       "questionAudio": "q007.mp3",
       "answer": "Perfect, thank you so much.",
+      "answerKo": "완벽해요, 정말 감사합니다.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Would you like anything sweet to go with your drink today?",
+      "questionKo": "음료랑 같이 달달한 거 좀 더 드릴까요?",
       "questionAudio": "q008.mp3",
       "answer": "Yes, I'll add a chocolate croissant.",
+      "answerKo": "초콜릿 크루아상 하나 추가할게요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Would you like that warmed for a bit longer?",
+      "questionKo": "조금 더 따뜻하게 데워 드릴까요?",
       "questionAudio": "q009.mp3",
       "answer": "Yes, please, a little longer would be great.",
+      "answerKo": "좀 더 오래 해주시면 좋을 것 같아요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Can I get your name for the cup?",
+      "questionKo": "컵에 이름 적어 주시겠어요?",
       "questionAudio": "q010.mp3",
       "answer": "Sure, it's Daniel.",
+      "answerKo": "네, 다니엘이에요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Perfect, Daniel, I'll have that ready shortly.",
+      "questionKo": "알겠습니다, 다니엘님. 곧 준비해 드릴게요.",
       "questionAudio": "q011.mp3",
       "answer": "Thank you, I appreciate it.",
+      "answerKo": "감사합니다. 잘 먹을게요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Would you like the egg bites or the sandwich today?",
+      "questionKo": "오늘 에그 바이트 드실래요, 아니면 샌드위치요?",
       "questionAudio": "q012.mp3",
       "answer": "I'll go with the sandwich, thanks.",
+      "answerKo": "샌드위치로 할게요, 고마워요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Would you like your sandwich cut in half?",
+      "questionKo": "샌드위치 반으로 잘라 드릴까요?",
       "questionAudio": "q013.mp3",
       "answer": "Yes, please, cut in half is perfect.",
+      "answerKo": "반으로 잘라주시면 딱 좋겠어요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "What name should I put on the order?",
+      "questionKo": "주문에 뭐라고 적으면 될까요?",
       "questionAudio": "q014.mp3",
       "answer": "You can just put down Alex.",
+      "answerKo": "알렉스 이름만 말씀하시면 돼요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Got it, Alex, that'll be right up.",
+      "questionKo": "네, 알렉스님. 바로 준비해 드릴게요.",
       "questionAudio": "q015.mp3",
       "answer": "Thanks so much, I appreciate it.",
+      "answerKo": "정말 감사합니다.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Would you like a fruit cup instead of a pastry today?",
+      "questionKo": "페이스트리 대신 과일컵은 어떠세요?",
       "questionAudio": "q016.mp3",
       "answer": "Yes, that sounds like the better option.",
+      "answerKo": "그게 더 나은 선택인 것 같아요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Would you like anything else with that?",
+      "questionKo": "그거 말고 더 필요한 거 있으세요?",
       "questionAudio": "q017.mp3",
       "answer": "No, that'll be all, thanks.",
+      "answerKo": "아니요, 그게 다예요. 감사합니다.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Can I grab a name for this order?",
+      "questionKo": "주문자분 성함 좀 알려주시겠어요?",
       "questionAudio": "q018.mp3",
       "answer": "Sure, it's Emma, like the name.",
+      "answerKo": "엠마예요, 이름 그대로요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Perfect, Emma, I'll call you when it's ready.",
+      "questionKo": "네, 엠마님. 다 되면 불러드릴게요.",
       "questionAudio": "q019.mp3",
       "answer": "Thank you so much, I'll be right here.",
+      "answerKo": "감사합니다. 바로 여기 있을게요.",
       "answerAudio": "a019.mp3"
     }
   ]

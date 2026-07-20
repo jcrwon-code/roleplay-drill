@@ -3,110 +3,146 @@
   "turns": [
     {
       "question": "Is this for here or to go?",
+      "questionKo": "여기서 드실 거예요, 아니면 테이크아웃이세요?",
       "questionAudio": "q000.mp3",
       "answer": "To go, please, thanks.",
+      "answerKo": "테이크아웃으로 주세요. 감사합니다.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Will you need a lid for that then?",
+      "questionKo": "그럼 뚜껑 필요하세요?",
       "questionAudio": "q001.mp3",
       "answer": "Yes, please, I'm taking it with me.",
+      "answerKo": "네, 네, 제가 가져갈게요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Do you want a sleeve for your cup as well?",
+      "questionKo": "컵에 손잡이 같은 거 필요하신가요?",
       "questionAudio": "q002.mp3",
       "answer": "Yes, please, it's pretty hot.",
+      "answerKo": "네, 부탁드려요. 밖에 좀 더워서요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Do you need a bag for that pastry too?",
+      "questionKo": "페이스트리도 봉투 필요하세요?",
       "questionAudio": "q003.mp3",
       "answer": "Yes, please, that would help.",
+      "answerKo": "네, 그러면 정말 좋겠어요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Perfect, are you staying for a while or just grabbing it?",
+      "questionKo": "네, 오래 머무르실 건가요, 아니면 잠깐 들르시는 거예요?",
       "questionAudio": "q004.mp3",
       "answer": "Just grabbing it, I'm in a bit of a rush.",
+      "answerKo": "잠깐 들르는 거라 좀 급해서요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "No problem, I'll get you out of here quickly then.",
+      "questionKo": "괜찮아요. 그럼 빨리 준비해 드릴게요.",
       "questionAudio": "q005.mp3",
       "answer": "I really appreciate that, thank you.",
+      "answerKo": "정말 감사해요, 고마워요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Will you be staying and working here today?",
+      "questionKo": "오늘 여기서 일하시면서 계실 건가요?",
       "questionAudio": "q006.mp3",
       "answer": "Yeah, I'll probably be here a couple hours.",
+      "answerKo": "네, 아마 여기서 몇 시간 정도 있을 것 같아요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Would you like a mug for here instead of a paper cup?",
+      "questionKo": "종이컵 대신 텀블러로 드시겠어요?",
       "questionAudio": "q007.mp3",
       "answer": "Sure, a mug would be nice, thanks.",
+      "answerKo": "음... 머그컵으로 주시면 좋을 것 같아요, 감사합니다.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Will you be using our WiFi while you're here?",
+      "questionKo": "여기 계시면서 와이파이 쓰실 거예요?",
       "questionAudio": "q008.mp3",
       "answer": "Yes, if that's okay, I need to work a bit.",
+      "answerKo": "네, 괜찮으시다면 제가 좀 일해야 해서요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Of course, the password's on the receipt for you.",
+      "questionKo": "물론이죠, 비밀번호는 영수증에 적어드릴게요.",
       "questionAudio": "q009.mp3",
       "answer": "Perfect, thank you so much.",
+      "answerKo": "완벽하네요, 정말 감사합니다.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Are you sitting inside or would you prefer outside today?",
+      "questionKo": "실내에 앉으실래요, 아니면 야외가 좋으세요?",
       "questionAudio": "q010.mp3",
       "answer": "Inside, please, it's a bit windy out there.",
+      "answerKo": "안쪽으로 부탁드려요. 밖에 바람이 좀 불어서요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Good call, there's a nice spot by the window if you'd like.",
+      "questionKo": "좋은 생각이세요. 창가에 좋은 자리 있어요, 원하시면요.",
       "questionAudio": "q011.mp3",
       "answer": "That sounds perfect, thank you for the suggestion.",
+      "answerKo": "딱 좋네요, 추천해 주셔서 감사해요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Do you need a carrier for multiple drinks today?",
+      "questionKo": "음료 여러 개 가져가시나요? 운반용 거 필요하세요?",
       "questionAudio": "q012.mp3",
       "answer": "Yes, please, that would help a lot.",
+      "answerKo": "네, 그러면 정말 큰 도움이 될 거예요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Are you taking this back to the office, by any chance?",
+      "questionKo": "혹시 사무실로 가져가시는 거예요?",
       "questionAudio": "q013.mp3",
       "answer": "Yes, exactly, a few of us are sharing this order.",
+      "answerKo": "맞아요, 저희가 몇 명이 같이 주문한 거 나눠 먹을 거예요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Do you need it packed separately for everyone?",
+      "questionKo": "각각 따로 포장해 드릴까요?",
       "questionAudio": "q014.mp3",
       "answer": "Yes, please, we're splitting it up once I get back.",
+      "answerKo": "네, 제가 돌아오면 나눠 마실게요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "No problem, I'll label each one for you.",
+      "questionKo": "걱정 마세요. 하나하나 라벨 붙여드릴게요.",
       "questionAudio": "q015.mp3",
       "answer": "That's really helpful, thank you so much.",
+      "answerKo": "정말 도움 되네요, 정말 감사합니다.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Will you need a spill-proof lid for the drive?",
+      "questionKo": "차에서 드실 거니까 쏟아지지 않는 뚜껑 필요하신가요?",
       "questionAudio": "q016.mp3",
       "answer": "Yes, please, I'm driving with all of this.",
+      "answerKo": "네, 이거 다 운전하면서 가져갈 거라요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Of course, I'll make sure everything's secure.",
+      "questionKo": "물론이죠, 제가 다 안전하게 챙겨드릴게요.",
       "questionAudio": "q017.mp3",
       "answer": "I really appreciate it, thanks for thinking of that.",
+      "answerKo": "배려해 주셔서 정말 감사해요.",
       "answerAudio": "a017.mp3"
     }
   ]

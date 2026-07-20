@@ -3,134 +3,178 @@
   "turns": [
     {
       "question": "Would you like that with any milk alternatives?",
+      "questionKo": "혹시 다른 우유 대용으로 드릴까요?",
       "questionAudio": "q000.mp3",
       "answer": "Yes, could you use oat milk instead?",
+      "answerKo": "네, 오트 밀크로 바꿔 주실 수 있나요?",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Sure thing. How many shots would you like in your drink?",
+      "questionKo": "네, 그럼 음료에 몇 샷 넣으실 거예요?",
       "questionAudio": "q001.mp3",
       "answer": "I'll take a triple shot today, I need the energy.",
+      "answerKo": "오늘은 트리플 샷으로 할게요. 에너지 좀 필요해서요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Long day ahead? Would you like it extra hot as well?",
+      "questionKo": "오늘 하루 길죠? 더 따뜻하게 해드릴까요?",
       "questionAudio": "q002.mp3",
       "answer": "Yes please, extra hot, thank you.",
+      "answerKo": "네, 부탁드려요. 아주 뜨겁게 해주세요, 감사합니다.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Do you want that with less ice too, since it's hot?",
+      "questionKo": "날이 더운데 얼음은 좀 적게 넣어 드릴까요?",
       "questionAudio": "q003.mp3",
       "answer": "Actually, this one's not iced, so that's fine.",
+      "answerKo": "아니요, 이건 아이스 음료가 아니라서 괜찮아요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Right, my mistake. Would you like an extra pump of caramel?",
+      "questionKo": "아, 제가 실수했네요. 카라멜 시럽 한 번 더 추가해 드릴까요?",
       "questionAudio": "q004.mp3",
       "answer": "Yes, extra pump would be perfect, thanks.",
+      "answerKo": "네, 시럽 한 번 더 넣어주시면 딱 좋겠어요, 고맙습니다.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Perfect, I'll get that triple shot oat milk latte started.",
+      "questionKo": "알겠습니다. 트리플 샷 오트 밀크 라떼 바로 만들어 드릴게요.",
       "questionAudio": "q005.mp3",
       "answer": "Thank you, that sounds exactly right.",
+      "answerKo": "네, 딱 제가 원하던 맛이네요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Would you like a sugar-free syrup instead of regular?",
+      "questionKo": "설탕 없는 시럽으로 바꾸실래요?",
       "questionAudio": "q006.mp3",
       "answer": "Yes, sugar-free vanilla would be perfect.",
+      "answerKo": "음... 설탕 없는 바닐라로 부탁드려요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Do you want that blended thinner or thicker than usual?",
+      "questionKo": "평소보다 좀 더 묽게 갈아드릴까요, 아니면 진하게요?",
       "questionAudio": "q007.mp3",
       "answer": "A bit thinner, if that's possible.",
+      "answerKo": "좀 묽게 해주실 수 있을까요?",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "No problem. Would you like extra whipped cream on top?",
+      "questionKo": "괜찮아요. 휘핑크림 많이 올려 드릴까요?",
       "questionAudio": "q008.mp3",
       "answer": "Yes, please, pile it on.",
+      "answerKo": "네, 많이 올려주세요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Ha, you got it. How would you like your foam, light or thick?",
+      "questionKo": "네, 알겠어요. 거품은 가볍게 할까요, 아니면 두껍게 할까요?",
       "questionAudio": "q009.mp3",
       "answer": "Thick foam, please, I love that part.",
+      "answerKo": "거품을 두껍게 해주세요. 그 부분이 제일 좋아요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Perfect, sounds like a real treat today.",
+      "questionKo": "완벽하네요. 오늘 정말 특별한 음료가 될 것 같아요.",
       "questionAudio": "q010.mp3",
       "answer": "It really is, I've been looking forward to this all week.",
+      "answerKo": "진짜 그래요. 이번 주 내내 이걸 기다렸거든요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Would you like your drink with less sweetener today?",
+      "questionKo": "오늘 단맛을 좀 덜하게 해드릴까요?",
       "questionAudio": "q011.mp3",
       "answer": "Yes, please, half the usual amount.",
+      "answerKo": "네, 평소 양의 절반만 주세요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Sure. Do you want an extra drizzle of caramel on top still?",
+      "questionKo": "네. 위에 카라멜 시럽 한 번 더 뿌려 드릴까요?",
       "questionAudio": "q012.mp3",
       "answer": "Yes, please, that's my favorite part.",
+      "answerKo": "네, 제가 제일 좋아하는 부분이에요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Understood. Would you like it with almond milk foam?",
+      "questionKo": "알겠습니다. 아몬드 밀크 거품으로 해드릴까요?",
       "questionAudio": "q013.mp3",
       "answer": "Yes, almond milk foam sounds great.",
+      "answerKo": "알몬드 밀크 거품 좋네요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Do you want a little cinnamon sprinkled on top as well?",
+      "questionKo": "위에 계피 가루 살짝 뿌려 드릴까요?",
       "questionAudio": "q014.mp3",
       "answer": "Yes, a sprinkle would be nice, thank you.",
+      "answerKo": "네, 위에 살짝 뿌려주시면 좋을 것 같아요, 감사합니다.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Perfect, that's a great combination you've put together.",
+      "questionKo": "완벽해요, 정말 좋은 조합이네요.",
       "questionAudio": "q015.mp3",
       "answer": "Thanks, I've been experimenting with different orders lately.",
+      "answerKo": "감사해요. 요즘 주문을 이것저것 바꿔보면서 실험 중이거든요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Well, this one sounds like a winner to me.",
+      "questionKo": "음, 이대로 주문할게요.",
       "questionAudio": "q016.mp3",
       "answer": "I hope so, I'm excited to try it.",
+      "answerKo": "그러길 바라요. 기대돼요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Would you like your matcha extra strong today?",
+      "questionKo": "말차 좀 진하게 해드릴까요?",
       "questionAudio": "q017.mp3",
       "answer": "Yes, please, extra strong today.",
+      "answerKo": "네, 오늘은 더 진하게 부탁드려요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Do you want that with two percent milk or something else?",
+      "questionKo": "2% 우유로 할까요, 아니면 다른 걸 원하세요?",
       "questionAudio": "q018.mp3",
       "answer": "Two percent works perfectly, thanks.",
+      "answerKo": "2% 우유가 딱 맞아요, 고마워요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Would you like it topped with cold foam as well?",
+      "questionKo": "콜드 폼 올려 드릴까요?",
       "questionAudio": "q019.mp3",
       "answer": "Yes, cold foam sounds great today.",
+      "answerKo": "네, 오늘 콜드 폼 좋네요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "Perfect, and would you like it a little sweeter than usual?",
+      "questionKo": "네, 평소보다 단맛을 좀 더 강하게 해드릴까요?",
       "questionAudio": "q020.mp3",
       "answer": "Yes, a little sweeter would be nice.",
+      "answerKo": "좀 더 달았으면 좋을 것 같아요.",
       "answerAudio": "a020.mp3"
     },
     {
       "question": "Got it, I'll get that strong sweet matcha ready for you.",
+      "questionKo": "알겠습니다. 진하고 달콤한 말차 바로 준비해 드릴게요.",
       "questionAudio": "q021.mp3",
       "answer": "Thank you, that sounds like exactly what I need.",
+      "answerKo": "감사해요. 딱 제가 필요했던 맛이네요.",
       "answerAudio": "a021.mp3"
     }
   ]

@@ -3,140 +3,186 @@
   "turns": [
     {
       "question": "How many people are coming to the party this weekend?",
+      "questionKo": "이번 주말 파티에 몇 명이나 와요?",
       "questionAudio": "q000.mp3",
       "answer": "Around twenty people, give or take.",
+      "answerKo": "한 20명 정도, 조금 왔다갔다할 거예요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Okay, so how many chairs do we need to set up for that?",
+      "questionKo": "그럼 의자는 몇 개나 준비해야 돼요?",
       "questionAudio": "q001.mp3",
       "answer": "We'll need about thirty chairs total, to be safe.",
+      "answerKo": "안전하게 총 30개 정도는 필요할 거예요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "And how many bottles of water should we bring along?",
+      "questionKo": "그리고 생수는 몇 병 가져가야 돼요?",
       "questionAudio": "q002.mp3",
       "answer": "Let's bring a case, that's twenty-four bottles.",
+      "answerKo": "한 박스 가져가요, 24병짜리예요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Is that going to be enough for everyone, do you think?",
+      "questionKo": "그거면 다들 마시기에 충분할까요?",
       "questionAudio": "q003.mp3",
       "answer": "It should be, plus we'll have other drinks too.",
+      "answerKo": "충분할 거예요, 게다가 다른 음료도 있을 거고요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Good point. How many pizzas should we order then?",
+      "questionKo": "맞는 말이네요. 그럼 피자는 몇 판 시켜야 돼요?",
       "questionAudio": "q004.mp3",
       "answer": "Probably six pizzas, that should cover everyone easily.",
+      "answerKo": "한 6판이면 다들 충분히 먹을 거예요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "How many slices does one pizza usually have?",
+      "questionKo": "피자 한 판에 보통 몇 조각이에요?",
       "questionAudio": "q005.mp3",
       "answer": "Usually eight slices per pizza, so that's forty-eight total.",
+      "answerKo": "보통 한 판에 8조각이니까, 총 48조각이에요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "That sounds like plenty for twenty guests.",
+      "questionKo": "손님 20명한테는 충분히 넉넉하겠네요.",
       "questionAudio": "q006.mp3",
       "answer": "Yeah, we should even have a few slices left over.",
+      "answerKo": "네, 몇 조각 남을 정도일 거예요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "How many candles do we still need to buy for the cake?",
+      "questionKo": "케이크용 초는 몇 개 더 사야 돼요?",
       "questionAudio": "q007.mp3",
       "answer": "We still need about ten more candles, I think.",
+      "answerKo": "한 10개 정도 더 사야 할 것 같아요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Alright, I'll grab those on my way home tonight.",
+      "questionKo": "알겠어요, 오늘 밤 집에 가는 길에 사 올게요.",
       "questionAudio": "q008.mp3",
       "answer": "Thanks, that'll save us a trip tomorrow.",
+      "answerKo": "고마워요, 그러면 내일 따로 안 나가도 되겠네요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "How many students are in your class this year?",
+      "questionKo": "올해 반 학생이 몇 명이에요?",
       "questionAudio": "q009.mp3",
       "answer": "There are twenty-eight students this year, a full class.",
+      "answerKo": "올해는 28명이에요, 꽉 찬 반이죠.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "That's a lot to manage. How many hours do you usually work a week?",
+      "questionKo": "관리하기 힘들겠네요. 일주일에 보통 몇 시간 일해요?",
       "questionAudio": "q010.mp3",
       "answer": "Probably around forty-five hours, sometimes more.",
+      "answerKo": "한 45시간 정도요, 가끔 더 하기도 해요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Wow, how many of those hours are actual teaching time?",
+      "questionKo": "와, 그중에 실제 수업 시간은 몇 시간이에요?",
       "questionAudio": "q011.mp3",
       "answer": "Only about twenty-five hours are in the classroom itself.",
+      "answerKo": "교실에서 하는 시간은 25시간 정도밖에 안 돼요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "So the rest is grading and planning, I assume?",
+      "questionKo": "그럼 나머지는 채점이랑 수업 준비겠네요?",
       "questionAudio": "q012.mp3",
       "answer": "Exactly, plus meetings, which eat up more time than people think.",
+      "answerKo": "맞아요, 게다가 회의도 있는데 생각보다 시간을 많이 잡아먹어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "How many meetings do you usually have in a week?",
+      "questionKo": "일주일에 회의는 보통 몇 번이나 있어요?",
       "questionAudio": "q013.mp3",
       "answer": "I've got about six meetings most weeks, unfortunately.",
+      "answerKo": "아쉽게도 거의 매주 6번 정도는 있어요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "That sounds exhausting. How many years have you been teaching now?",
+      "questionKo": "정말 힘들겠어요. 교직 생활은 몇 년째예요?",
       "questionAudio": "q014.mp3",
       "answer": "I've been teaching for about seven years now.",
+      "answerKo": "가르친 지 이제 7년 정도 됐어요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Do you think you'll keep going for many more?",
+      "questionKo": "앞으로도 계속 오래 하실 것 같아요?",
       "questionAudio": "q015.mp3",
       "answer": "Probably, I still really love it most days.",
+      "answerKo": "아마도요, 대부분은 여전히 정말 좋아하거든요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "How many boxes are left in the storage room?",
+      "questionKo": "창고에 상자가 몇 개나 남았어요?",
       "questionAudio": "q016.mp3",
       "answer": "There are about fifteen boxes left to sort through.",
+      "answerKo": "정리해야 할 상자가 한 15개 정도 남았어요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "How many of those are labeled versus unlabeled?",
+      "questionKo": "그중에 라벨 붙은 거랑 안 붙은 거는 몇 개씩이에요?",
       "questionAudio": "q017.mp3",
       "answer": "Maybe nine are labeled, the other six are a mystery.",
+      "answerKo": "9개는 라벨이 있고, 나머지 6개는 뭔지 모르겠어요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "How many days do you think it'll take to sort through everything?",
+      "questionKo": "다 정리하는 데 며칠 정도 걸릴 것 같아요?",
       "questionAudio": "q018.mp3",
       "answer": "Probably about four days, if I work on it steadily.",
+      "answerKo": "꾸준히 하면 한 4일 정도 걸릴 것 같아요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "How many people do you have helping you with it?",
+      "questionKo": "도와주는 사람은 몇 명이나 있어요?",
       "questionAudio": "q019.mp3",
       "answer": "Just two other people, so it's slow going.",
+      "answerKo": "다른 두 명뿐이라서 좀 느리게 진행돼요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "Would it help if I sent over a couple more?",
+      "questionKo": "제가 몇 명 더 보내드리면 도움이 될까요?",
       "questionAudio": "q020.mp3",
       "answer": "That would help a lot, even one more person would speed things up.",
+      "answerKo": "정말 도움 될 것 같아요, 한 명만 더 와도 훨씬 빨라질 거예요.",
       "answerAudio": "a020.mp3"
     },
     {
       "question": "How many do you think we'd need total to finish by Friday?",
+      "questionKo": "금요일까지 끝내려면 총 몇 명이 필요할 것 같아요?",
       "questionAudio": "q021.mp3",
       "answer": "Probably five people working together could finish it by then.",
+      "answerKo": "5명 정도가 같이 하면 그때까지 끝낼 수 있을 것 같아요.",
       "answerAudio": "a021.mp3"
     },
     {
       "question": "Alright, I'll see how many I can pull from the other team.",
+      "questionKo": "알겠어요, 다른 팀에서 몇 명이나 데려올 수 있는지 알아볼게요.",
       "questionAudio": "q022.mp3",
       "answer": "I really appreciate that, it would make a huge difference.",
+      "answerKo": "정말 감사해요, 큰 도움이 될 거예요.",
       "answerAudio": "a022.mp3"
     }
   ]

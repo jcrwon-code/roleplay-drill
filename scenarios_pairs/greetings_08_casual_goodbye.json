@@ -3,92 +3,122 @@
   "turns": [
     {
       "question": "Alright, I gotta run, catch you later!",
+      "questionKo": "자, 나 가봐야 해, 나중에 봐!",
       "questionAudio": "q000.mp3",
       "answer": "Sounds good, see you around!",
+      "answerKo": "좋아, 또 보자!",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "I should get going too, it was good seeing you.",
+      "questionKo": "나도 가봐야겠다, 만나서 반가웠어.",
       "questionAudio": "q001.mp3",
       "answer": "You too, let's not wait so long next time.",
+      "answerKo": "나도 반가웠어, 다음엔 이렇게 오래 안 기다리자.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Agreed. We should actually do this again sometime soon.",
+      "questionKo": "맞아. 진짜 조만간 또 이렇게 만나야겠다.",
       "questionAudio": "q002.mp3",
       "answer": "Absolutely, let's plan something for next week.",
+      "answerKo": "당연하지, 다음 주에 뭐 계획 잡아보자.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Okay, I'll text you some days that work for me.",
+      "questionKo": "알았어, 내가 가능한 날짜들 문자로 보낼게.",
       "questionAudio": "q003.mp3",
       "answer": "Perfect, I'll keep an eye out for it.",
+      "answerKo": "좋아, 기다리고 있을게.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Alright, take care of yourself until then!",
+      "questionKo": "그럼, 그때까지 몸 조심하고!",
       "questionAudio": "q004.mp3",
       "answer": "You too, drive safe getting home!",
+      "answerKo": "너도, 집 갈 때 운전 조심해!",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Okay, I'm gonna head out, this was really fun.",
+      "questionKo": "그래, 나 이제 갈게, 오늘 정말 재밌었어.",
       "questionAudio": "q005.mp3",
       "answer": "Yeah, it really was, see you soon!",
+      "answerKo": "응, 진짜 그랬어, 곧 보자!",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "For sure. I gotta run, but let's catch up properly next time.",
+      "questionKo": "그럼. 나 가야 하는데, 다음엔 제대로 얘기 나누자.",
       "questionAudio": "q006.mp3",
       "answer": "For sure, I'll text you sometime this week.",
+      "answerKo": "당연하지, 이번 주 안에 문자할게.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Sounds good. I should probably head home now, it's getting late.",
+      "questionKo": "좋아. 나 이제 집에 가야 할 것 같아, 늦어지네.",
       "questionAudio": "q007.mp3",
       "answer": "Yeah, same here, let's call it a night.",
+      "answerKo": "응, 나도 그래, 오늘은 여기서 마무리하자.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Alright, I'll let you get back to it then, see ya!",
+      "questionKo": "그래, 그럼 하던 거 마저 하게 놔둘게, 안녕!",
       "questionAudio": "q008.mp3",
       "answer": "Thanks, see you later, take care!",
+      "answerKo": "고마워, 다음에 봐, 잘 지내!",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "You too, get home safe!",
+      "questionKo": "너도, 집에 조심히 들어가!",
       "questionAudio": "q009.mp3",
       "answer": "Will do, text me when you're back!",
+      "answerKo": "그럴게, 도착하면 문자할게!",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Alright, I've got somewhere to be, gotta run.",
+      "questionKo": "자, 나 가야 할 곳이 있어서, 이만 가볼게.",
       "questionAudio": "q010.mp3",
       "answer": "No worries, go ahead, see you soon.",
+      "answerKo": "괜찮아, 어서 가, 곧 보자.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Okay, I'm gonna dip, catch you later.",
+      "questionKo": "그래, 나 이제 갈게, 나중에 봐.",
       "questionAudio": "q011.mp3",
       "answer": "Alright, later! Have a good night.",
+      "answerKo": "알았어, 나중에 봐! 좋은 밤 보내.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "You too! Actually, wait -- are we still on for the weekend?",
+      "questionKo": "너도! 아 참, 잠깐, 우리 주말 약속 여전히 유효한 거지?",
       "questionAudio": "q012.mp3",
       "answer": "Yeah, definitely, wouldn't miss it for anything.",
+      "answerKo": "응, 당연하지, 무슨 일이 있어도 안 빠질 거야.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Perfect, I'll message you the details tomorrow then.",
+      "questionKo": "좋아, 그럼 내일 자세한 내용 문자로 보낼게.",
       "questionAudio": "q013.mp3",
       "answer": "Sounds good, looking forward to it already.",
+      "answerKo": "좋아, 벌써부터 기대된다.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Alright, for real this time, I'll catch you later, bye!",
+      "questionKo": "자, 이번엔 진짜로, 나중에 보자, 안녕!",
       "questionAudio": "q014.mp3",
       "answer": "Bye, take care, talk later!",
+      "answerKo": "안녕, 잘 지내, 나중에 얘기하자!",
       "answerAudio": "a014.mp3"
     }
   ]

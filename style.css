@@ -70,6 +70,18 @@ button:disabled { opacity: 0.4; cursor: default; }
   border-color: #fff;
 }
 
+.switchRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #eaeaea;
+}
+
+.switchRow input { width: auto; margin: 0; }
+
+body.hideKorean .koLine { display: none; }
+
 .categoryHeading {
   font-size: 13px;
   font-weight: 700;
@@ -151,7 +163,16 @@ button:disabled { opacity: 0.4; cursor: default; }
   transition: color 0.2s, font-weight 0.2s;
 }
 
-.pairRow .aLine { margin-top: 6px; }
+.pairRow .koLine {
+  font-size: 14px;
+  line-height: 1.4;
+  color: #555;
+  opacity: 0.75;
+  margin-top: 2px;
+  transition: color 0.2s;
+}
+
+.pairRow .aBlock { margin-top: 10px; }
 
 .pairRow .roleTag {
   font-size: 10px;
@@ -166,21 +187,66 @@ button:disabled { opacity: 0.4; cursor: default; }
   background: #17202e;
 }
 
-.pairRow.active .qLine.current,
-.pairRow.active .aLine.current {
+.pairRow.active .qBlock.current .qLine,
+.pairRow.active .aBlock.current .aLine {
   color: #5b9dff;
   font-weight: 700;
   font-size: 22px;
 }
 
-.pairRow.active .qLine:not(.current),
-.pairRow.active .aLine:not(.current) {
+.pairRow.active .qBlock.current .koLine,
+.pairRow.active .aBlock.current .koLine {
+  color: #8fb8ff;
+  font-size: 16px;
+  opacity: 1;
+}
+
+.pairRow.active .qBlock:not(.current) .qLine,
+.pairRow.active .aBlock:not(.current) .aLine {
   color: #7a8699;
+}
+
+.drillButtons {
+  display: flex;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.repeatBtn {
+  background: #111;
+  color: #5b9dff;
+  border: 1px solid #1e3a5f;
+  margin-top: 0;
 }
 
 .stopBtn {
   background: #111;
   color: #ff6b7a;
   border: 1px solid #402028;
-  margin-top: 16px;
+  margin-top: 0;
+}
+
+.vocabWord {
+  border-bottom: 1px dotted #5b9dff;
+  cursor: pointer;
+}
+
+#vocabPopup {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: max(16px, env(safe-area-inset-bottom));
+  background: #1a2434;
+  border: 1px solid #2c4a6e;
+  color: #eaeaea;
+  padding: 14px 16px;
+  border-radius: 12px;
+  font-size: 15px;
+  line-height: 1.5;
+  z-index: 100;
+}
+
+.vocabIpa {
+  color: #8fb8ff;
+  font-family: "Times New Roman", serif;
 }

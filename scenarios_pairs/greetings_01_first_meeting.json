@@ -3,182 +3,242 @@
   "turns": [
     {
       "question": "Hi, I don't think we've met yet. I'm Alex.",
+      "questionKo": "안녕하세요, 저희 초면인 것 같은데요. 저는 알렉스예요.",
       "questionAudio": "q000.mp3",
       "answer": "Nice to meet you, Alex. I'm Priya -- I just started last week.",
+      "answerKo": "만나서 반가워요, 알렉스. 저는 프리야예요. 지난주에 막 입사했어요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Oh, welcome! How's your first week been so far?",
+      "questionKo": "아, 환영해요! 첫 주는 어땠어요?",
       "questionAudio": "q001.mp3",
       "answer": "Pretty overwhelming, honestly, but everyone's been really friendly.",
+      "answerKo": "솔직히 정신없긴 한데, 다들 정말 친절하게 대해주셨어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "That's good to hear. Which team are you on?",
+      "questionKo": "다행이네요. 어느 팀에 계세요?",
       "questionAudio": "q002.mp3",
       "answer": "I'm on the design team, working mostly with Sam and Jordan.",
+      "answerKo": "디자인팀이에요. 주로 샘이랑 조던이랑 같이 일해요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Oh nice, I know Sam from a project last year. How do you like design so far?",
+      "questionKo": "오, 좋네요. 저 작년 프로젝트 때문에 샘 알아요. 디자인 일은 지금까지 어때요?",
       "questionAudio": "q003.mp3",
       "answer": "I love it -- it's exactly what I wanted to do after school.",
+      "answerKo": "너무 좋아요. 졸업하고 딱 하고 싶었던 일이거든요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "That's great. Did you study design in college?",
+      "questionKo": "잘됐네요. 대학에서 디자인 전공하셨어요?",
       "questionAudio": "q004.mp3",
       "answer": "Yeah, I majored in graphic design at a school upstate.",
+      "answerKo": "네, 위쪽 지역 학교에서 그래픽 디자인 전공했어요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Is that where you're from originally, or did you move for school?",
+      "questionKo": "거기가 고향이세요, 아니면 학교 때문에 이사하신 거예요?",
       "questionAudio": "q005.mp3",
       "answer": "I actually grew up a couple hours from there, so it wasn't too far.",
+      "answerKo": "사실 거기서 두 시간 정도 떨어진 곳에서 자랐어요. 그렇게 멀진 않았죠.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Gotcha. And where are you living now that you're here?",
+      "questionKo": "그렇군요. 지금 여기서는 어디 사세요?",
       "questionAudio": "q006.mp3",
       "answer": "I found a place downtown, close enough to walk to work.",
+      "answerKo": "시내에 집을 구했어요, 회사까지 걸어올 수 있을 정도로 가까워요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "That's convenient. Do you like the neighborhood so far?",
+      "questionKo": "편리하네요. 동네는 마음에 드세요?",
       "questionAudio": "q007.mp3",
       "answer": "I do, there are a lot of good coffee shops nearby.",
+      "answerKo": "네, 근처에 괜찮은 카페가 많더라고요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "That's exactly what I look for too. Any favorites yet?",
+      "questionKo": "저도 그런 거 중요하게 보거든요. 마음에 드는 곳 있어요?",
       "questionAudio": "q008.mp3",
       "answer": "Not yet, I've only tried the one on the corner near my building.",
+      "answerKo": "아직요, 저희 건물 근처 모퉁이에 있는 곳만 가봤어요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "You'll have to let me recommend a few once you settle in.",
+      "questionKo": "자리 좀 잡히면 제가 몇 군데 추천해드릴게요.",
       "questionAudio": "q009.mp3",
       "answer": "I'd love that, thanks -- it's nice meeting someone so welcoming already.",
+      "answerKo": "좋아요, 감사해요. 벌써 이렇게 친절한 분을 만나니 기분이 좋네요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Excuse me, are you Daniel? Jake told me I should introduce myself.",
+      "questionKo": "저기, 혹시 다니엘이세요? 제이크가 저한테 인사드리라고 하더라고요.",
       "questionAudio": "q010.mp3",
       "answer": "Yes, that's me -- and you must be the friend from his college days.",
+      "answerKo": "네, 맞아요. 그럼 대학 시절 친구분이시겠네요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Guilty as charged. I'm Mia, by the way.",
+      "questionKo": "네, 맞아요. 저는 미아예요.",
       "questionAudio": "q011.mp3",
       "answer": "Nice to finally put a face to the name, Mia. He talks about you a lot.",
+      "answerKo": "드디어 얼굴을 뵙네요, 미아. 제이크가 얘기 많이 했어요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "All good things, I hope.",
+      "questionKo": "좋은 얘기였길 바라요.",
       "questionAudio": "q012.mp3",
       "answer": "Mostly, yeah -- mainly stories about your road trip a few summers back.",
+      "answerKo": "네, 대부분요. 주로 몇 년 전 여름 로드트립 얘기였어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Oh no, did he tell you about the flat tire in the middle of nowhere?",
+      "questionKo": "어머, 그럼 허허벌판에서 타이어 펑크 났던 얘기도 했어요?",
       "questionAudio": "q013.mp3",
       "answer": "He did, actually -- said you two were stranded for almost four hours.",
+      "answerKo": "네, 했어요. 거의 네 시간 동안 갇혀 있었다고 하던데요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "It felt like forty. So, how do you know Jake?",
+      "questionKo": "체감상 40시간이었어요. 그런데 제이크랑은 어떻게 아는 사이세요?",
       "questionAudio": "q014.mp3",
       "answer": "We were roommates our senior year, then stayed close after graduating.",
+      "answerKo": "졸업반 때 룸메이트였고, 졸업 후에도 계속 친하게 지냈어요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "That's great that it lasted. Do you two still live in the same city?",
+      "questionKo": "우정이 오래갔네요. 지금도 같은 도시에 사세요?",
       "questionAudio": "q015.mp3",
       "answer": "No, actually, he moved for work and I stayed behind, but we visit often.",
+      "answerKo": "아니요, 사실 그는 일 때문에 이사 갔고 저는 남았는데, 서로 자주 오가요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "That's nice you've kept it up despite the distance.",
+      "questionKo": "거리가 있어도 계속 연락하고 지내다니 좋네요.",
       "questionAudio": "q016.mp3",
       "answer": "It helps that he comes back for these parties every year.",
+      "answerKo": "매년 이런 파티 때 돌아오니까 도움이 되죠.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Speaking of which, is this your first time at one of his get-togethers?",
+      "questionKo": "그러고 보니, 이번이 제이크 모임에 처음 오신 건가요?",
       "questionAudio": "q017.mp3",
       "answer": "No, my third one actually -- I try not to miss them if I can help it.",
+      "answerKo": "아니요, 사실 세 번째예요. 가능하면 빠지지 않으려고 해요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "I can see why, the food alone is worth the trip.",
+      "questionKo": "왜 그런지 알겠어요, 음식만 봐도 올 만하죠.",
       "questionAudio": "q018.mp3",
       "answer": "Right? He always goes way overboard with the appetizers.",
+      "answerKo": "그렇죠? 항상 애피타이저를 엄청나게 준비하더라고요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "Well, it was great officially meeting you, Mia.",
+      "questionKo": "아무튼, 이렇게 정식으로 만나서 반가웠어요, 미아.",
       "questionAudio": "q019.mp3",
       "answer": "You too, Daniel -- I'm sure Jake will fill me in on everything else later.",
+      "answerKo": "저도요, 다니엘. 나머지 얘기는 나중에 제이크가 다 해줄 거예요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "Hey, I don't think we've officially met. I'm Noah, I live upstairs.",
+      "questionKo": "안녕하세요, 정식으로 인사한 적은 없는 것 같네요. 저는 노아예요, 위층에 살아요.",
       "questionAudio": "q020.mp3",
       "answer": "Oh, hi Noah, I'm Grace -- I just moved into 4B a couple weeks ago.",
+      "answerKo": "아, 안녕하세요 노아, 저는 그레이스예요. 몇 주 전에 4B호로 이사왔어요.",
       "answerAudio": "a020.mp3"
     },
     {
       "question": "Welcome to the building! How's the move-in going?",
+      "questionKo": "환영해요! 이사는 잘 돼가요?",
       "questionAudio": "q021.mp3",
       "answer": "Slowly, there are still boxes everywhere, but it's coming together.",
+      "answerKo": "천천히요, 아직 박스가 여기저기 쌓여있긴 한데 조금씩 정리되고 있어요.",
       "answerAudio": "a021.mp3"
     },
     {
       "question": "That's how it always goes. Where were you living before this?",
+      "questionKo": "다 그렇죠 뭐. 전에는 어디 사셨어요?",
       "questionAudio": "q022.mp3",
       "answer": "I was renting a studio across town, but I needed more space.",
+      "answerKo": "동네 반대편에서 원룸 살고 있었는데, 공간이 더 필요했어요.",
       "answerAudio": "a022.mp3"
     },
     {
       "question": "Makes sense. Is it just you, or do you have a roommate?",
+      "questionKo": "그렇군요. 혼자 사세요, 아니면 룸메이트가 있어요?",
       "questionAudio": "q023.mp3",
       "answer": "Just me for now, though my sister might move in later this year.",
+      "answerKo": "지금은 혼자인데, 올해 안에 여동생이 들어올 수도 있어요.",
       "answerAudio": "a023.mp3"
     },
     {
       "question": "Nice, having family close by is always good.",
+      "questionKo": "좋네요, 가족이 가까이 있으면 늘 든든하죠.",
       "questionAudio": "q024.mp3",
       "answer": "Yeah, especially since I don't know many people in this neighborhood yet.",
+      "answerKo": "맞아요, 특히 이 동네에 아는 사람이 아직 별로 없어서 더 그래요.",
       "answerAudio": "a024.mp3"
     },
     {
       "question": "Well, you picked a pretty friendly building, if I do say so myself.",
+      "questionKo": "뭐, 제 입으로 말하긴 좀 그렇지만 여기 꽤 정 많은 건물이에요.",
       "questionAudio": "q025.mp3",
       "answer": "Good to know -- honestly, that's a relief to hear.",
+      "answerKo": "알아두면 좋겠네요. 솔직히 듣고 나니 마음이 놓여요.",
       "answerAudio": "a025.mp3"
     },
     {
       "question": "If you ever need anything, or just want to know a good spot to eat, let me know.",
+      "questionKo": "뭐든 필요한 거 있거나 맛집 알고 싶으면 언제든 말해요.",
       "questionAudio": "q026.mp3",
       "answer": "I might take you up on that, actually -- I haven't explored much yet.",
+      "answerKo": "그 말씀 진짜 활용할지도 몰라요. 아직 별로 돌아다녀 보질 못했거든요.",
       "answerAudio": "a026.mp3"
     },
     {
       "question": "There's a great little diner two blocks down, best pancakes around.",
+      "questionKo": "두 블록 아래에 괜찮은 식당이 있는데, 이 근처에서 팬케이크가 제일 맛있어요.",
       "questionAudio": "q027.mp3",
       "answer": "Now that's the kind of tip I was hoping for.",
+      "answerKo": "바로 그런 정보를 기다리고 있었어요.",
       "answerAudio": "a027.mp3"
     },
     {
       "question": "I'll write down the name for you before I head back up.",
+      "questionKo": "올라가기 전에 이름 적어드릴게요.",
       "questionAudio": "q028.mp3",
       "answer": "Thanks, Noah -- that's really kind of you.",
+      "answerKo": "고마워요, 노아. 정말 친절하시네요.",
       "answerAudio": "a028.mp3"
     },
     {
       "question": "No problem at all. Welcome to the building again, Grace.",
+      "questionKo": "별말씀을요. 다시 한번 환영해요, 그레이스.",
       "questionAudio": "q029.mp3",
       "answer": "Thanks so much, I'm glad we finally ran into each other.",
+      "answerKo": "정말 감사해요, 드디어 마주치게 되어서 좋네요.",
       "answerAudio": "a029.mp3"
     }
   ]

@@ -3,92 +3,122 @@
   "turns": [
     {
       "question": "Thank you again for your time today, it was a real pleasure.",
+      "questionKo": "오늘 시간 내주셔서 다시 한번 감사드립니다, 정말 즐거운 자리였습니다.",
       "questionAudio": "q000.mp3",
       "answer": "The pleasure was all mine, thank you for coming in.",
+      "answerKo": "저야말로 즐거웠습니다, 와주셔서 감사합니다.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "I look forward to working together going forward.",
+      "questionKo": "앞으로 함께 일하게 되기를 기대하겠습니다.",
       "questionAudio": "q001.mp3",
       "answer": "As do I, I'll be in touch soon with the next steps.",
+      "answerKo": "저도 마찬가지입니다, 다음 절차는 곧 연락드리겠습니다.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Wonderful. I'll follow up with you by email tomorrow morning.",
+      "questionKo": "좋습니다. 내일 아침에 이메일로 후속 연락드리겠습니다.",
       "questionAudio": "q002.mp3",
       "answer": "Perfect, I'll keep an eye out for it, thank you.",
+      "answerKo": "좋습니다, 기다리고 있겠습니다, 감사합니다.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Of course. Thank you for your hospitality during our stay.",
+      "questionKo": "물론입니다. 머무는 동안 환대해 주셔서 감사했습니다.",
       "questionAudio": "q003.mp3",
       "answer": "It was truly our pleasure, safe travels back home.",
+      "answerKo": "저희야말로 정말 즐거웠습니다, 돌아가시는 길 편안하시길 바랍니다.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Thank you, I appreciate that -- I hope to see you again at the next conference.",
+      "questionKo": "감사합니다, 잘 챙겨주셔서요. 다음 컨퍼런스에서 또 뵙기를 바랍니다.",
       "questionAudio": "q004.mp3",
       "answer": "I hope so too, take care until then.",
+      "answerKo": "저도 그러길 바랍니다, 그때까지 건강하세요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "It was wonderful to finally meet you in person after all this time.",
+      "questionKo": "이렇게 오랜만에 드디어 직접 뵙게 되어 정말 좋았습니다.",
       "questionAudio": "q005.mp3",
       "answer": "Likewise, I hope we can do this again soon.",
+      "answerKo": "저도 마찬가지입니다, 곧 다시 이런 자리 마련하길 바랍니다.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "I'll be sure to send over the documents once I'm back at my desk.",
+      "questionKo": "자리로 돌아가는 대로 서류 꼭 보내드리겠습니다.",
       "questionAudio": "q006.mp3",
       "answer": "Thank you, I'll look out for them this week.",
+      "answerKo": "감사합니다, 이번 주 안에 기다리고 있겠습니다.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Of course. Thank you for accommodating our schedule today.",
+      "questionKo": "물론입니다. 오늘 저희 일정에 맞춰주셔서 감사합니다.",
       "questionAudio": "q007.mp3",
       "answer": "Not a problem at all, safe travels, and thank you for coming.",
+      "answerKo": "별말씀을요, 편안히 돌아가시고, 와주셔서 감사합니다.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "I appreciate that. It's been a genuine pleasure working with your team.",
+      "questionKo": "감사합니다. 귀사 팀과 함께 일할 수 있어서 정말 즐거웠습니다.",
       "questionAudio": "q008.mp3",
       "answer": "The feeling is mutual, we look forward to more collaboration.",
+      "answerKo": "저희도 같은 마음입니다, 앞으로도 더 많은 협업 기대하겠습니다.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Please give my best to the rest of your colleagues back home.",
+      "questionKo": "본사에 계신 다른 동료분들께도 안부 전해주세요.",
       "questionAudio": "q009.mp3",
       "answer": "I certainly will, thank you for everything today.",
+      "answerKo": "꼭 전하겠습니다, 오늘 모든 것에 감사드립니다.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Thank you again for everything, please take care of yourself.",
+      "questionKo": "모든 것에 다시 한번 감사드리며, 몸 잘 챙기세요.",
       "questionAudio": "q010.mp3",
       "answer": "You too, and thank you for the wonderful visit overall.",
+      "answerKo": "그쪽도요, 그리고 이번 방문 전체적으로 정말 좋았습니다, 감사합니다.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "I hope to have the pleasure of working with you again soon.",
+      "questionKo": "곧 다시 함께 일할 기회가 있기를 바랍니다.",
       "questionAudio": "q011.mp3",
       "answer": "As do I, thank you for such a great experience.",
+      "answerKo": "저도 그렇습니다, 정말 좋은 경험이었습니다, 감사합니다.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "It was truly a pleasure meeting you today, I mean that.",
+      "questionKo": "오늘 뵙게 되어 정말 즐거웠습니다, 진심입니다.",
       "questionAudio": "q012.mp3",
       "answer": "The pleasure was mine as well, safe travels home.",
+      "answerKo": "저도 정말 즐거웠습니다, 돌아가시는 길 편안하시길 바랍니다.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "I look forward to hearing from you soon regarding next steps.",
+      "questionKo": "다음 절차에 관해 곧 연락 주시기를 기대하겠습니다.",
       "questionAudio": "q013.mp3",
       "answer": "Likewise, I'll follow up shortly on my end.",
+      "answerKo": "저도 마찬가지입니다, 저희 쪽에서도 곧 연락드리겠습니다.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Thank you for your hospitality, it really meant a lot to us.",
+      "questionKo": "환대해 주셔서 감사합니다, 저희에게 정말 큰 의미였습니다.",
       "questionAudio": "q014.mp3",
       "answer": "It was our pleasure entirely, take care until next time.",
+      "answerKo": "저희야말로 정말 기뻤습니다, 다음에 뵐 때까지 건강하세요.",
       "answerAudio": "a014.mp3"
     }
   ]

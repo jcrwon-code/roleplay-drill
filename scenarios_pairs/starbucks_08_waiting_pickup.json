@@ -3,116 +3,154 @@
   "turns": [
     {
       "question": "It'll be just a few minutes, is that okay?",
+      "questionKo": "잠깐만 기다려 주시면 금방 드릴게요, 괜찮으세요?",
       "questionAudio": "q000.mp3",
       "answer": "Sure, no problem, I'll wait over there.",
+      "answerKo": "네, 그럼 제가 저기서 기다릴게요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Would you like to wait at the counter or grab a table?",
+      "questionKo": "카운터에서 기다리실래요, 아니면 테이블에 앉으시겠어요?",
       "questionAudio": "q001.mp3",
       "answer": "I'll just wait at the counter, thanks.",
+      "answerKo": "카운터에서 기다릴게요, 감사합니다.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Sounds good, can I call your name when it's ready?",
+      "questionKo": "네, 준비되면 제 이름 불러주세요.",
       "questionAudio": "q002.mp3",
       "answer": "Yes, that works, thank you.",
+      "answerKo": "네, 그렇게 해주세요. 고마워요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "It's coming right up, thanks for your patience.",
+      "questionKo": "금방 나올 거예요. 기다려 주셔서 감사합니다.",
       "questionAudio": "q003.mp3",
       "answer": "No worries at all, take your time.",
+      "answerKo": "괜찮아요, 천천히 하세요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Sorry for the wait, we're a bit backed up today.",
+      "questionKo": "기다리게 해서 죄송해요. 오늘 좀 많이 붐비네요.",
       "questionAudio": "q004.mp3",
       "answer": "It's totally fine, I'm not in a rush.",
+      "answerKo": "전 전혀 급하지 않으니까 괜찮아요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Your order's up, sorry again for the short wait.",
+      "questionKo": "주문하신 음료 나왔습니다. 잠깐만 더 기다리게 해서 다시 한번 죄송해요.",
       "questionAudio": "q005.mp3",
       "answer": "No problem at all, thanks for the coffee.",
+      "answerKo": "아뇨, 커피 주셔서 감사해요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Is this the caramel macchiato for Sarah?",
+      "questionKo": "이거 사라(Sarah) 씨 카라멜 마키아토 맞으세요?",
       "questionAudio": "q006.mp3",
       "answer": "Yes, that's me, thank you.",
+      "answerKo": "네, 맞아요. 감사합니다.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Would you like an update on your order status?",
+      "questionKo": "주문 현황 확인해 드릴까요?",
       "questionAudio": "q007.mp3",
       "answer": "Sure, that would be helpful, thanks.",
+      "answerKo": "네, 그거 도움 될 것 같아요. 고맙습니다.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "It looks like it's almost done, just finishing the foam.",
+      "questionKo": "거의 다 됐어요, 거품만 마무리하고 있어요.",
       "questionAudio": "q008.mp3",
       "answer": "Perfect, I'll wait just a bit longer.",
+      "answerKo": "좋아요, 조금만 더 기다릴게요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "We're just steaming the milk now, one moment please.",
+      "questionKo": "지금 우유 데우는 중이에요. 잠시만 기다려 주세요.",
       "questionAudio": "q009.mp3",
       "answer": "Take your time, I'm not in a hurry at all.",
+      "answerKo": "괜찮아요, 저 전혀 안 급하거든요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Your drink's next up on the bar, shouldn't be long.",
+      "questionKo": "음료가 바에서 다음 순서예요. 금방 나올 거예요.",
       "questionAudio": "q010.mp3",
       "answer": "Great, thank you for the heads up.",
+      "answerKo": "알려주셔서 정말 감사해요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Is this the grande iced latte for Kevin?",
+      "questionKo": "이거 케빈(Kevin) 씨 그란데 아이스 라떼 맞으세요?",
       "questionAudio": "q011.mp3",
       "answer": "Yes, that's mine, thank you.",
+      "answerKo": "네, 이거 맞아요. 감사합니다.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Perfect, sorry again for the small delay today.",
+      "questionKo": "네, 오늘 조금 늦어져서 죄송합니다.",
       "questionAudio": "q012.mp3",
       "answer": "No worries, I appreciate you letting me know.",
+      "answerKo": "신경 쓰지 마세요. 알려주셔서 감사해요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Can you check if my order came in yet?",
+      "questionKo": "제 주문 들어왔는지 확인 좀 해주시겠어요?",
       "questionAudio": "q013.mp3",
       "answer": "Let me check the screen real quick for you.",
+      "answerKo": "잠시 화면 확인해 볼게요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Your order number is forty-two, does that sound right?",
+      "questionKo": "주문 번호는 42번입니다. 맞나요?",
       "questionAudio": "q014.mp3",
       "answer": "Yes, that's the one, thank you.",
+      "answerKo": "네, 그거 맞아요. 고맙습니다.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Looks like there was a small mix-up, one second please.",
+      "questionKo": "아무래도 작은 착오가 있었던 것 같아요. 잠시만요.",
       "questionAudio": "q015.mp3",
       "answer": "No worries at all, take your time fixing it.",
+      "answerKo": "천천히 고치셔도 괜찮아요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Would you like me to remake that fresh for you?",
+      "questionKo": "다 새로 만들어 드릴까요?",
       "questionAudio": "q016.mp3",
       "answer": "Yes, please, that would be great.",
+      "answerKo": "네, 부탁드려요. 정말 좋겠어요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "It's just brewing now, shouldn't be long at all.",
+      "questionKo": "지금 내리는 중이에요. 전혀 오래 걸리지 않을 거예요.",
       "questionAudio": "q017.mp3",
       "answer": "No rush, I'll just wait right here.",
+      "answerKo": "급한 거 없으니 여기서 기다릴게요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Your drink is finally ready, thanks so much for waiting.",
+      "questionKo": "드디어 음료 준비됐습니다! 기다려 주셔서 정말 감사해요.",
       "questionAudio": "q018.mp3",
       "answer": "Thank you so much, have a great day.",
+      "answerKo": "정말 감사합니다. 좋은 하루 보내세요.",
       "answerAudio": "a018.mp3"
     }
   ]

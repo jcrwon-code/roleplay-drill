@@ -3,104 +3,138 @@
   "turns": [
     {
       "question": "Here's your order, have a great day!",
+      "questionKo": "주문하신 음료 나왔습니다. 좋은 하루 보내세요!",
       "questionAudio": "q000.mp3",
       "answer": "Thank you so much, you too!",
+      "answerKo": "감사합니다, 손님도요!",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Is there anything else I can get for you?",
+      "questionKo": "더 필요하신 거 있으세요?",
       "questionAudio": "q001.mp3",
       "answer": "No, that's everything, thank you.",
+      "answerKo": "아뇨, 다 됐어요. 감사합니다.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Enjoy your drink, thanks for coming in!",
+      "questionKo": "음료 맛있게 드시고, 와주셔서 감사해요!",
       "questionAudio": "q002.mp3",
       "answer": "Thanks, I will, see you next time!",
+      "answerKo": "고마워요, 다음에 또 뵐게요!",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Take care out there, thanks again for coming!",
+      "questionKo": "조심히 가세요. 또 오세요!",
       "questionAudio": "q003.mp3",
       "answer": "Thank you, you too, bye now!",
+      "answerKo": "감사해요, 손님도 잘 가세요! 안녕!",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Here you go, careful, it's pretty hot!",
+      "questionKo": "여기요, 뜨거우니까 조심하세요!",
       "questionAudio": "q004.mp3",
       "answer": "Thanks for the heads up, I appreciate it.",
+      "answerKo": "미리 알려주셔서 감사해요, 정말 고맙습니다.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Thanks for your patience today, enjoy!",
+      "questionKo": "기다려 주셔서 감사합니다. 즐거운 시간 보내세요!",
       "questionAudio": "q005.mp3",
       "answer": "No problem at all, thank you!",
+      "answerKo": "전혀 문제없어요, 감사합니다!",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Have a wonderful rest of your day!",
+      "questionKo": "남은 하루도 행복하게 보내세요!",
       "questionAudio": "q006.mp3",
       "answer": "Thank you, you as well!",
+      "answerKo": "네, 당신도요!",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Hope to see you again soon, take care!",
+      "questionKo": "또 뵐 수 있기를 바라요. 잘 지내세요!",
       "questionAudio": "q007.mp3",
       "answer": "Definitely, thanks so much, bye!",
+      "answerKo": "꼭 그럴게요, 정말 감사해요. 잘 가요!",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Here's your bag, everything should be inside.",
+      "questionKo": "가방 여기 있습니다. 다 들어있을 거예요.",
       "questionAudio": "q008.mp3",
       "answer": "Perfect, thank you so much!",
+      "answerKo": "완벽하네요, 정말 감사합니다!",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Thanks for coming in, stay warm out there!",
+      "questionKo": "와주셔서 감사해요. 밖에 따뜻하게 입고 다니세요!",
       "questionAudio": "q009.mp3",
       "answer": "Thanks, I'll try, you too!",
+      "answerKo": "그렇게 해볼게요, 손님도요!",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Safe travels, and thanks for stopping in!",
+      "questionKo": "안전 운전하시고, 들러주셔서 감사합니다!",
       "questionAudio": "q010.mp3",
       "answer": "Thank you so much, take care!",
+      "answerKo": "정말 감사합니다, 조심히 들어가세요!",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Enjoy your coffee, and good luck at work today!",
+      "questionKo": "커피 맛있게 드시고, 오늘 일 잘 되시길 바랄게요!",
       "questionAudio": "q011.mp3",
       "answer": "Thank you so much, appreciate it!",
+      "answerKo": "감사합니다, 덕분에 살았어요!",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Here's your change, have a wonderful evening!",
+      "questionKo": "거스름돈 여기 있어요. 좋은 저녁 보내세요!",
       "questionAudio": "q012.mp3",
       "answer": "Thank you, you as well!",
+      "answerKo": "네, 당신도요!",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Thanks for visiting us today, come back anytime!",
+      "questionKo": "오늘 방문해 주셔서 감사해요. 언제든지 다시 오세요!",
       "questionAudio": "q013.mp3",
       "answer": "I will, thanks so much, bye!",
+      "answerKo": "네, 고마워요. 그럼 안녕!",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Have a safe drive home, thanks for coming!",
+      "questionKo": "집에 안전하게 가세요. 와주셔서 고마워요!",
       "questionAudio": "q014.mp3",
       "answer": "Thank you, I will, take care!",
+      "answerKo": "네, 그럴게요. 잘 지내세요!",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Enjoy, and I hope your presentation goes great!",
+      "questionKo": "즐겁게 드시고, 발표 잘 하시길 바랄게요!",
       "questionAudio": "q015.mp3",
       "answer": "Thank you, fingers crossed!",
+      "answerKo": "좋은 결과 있기를 바랄게요!",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Thanks for coming in, hope to see you again!",
+      "questionKo": "와주셔서 감사해요. 다음에 또 봬요!",
       "questionAudio": "q016.mp3",
       "answer": "For sure, thanks so much, take care!",
+      "answerKo": "물론이죠, 정말 감사해요. 조심히 가세요!",
       "answerAudio": "a016.mp3"
     }
   ]

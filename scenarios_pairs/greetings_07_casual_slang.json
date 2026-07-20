@@ -3,98 +3,130 @@
   "turns": [
     {
       "question": "Yo, what's up?",
+      "questionKo": "야, 뭐해?",
       "questionAudio": "q000.mp3",
       "answer": "Not much, just chilling. You?",
+      "answerKo": "별거 없어, 그냥 쉬고 있어. 너는?",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Same, honestly, just got off work.",
+      "questionKo": "나도 똑같아, 방금 퇴근했어.",
       "questionAudio": "q001.mp3",
       "answer": "Nice, long shift or was it chill today?",
+      "answerKo": "오, 오늘 근무 길었어 아니면 그냥 편했어?",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Nah, pretty chill actually, no complaints.",
+      "questionKo": "아니, 사실 꽤 편했어, 불만 없어.",
       "questionAudio": "q002.mp3",
       "answer": "That's what's up. What's the move tonight?",
+      "answerKo": "좋네. 오늘 밤엔 뭐 할 거야?",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Not sure yet, probably just staying in.",
+      "questionKo": "아직 잘 모르겠어, 그냥 집에 있을 것 같아.",
       "questionAudio": "q003.mp3",
       "answer": "Same here, might just order food and relax.",
+      "answerKo": "나도 그래, 그냥 음식 시켜 먹고 쉴까 봐.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "That sounds solid honestly, I need a night like that.",
+      "questionKo": "솔직히 그거 완전 괜찮은데, 나도 그런 밤이 필요해.",
       "questionAudio": "q004.mp3",
       "answer": "Right? We've both earned it this week.",
+      "answerKo": "그치? 이번 주 우리 둘 다 그럴 자격 있잖아.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "For real. Anyway, you around later if I text?",
+      "questionKo": "진짜로. 아무튼, 이따가 문자하면 시간 돼?",
       "questionAudio": "q005.mp3",
       "answer": "Yeah, should be free after six or so, hit me up.",
+      "answerKo": "응, 6시쯤 이후로 시간 될 것 같아, 연락해.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Hey man, what's good?",
+      "questionKo": "야, 잘 지내?",
       "questionAudio": "q006.mp3",
       "answer": "All good, just got back from the gym, feeling it.",
+      "answerKo": "다 좋아, 방금 헬스장 갔다 왔는데 근육통 느껴져.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Nice, you been keeping up with that lately?",
+      "questionKo": "오 좋네, 요즘 꾸준히 하고 있어?",
       "questionAudio": "q007.mp3",
       "answer": "Yeah, actually, like three times this week already.",
+      "answerKo": "응, 사실 이번 주에만 벌써 세 번째야.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "That's what's up, respect. What's the vibe today otherwise?",
+      "questionKo": "인정, 대단하다. 오늘 그거 말고는 분위기 어때?",
       "questionAudio": "q008.mp3",
       "answer": "Pretty chill, no complaints, just trying to eat clean after.",
+      "answerKo": "꽤 편해, 불만 없어, 운동 후에 클린하게 먹으려고 하고 있어.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Solid. You free to hang later or you're wiped?",
+      "questionKo": "좋네. 이따 놀 시간 돼 아니면 완전 뻗었어?",
       "questionAudio": "q009.mp3",
       "answer": "Nah, should be good, just let me know when.",
+      "answerKo": "아니, 괜찮을 것 같아, 언제인지만 알려줘.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Bet, I'll text you once I'm done running errands.",
+      "questionKo": "콜, 심부름 다 끝나면 문자할게.",
       "questionAudio": "q010.mp3",
       "answer": "Sounds good, I'll be around, just hit me up.",
+      "answerKo": "좋아, 나 근처에 있을 거니까 그냥 연락해.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "What's up, stranger, haven't seen you in forever!",
+      "questionKo": "웬일이야, 오랜만이네, 진짜 오랫동안 못 봤잖아!",
       "questionAudio": "q011.mp3",
       "answer": "Ha, I know, right, it's been way too long.",
+      "answerKo": "하, 그러니까, 진짜 너무 오래됐어.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Where you been hiding at?",
+      "questionKo": "어디 숨어 있었던 거야?",
       "questionAudio": "q012.mp3",
       "answer": "Just been busy with work, honestly, barely had time for anything.",
+      "answerKo": "그냥 일 때문에 바빴어, 솔직히 뭐 할 시간이 거의 없었어.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "I feel that, same boat over here. You doing anything fun this week?",
+      "questionKo": "이해해, 나도 똑같은 상황이야. 이번 주에 뭐 재밌는 거 해?",
       "questionAudio": "q013.mp3",
       "answer": "Nah, keeping it low-key this week, need the rest.",
+      "answerKo": "아니, 이번 주는 조용히 지내려고, 좀 쉬어야 해서.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Fair enough. You still up for the weekend though, right?",
+      "questionKo": "그렇겠다. 근데 주말 약속은 여전히 유효한 거지?",
       "questionAudio": "q014.mp3",
       "answer": "Yeah, for sure, wouldn't miss it, been looking forward to it.",
+      "answerKo": "응, 당연하지, 절대 안 빠질 거야, 계속 기대하고 있었어.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Bet, that's what I like to hear. We linking up later or what?",
+      "questionKo": "좋아, 바로 그거지. 이따 만나는 거 맞지?",
       "questionAudio": "q015.mp3",
       "answer": "Yeah, definitely, just text me when you're free.",
+      "answerKo": "응, 당연하지, 시간 되면 그냥 문자해.",
       "answerAudio": "a015.mp3"
     }
   ]

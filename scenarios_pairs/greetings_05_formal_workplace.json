@@ -3,116 +3,154 @@
   "turns": [
     {
       "question": "Good morning, thank you for coming in today.",
+      "questionKo": "안녕하세요, 오늘 이렇게 와주셔서 감사합니다.",
       "questionAudio": "q000.mp3",
       "answer": "Of course, thank you for having me -- I've been looking forward to this.",
+      "answerKo": "당연히 와야죠, 초대해 주셔서 감사합니다. 이 자리를 계속 기대하고 있었어요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "It's a pleasure to finally meet you in person after all our emails.",
+      "questionKo": "그동안 이메일만 주고받다가 이렇게 직접 뵙게 되어 반갑습니다.",
       "questionAudio": "q001.mp3",
       "answer": "Likewise, it's nice to put a face to the name at last.",
+      "answerKo": "저도 마찬가지입니다, 드디어 얼굴을 뵙게 되어 좋네요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "I hope you found the office without any trouble this morning.",
+      "questionKo": "오늘 아침 사무실 찾아오시는 데 어려움은 없으셨는지요.",
       "questionAudio": "q002.mp3",
       "answer": "No trouble at all, your directions were very clear, thank you.",
+      "answerKo": "전혀 없었습니다, 안내해 주신 길이 아주 명확했어요, 감사합니다.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Wonderful. I trust your flight in went smoothly as well?",
+      "questionKo": "다행입니다. 오시는 비행편도 순조로웠기를 바랍니다.",
       "questionAudio": "q003.mp3",
       "answer": "It did, thank you, quite smooth all things considered.",
+      "answerKo": "네, 감사합니다, 전반적으로 꽤 순조로웠습니다.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Glad to hear it. Can I get you anything before we begin, coffee or water?",
+      "questionKo": "다행이네요. 시작하기 전에 커피나 물 좀 드릴까요?",
       "questionAudio": "q004.mp3",
       "answer": "Just some water would be great, thank you.",
+      "answerKo": "물 한 잔이면 충분합니다, 감사합니다.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Of course, one moment. Please have a seat wherever is comfortable.",
+      "questionKo": "네, 잠시만요. 편하신 자리에 앉으세요.",
       "questionAudio": "q005.mp3",
       "answer": "Thank you, this spot near the window looks perfect.",
+      "answerKo": "감사합니다, 창가 자리가 딱 좋아 보이네요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Wonderful, shall we get started with the agenda then?",
+      "questionKo": "좋습니다, 그럼 안건부터 시작해볼까요?",
       "questionAudio": "q006.mp3",
       "answer": "Yes, whenever you're ready, I'm all set.",
+      "answerKo": "네, 준비되시면 언제든지요, 저는 준비됐습니다.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Welcome aboard, we're all glad to have you join the team.",
+      "questionKo": "합류를 환영합니다, 팀에 오셔서 모두 기쁘게 생각하고 있어요.",
       "questionAudio": "q007.mp3",
       "answer": "Thank you, I'm genuinely excited to get started here.",
+      "answerKo": "감사합니다, 여기서 시작하게 되어 정말 기대됩니다.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "I hope you're settling into the new role well so far.",
+      "questionKo": "새 역할에 잘 적응하고 계시길 바랍니다.",
       "questionAudio": "q008.mp3",
       "answer": "I am, thank you, everyone's been incredibly welcoming.",
+      "answerKo": "네, 감사합니다, 다들 정말 따뜻하게 맞아주셨어요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Good to hear. Would you like me to introduce you to the rest of the team?",
+      "questionKo": "다행이네요. 나머지 팀원분들도 소개해드릴까요?",
       "questionAudio": "q009.mp3",
       "answer": "Please, I'd really love to meet everyone properly.",
+      "answerKo": "네 부탁드립니다, 모두와 제대로 인사하고 싶어요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Of course, let's start with the folks on the third floor.",
+      "questionKo": "그럼요, 3층에 계신 분들부터 시작하죠.",
       "questionAudio": "q010.mp3",
       "answer": "Sounds great, lead the way whenever you're ready.",
+      "answerKo": "좋습니다, 준비되시면 안내해 주세요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "This is our design lead -- she'll be working closely with you.",
+      "questionKo": "이분은 저희 디자인 팀장이신데, 앞으로 함께 긴밀히 일하시게 될 거예요.",
       "questionAudio": "q011.mp3",
       "answer": "Wonderful, I've heard great things already, nice to meet you.",
+      "answerKo": "잘됐네요, 이미 좋은 얘기 많이 들었어요, 만나서 반갑습니다.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "I'll leave you two to chat, and I'll check back in a bit.",
+      "questionKo": "두 분 얘기 나누시게 자리를 비켜드릴게요, 잠시 후에 다시 올게요.",
       "questionAudio": "q012.mp3",
       "answer": "Thank you so much for the introduction, I appreciate it.",
+      "answerKo": "소개해 주셔서 정말 감사합니다.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Good afternoon, I believe we spoke briefly on the phone last week.",
+      "questionKo": "안녕하세요, 지난주에 전화로 잠깐 얘기 나눴었죠.",
       "questionAudio": "q013.mp3",
       "answer": "Yes, that's right, it's nice to finally meet in person.",
+      "answerKo": "네, 맞습니다, 드디어 직접 뵙게 되어 반갑습니다.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Likewise. Thank you for your flexibility in rescheduling our call.",
+      "questionKo": "저도 반갑습니다. 통화 일정 조정해 주셔서 감사했습니다.",
       "questionAudio": "q014.mp3",
       "answer": "Not a problem at all, I understand things come up.",
+      "answerKo": "별말씀을요, 그런 일이 생길 수 있죠.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "I appreciate your understanding. Shall I walk you through the proposal?",
+      "questionKo": "이해해 주셔서 감사합니다. 그럼 제안서 내용을 설명드릴까요?",
       "questionAudio": "q015.mp3",
       "answer": "Yes, please, that would be very helpful.",
+      "answerKo": "네, 부탁드립니다, 큰 도움이 될 것 같아요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Of course. We're quite excited about the direction this project is heading.",
+      "questionKo": "물론이죠. 저희도 이 프로젝트가 나아가는 방향에 대해 기대가 큽니다.",
       "questionAudio": "q016.mp3",
       "answer": "As are we, it's been a pleasure collaborating so far.",
+      "answerKo": "저희도 마찬가지입니다, 지금까지 협업하면서 즐거웠습니다.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "We're glad to hear that. Thank you for your continued support on this.",
+      "questionKo": "그렇게 말씀해 주시니 기쁘네요. 계속 지원해 주셔서 감사합니다.",
       "questionAudio": "q017.mp3",
       "answer": "Of course, we're glad to be part of it from the start.",
+      "answerKo": "당연하죠, 처음부터 함께할 수 있어서 저희도 기쁩니다.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Wonderful, well, thank you again for making the trip out here today.",
+      "questionKo": "좋습니다, 오늘 이렇게 먼 길 와주셔서 다시 한번 감사드립니다.",
       "questionAudio": "q018.mp3",
       "answer": "It was truly our pleasure, thank you for the warm welcome.",
+      "answerKo": "저희야말로 정말 기뻤습니다, 따뜻하게 맞아주셔서 감사합니다.",
       "answerAudio": "a018.mp3"
     }
   ]

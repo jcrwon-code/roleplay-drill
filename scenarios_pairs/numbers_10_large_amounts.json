@@ -3,110 +3,146 @@
   "turns": [
     {
       "question": "How much revenue did the company make last year?",
+      "questionKo": "그 회사 작년에 매출이 얼마나 됐어요?",
       "questionAudio": "q000.mp3",
       "answer": "They made about two million dollars.",
+      "answerKo": "약 200만 달러 벌었어요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "That's impressive. How much of that went to marketing spend?",
+      "questionKo": "대단하네요. 그중에 마케팅 비용으로는 얼마나 썼어요?",
       "questionAudio": "q001.mp3",
       "answer": "They spent close to five hundred thousand on marketing alone.",
+      "answerKo": "마케팅에만 거의 50만 달러를 썼어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "And how much profit did that actually leave at the end?",
+      "questionKo": "그럼 결국 실제로 남은 순이익은 얼마예요?",
       "questionAudio": "q002.mp3",
       "answer": "After everything, they cleared about eighty thousand in profit.",
+      "answerKo": "다 제하고 나니까 순이익이 8만 달러 정도 남았어요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "That seems low compared to the revenue. What ate up the rest?",
+      "questionKo": "매출에 비하면 좀 적어 보이네요. 나머지는 어디로 다 나갔어요?",
       "questionAudio": "q003.mp3",
       "answer": "Mostly payroll and rent, those are their biggest costs by far.",
+      "answerKo": "대부분 인건비랑 임대료예요, 그게 압도적으로 제일 큰 비용이에요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Makes sense. Do they have any funding beyond that revenue?",
+      "questionKo": "그럴 만하네요. 매출 말고 투자금 같은 것도 받았어요?",
       "questionAudio": "q004.mp3",
       "answer": "Yes, they raised about three million in their last funding round.",
+      "answerKo": "네, 지난 투자 라운드에서 약 300만 달러 유치했어요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "So the total valuation must be pretty high then?",
+      "questionKo": "그럼 전체 기업가치도 꽤 높겠네요?",
       "questionAudio": "q005.mp3",
       "answer": "It's valued at around fifty million dollars right now.",
+      "answerKo": "지금 기업가치가 약 5천만 달러로 평가돼요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "How much is the average home price in that neighborhood?",
+      "questionKo": "그 동네 평균 집값이 얼마나 돼요?",
       "questionAudio": "q006.mp3",
       "answer": "It's around six hundred thousand dollars these days.",
+      "answerKo": "요즘은 60만 달러 정도예요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Wow, that's gone up a lot. What was it worth a few years ago?",
+      "questionKo": "와, 많이 올랐네요. 몇 년 전에는 얼마였어요?",
       "questionAudio": "q007.mp3",
       "answer": "Back then it was closer to four hundred fifty thousand.",
+      "answerKo": "그때는 45만 달러에 가까웠어요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "That's a huge jump in just a few years.",
+      "questionKo": "몇 년 만에 정말 많이 뛰었네요.",
       "questionAudio": "q008.mp3",
       "answer": "Right, the whole area has really taken off recently.",
+      "answerKo": "맞아요, 그 지역 전체가 최근에 확 뜨고 있어요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "How much would the average mortgage payment be on a house like that?",
+      "questionKo": "그런 집이면 평균 대출 상환액이 얼마나 돼요?",
       "questionAudio": "q009.mp3",
       "answer": "It's usually around two thousand a month with a normal down payment.",
+      "answerKo": "일반적인 계약금 기준으로 보통 한 달에 2천 달러 정도예요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "And how much down payment would someone typically need?",
+      "questionKo": "그리고 계약금은 보통 얼마나 필요해요?",
       "questionAudio": "q010.mp3",
       "answer": "Usually about twenty percent, so around one twenty thousand up front.",
+      "answerKo": "보통 20% 정도니까, 처음에 12만 달러 정도 필요해요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "That's a lot to save up. Is the market expected to keep rising?",
+      "questionKo": "모으기 쉽지 않겠네요. 시장이 계속 오를 것 같아요?",
       "questionAudio": "q011.mp3",
       "answer": "Hard to say, but most people think it'll level off soon.",
+      "answerKo": "확실친 않은데, 대부분 곧 안정될 거라고 생각해요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "How much did the charity end up raising this year?",
+      "questionKo": "그 자선단체 올해 결국 얼마나 모금했어요?",
       "questionAudio": "q012.mp3",
       "answer": "They raised about six hundred thousand dollars total.",
+      "answerKo": "총 60만 달러 정도 모금했어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "That's amazing. How does that compare to last year's total?",
+      "questionKo": "대단하네요. 작년 총액이랑 비교하면 어때요?",
       "questionAudio": "q013.mp3",
       "answer": "It's actually up quite a bit, last year was closer to four hundred thousand.",
+      "answerKo": "사실 꽤 늘어난 거예요, 작년엔 40만 달러 정도였거든요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "What do you think caused the increase this time around?",
+      "questionKo": "이번엔 뭐 때문에 늘어났다고 생각해요?",
       "questionAudio": "q014.mp3",
       "answer": "Probably the new online campaign, it reached a lot more people.",
+      "answerKo": "아마 새로 시작한 온라인 캠페인 덕분일 거예요, 훨씬 많은 사람들한테 닿았거든요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Do they have a goal for what they're spending it on?",
+      "questionKo": "그 돈을 어디에 쓸지 목표가 정해져 있어요?",
       "questionAudio": "q015.mp3",
       "answer": "Yes, most of it is going toward a new community center.",
+      "answerKo": "네, 대부분 새 커뮤니티 센터 짓는 데 쓸 거예요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "How much is that project expected to cost overall?",
+      "questionKo": "그 프로젝트 전체 비용은 얼마나 될 것 같아요?",
       "questionAudio": "q016.mp3",
       "answer": "The whole thing is budgeted at around two million dollars.",
+      "answerKo": "전체 예산이 약 200만 달러로 잡혀 있어요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "So they're still a good way off from fully funding it then.",
+      "questionKo": "그럼 아직 완전히 자금을 다 모으려면 한참 남은 거네요.",
       "questionAudio": "q017.mp3",
       "answer": "Right, but they're hoping to close the gap with next year's campaign.",
+      "answerKo": "맞아요, 그래도 내년 캠페인으로 그 차액을 메우길 바라고 있어요.",
       "answerAudio": "a017.mp3"
     }
   ]

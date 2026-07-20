@@ -1,17 +1,58 @@
 const stopBtn = document.getElementById("stopBtn");
+const repeatBtn = document.getElementById("repeatBtn");
 const roleAnswerBtn = document.getElementById("roleAnswerBtn");
 const roleQuestionBtn = document.getElementById("roleQuestionBtn");
+const koreanToggle = document.getElementById("koreanToggle");
 const setupEl = document.getElementById("setup");
 const drillEl = document.getElementById("drill");
 const linesListEl = document.getElementById("linesList");
 const statusEl = document.getElementById("statusText");
 const repEl = document.getElementById("repText");
 const scenarioListEl = document.getElementById("scenarioList");
+const vocabPopupEl = document.getElementById("vocabPopup");
 
 let scenarios = [];
+let glossary = {};
 let myRole = "answer"; // "answer" = I speak the answer lines, AI speaks questions
                         // "question" = I speak the question lines, AI speaks answers
 let stopped = false;
+let lastAudioUrl = null;
+
+async function loadGlossary() {
+  const res = await fetch("glossary.json");
+  glossary = await res.json();
+}
+
+// Wraps any word that exists in glossary.json in a tappable span so the user
+// can look up pronunciation/meaning without leaving the drill screen.
+function annotateText(text) {
+  return text.replace(/[A-Za-z']+/g, (word) => {
+    const entry = glossary[word.toLowerCase()];
+    if (!entry) return word;
+    const ipa = entry.ipa.replace(/"/g, "&quot;");
+    const ko = entry.ko.replace(/"/g, "&quot;");
+    return `<span class="vocabWord" data-ipa="${ipa}" data-ko="${ko}" data-word="${word}">${word}</span>`;
+  });
+}
+
+linesListEl.addEventListener("click", (e) => {
+  const target = e.target.closest(".vocabWord");
+  if (!target) return;
+  vocabPopupEl.innerHTML = `<b>${target.dataset.word}</b> <span class="vocabIpa">[${target.dataset.ipa}]</span><br>${target.dataset.ko}`;
+  vocabPopupEl.classList.remove("hidden");
+});
+
+vocabPopupEl.addEventListener("click", () => {
+  vocabPopupEl.classList.add("hidden");
+});
+
+const KOREAN_PREF_KEY = "roleplay-show-korean";
+koreanToggle.checked = localStorage.getItem(KOREAN_PREF_KEY) !== "off";
+document.body.classList.toggle("hideKorean", !koreanToggle.checked);
+koreanToggle.addEventListener("change", () => {
+  document.body.classList.toggle("hideKorean", !koreanToggle.checked);
+  localStorage.setItem(KOREAN_PREF_KEY, koreanToggle.checked ? "on" : "off");
+});
 
 const CATEGORY_LABELS = {
   greetings: "Greetings",
@@ -88,6 +129,7 @@ function unlockAudio() {
 }
 
 function playAudio(url) {
+  lastAudioUrl = url;
   return new Promise((resolve, reject) => {
     sharedAudioEl.onended = resolve;
     sharedAudioEl.onerror = reject;
@@ -95,6 +137,14 @@ function playAudio(url) {
     sharedAudioEl.play().catch(reject);
   });
 }
+
+// Replays the last-played line without disturbing the VAD listening loop --
+// safe to tap while "Speak now..." is showing, it just plays over it.
+repeatBtn.addEventListener("click", () => {
+  if (!lastAudioUrl) return;
+  const replayEl = new Audio(lastAudioUrl);
+  replayEl.play().catch(() => {});
+});
 
 // Energy-based VAD using the Web Audio API: waits for the mic level to rise
 // above a threshold (speech started) and then stay below it for a sustained
@@ -180,25 +230,33 @@ function renderAllPairs(turns) {
   for (const turn of turns) {
     const row = document.createElement("div");
     row.className = "pairRow";
+    const qKo = turn.questionKo ? `<div class="koLine">${turn.questionKo}</div>` : "";
+    const aKo = turn.answerKo ? `<div class="koLine">${turn.answerKo}</div>` : "";
     row.innerHTML = `
-      <div class="qLine"><span class="roleTag">Q</span>${turn.question}</div>
-      <div class="aLine"><span class="roleTag">A</span>${turn.answer}</div>
+      <div class="qBlock">
+        <div class="qLine"><span class="roleTag">Q</span>${annotateText(turn.question)}</div>
+        ${qKo}
+      </div>
+      <div class="aBlock">
+        <div class="aLine"><span class="roleTag">A</span>${annotateText(turn.answer)}</div>
+        ${aKo}
+      </div>
     `;
     linesListEl.appendChild(row);
     rowEls.push({
       row,
-      qLine: row.querySelector(".qLine"),
-      aLine: row.querySelector(".aLine"),
+      qBlock: row.querySelector(".qBlock"),
+      aBlock: row.querySelector(".aBlock"),
     });
   }
   return rowEls;
 }
 
 function setActiveRow(rowEls, index, currentSide) {
-  rowEls.forEach(({ row, qLine, aLine }, i) => {
+  rowEls.forEach(({ row, qBlock, aBlock }, i) => {
     row.classList.toggle("active", i === index);
-    qLine.classList.toggle("current", i === index && currentSide === "question");
-    aLine.classList.toggle("current", i === index && currentSide === "answer");
+    qBlock.classList.toggle("current", i === index && currentSide === "question");
+    aBlock.classList.toggle("current", i === index && currentSide === "answer");
   });
   const active = rowEls[index];
   if (active) {
@@ -276,4 +334,5 @@ stopBtn.addEventListener("click", () => {
   setupEl.classList.remove("hidden");
 });
 
+loadGlossary();
 loadScenarioIndex();

@@ -21,7 +21,12 @@
       <button id="roleQuestionBtn" class="roleBtn" type="button">I ask (AI answers)</button>
     </div>
 
-    <p class="hint">Tap any scenario below to start. Allow microphone access when prompted. Works fully offline once loaded.</p>
+    <label class="switchRow">
+      <span>한국어 자막</span>
+      <input type="checkbox" id="koreanToggle" checked>
+    </label>
+
+    <p class="hint">Tap any scenario below to start. Allow microphone access when prompted. Works fully offline once loaded. Tap a highlighted word during a drill to see its pronunciation and meaning.</p>
 
     <div id="scenarioList"></div>
   </div>
@@ -32,8 +37,13 @@
       <div class="status" id="statusText"></div>
     </div>
     <div class="linesList" id="linesList"></div>
-    <button id="stopBtn" class="stopBtn">Stop</button>
+    <div class="drillButtons">
+      <button id="repeatBtn" class="repeatBtn" type="button">Repeat</button>
+      <button id="stopBtn" class="stopBtn">Stop</button>
+    </div>
   </div>
+
+  <div id="vocabPopup" class="hidden"></div>
 
   <script src="app.js"></script>
   <script>

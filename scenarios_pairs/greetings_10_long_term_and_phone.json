@@ -3,80 +3,106 @@
   "turns": [
     {
       "question": "Alright, I'll talk to you soon, take care!",
+      "questionKo": "그래, 곧 얘기하자, 잘 지내!",
       "questionAudio": "q000.mp3",
       "answer": "You too, talk soon!",
+      "answerKo": "너도, 곧 얘기하자!",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Okay, I'm gonna let you go, thanks for calling.",
+      "questionKo": "그래, 이제 끊을게, 전화해줘서 고마워.",
       "questionAudio": "q001.mp3",
       "answer": "No problem, thanks for picking up, means a lot.",
+      "answerKo": "괜찮아, 받아줘서 고마워, 큰 힘이 됐어.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Of course. I should let you get back to your day now, talk soon.",
+      "questionKo": "당연하지. 이제 하던 일 계속하게 놔줄게, 곧 얘기하자.",
       "questionAudio": "q002.mp3",
       "answer": "Sounds good, talk soon, take care of yourself.",
+      "answerKo": "좋아, 곧 얘기하자, 몸 잘 챙겨.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "You too. Okay, until next time, stay in touch, alright?",
+      "questionKo": "너도. 그래, 다음에 또 얘기할 때까지, 연락 계속하자, 알았지?",
       "questionAudio": "q003.mp3",
       "answer": "Will do, you too, take care of yourself out there.",
+      "answerKo": "그럴게, 너도, 거기서 몸 잘 챙기고 있어.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "I should get going, this call's been really great though.",
+      "questionKo": "나 이제 가봐야 하는데, 이번 통화 정말 좋았어.",
       "questionAudio": "q004.mp3",
       "answer": "Agreed, let's talk again soon, I mean it.",
+      "answerKo": "맞아, 곧 다시 얘기하자, 진심이야.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "For sure. I better let you go, it's getting late over there.",
+      "questionKo": "그래. 이제 끊어야겠다, 거기 시간 늦었을 텐데.",
       "questionAudio": "q005.mp3",
       "answer": "Yeah, it kind of is, but thanks for calling tonight.",
+      "answerKo": "응, 좀 늦긴 했는데, 오늘 밤 전화해줘서 고마워.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "Of course. Okay, stay safe out there, love you, bye.",
+      "questionKo": "당연하지. 그래, 거기서 몸 조심하고, 사랑해, 안녕.",
       "questionAudio": "q006.mp3",
       "answer": "Love you too, bye!",
+      "answerKo": "나도 사랑해, 안녕!",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Alright, I've got to run, but let's plan a real visit soon, okay?",
+      "questionKo": "자, 나 가봐야 하는데, 조만간 진짜 만나러 갈 계획 짜보자, 알았지?",
       "questionAudio": "q007.mp3",
       "answer": "Definitely, I'd love that, take care until then.",
+      "answerKo": "당연하지, 나도 좋아, 그때까지 잘 지내.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "I should probably go, but I'm really glad we caught up tonight.",
+      "questionKo": "이제 가야 할 것 같은데, 오늘 밤 이렇게 얘기 나눠서 정말 좋았어.",
       "questionAudio": "q008.mp3",
       "answer": "Me too, let's not wait months to talk again.",
+      "answerKo": "나도 그래, 다음엔 몇 달씩 기다리지 말자.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Agreed. Okay, take care until we see each other again.",
+      "questionKo": "맞아. 그래, 우리 다시 만날 때까지 잘 지내.",
       "questionAudio": "q009.mp3",
       "answer": "You too, honestly can't wait for that.",
+      "answerKo": "너도, 솔직히 그날이 벌써 기다려져.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Alright, I'll let you go for now, miss you already, you know.",
+      "questionKo": "그래, 이제 놔줄게, 벌써 보고 싶다, 알지.",
       "questionAudio": "q010.mp3",
       "answer": "Miss you too, talk again soon, I promise.",
+      "answerKo": "나도 보고 싶어, 곧 다시 얘기하자, 약속할게.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "I have to go now, but this call really meant a lot to me.",
+      "questionKo": "나 이제 가야 하는데, 이번 통화 정말 큰 의미였어.",
       "questionAudio": "q011.mp3",
       "answer": "Same here, thank you so much for calling.",
+      "answerKo": "나도 그래, 전화해줘서 정말 고마워.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Of course. Okay, stay well, and give everyone my love, alright?",
+      "questionKo": "당연하지. 그래, 건강하게 지내고, 다들에게 안부 전해줘, 알았지?",
       "questionAudio": "q012.mp3",
       "answer": "I will, take care of yourself too, bye for now.",
+      "answerKo": "그럴게, 너도 몸 잘 챙기고, 일단 안녕.",
       "answerAudio": "a012.mp3"
     }
   ]

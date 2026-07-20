@@ -3,146 +3,194 @@
   "turns": [
     {
       "question": "Is there any room to negotiate on this price? You're asking seventy.",
+      "questionKo": "이 가격 좀 흥정 가능해요? 70달러 부르시는 거잖아요.",
       "questionAudio": "q000.mp3",
       "answer": "Maybe a little, I could do sixty instead of seventy.",
+      "answerKo": "조금은요, 70 대신 60으로 해드릴 수 있어요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Would you go any lower than that, say fifty?",
+      "questionKo": "그거보다 더 낮게, 한 50 정도는 안 돼요?",
       "questionAudio": "q001.mp3",
       "answer": "I can't go that low, but I could do sixty-five.",
+      "answerKo": "그렇게까지는 못 하고, 65는 가능해요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "What if I pay in cash right now, would that help?",
+      "questionKo": "지금 바로 현금으로 내면 도움이 될까요?",
       "questionAudio": "q002.mp3",
       "answer": "Yeah, cash works, I'll drop it to fifty-five for that.",
+      "answerKo": "네, 현금이면 55로 깎아 드릴게요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "That works for me. Can you throw in free delivery too?",
+      "questionKo": "좋아요. 무료 배송도 껴주실 수 있어요?",
       "questionAudio": "q003.mp3",
       "answer": "Sure, I can waive the delivery fee since you're paying cash.",
+      "answerKo": "네, 현금 결제하시니까 배송비는 빼드릴게요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Perfect, so we're settled at fifty-five with free delivery?",
+      "questionKo": "좋아요, 그럼 55달러에 무료 배송으로 합의된 거죠?",
       "questionAudio": "q004.mp3",
       "answer": "Exactly, fifty-five it is, delivery included.",
+      "answerKo": "네, 55달러에 배송비 포함이에요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Deal. When can you have it delivered by?",
+      "questionKo": "좋아요, 그럼 언제까지 배송해 주실 수 있어요?",
       "questionAudio": "q005.mp3",
       "answer": "I can get it to you by tomorrow afternoon.",
+      "answerKo": "내일 오후까지 보내드릴 수 있어요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "What's your best price on the pair of these?",
+      "questionKo": "이거 한 켤레 최저가가 얼마예요?",
       "questionAudio": "q006.mp3",
       "answer": "My best price is ninety, and that's already a deal.",
+      "answerKo": "최저가는 90달러예요, 이것도 이미 좋은 가격이에요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Would you consider forty-five each if I buy the pair?",
+      "questionKo": "한 켤레 사면 개당 45달러로 해주실 수 있어요?",
       "questionAudio": "q007.mp3",
       "answer": "I could do forty-five, that's the lowest I can go per pair.",
+      "answerKo": "45달러로 해드릴 수 있어요, 그게 켤레당 최저가예요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Is there a discount if I buy two pairs instead of just one?",
+      "questionKo": "한 켤레 말고 두 켤레 사면 할인돼요?",
       "questionAudio": "q008.mp3",
       "answer": "Yeah, buying two pairs brings it down to eighty each pair.",
+      "answerKo": "네, 두 켤레 사시면 켤레당 80달러로 내려가요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Can we split the difference and call it seventy-five each?",
+      "questionKo": "중간에서 타협해서 개당 75달러로 하면 안 될까요?",
       "questionAudio": "q009.mp3",
       "answer": "Let's meet at eighty, that's fair for both of us.",
+      "answerKo": "80달러로 합의하죠, 그게 서로 공평한 것 같아요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Alright, eighty works. Is there flexibility if I skip the warranty?",
+      "questionKo": "네, 80달러 좋아요. 보증 안 받으면 좀 더 조정 가능해요?",
       "questionAudio": "q010.mp3",
       "answer": "Yeah, without the warranty it's ten dollars less per pair.",
+      "answerKo": "네, 보증 빼면 켤레당 10달러 더 싸져요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Let's do that then, no warranty, seventy each.",
+      "questionKo": "그럼 그렇게 할게요, 보증 없이 개당 70달러로요.",
       "questionAudio": "q011.mp3",
       "answer": "Deal, seventy each it is, no warranty included.",
+      "answerKo": "좋아요, 개당 70달러, 보증 없이로 확정이에요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "Can I get a better deal if I refer a friend to you too?",
+      "questionKo": "친구 소개해 드리면 더 좋은 조건 받을 수 있어요?",
       "questionAudio": "q012.mp3",
       "answer": "Absolutely, you'd both get ten percent off your next order.",
+      "answerKo": "그럼요, 두 분 다 다음 주문에서 10% 할인받으실 수 있어요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "That's great, I'll definitely send some people your way.",
+      "questionKo": "좋네요, 꼭 사람들 소개해 드릴게요.",
       "questionAudio": "q013.mp3",
       "answer": "I appreciate that, word of mouth means a lot to me.",
+      "answerKo": "감사해요, 입소문이 저한테는 정말 중요해요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Is ninety-five negotiable at all on this piece?",
+      "questionKo": "이거 95달러 좀 흥정 가능해요?",
       "questionAudio": "q014.mp3",
       "answer": "A little, I could do ninety flat for you.",
+      "answerKo": "조금은요, 딱 90달러로 해드릴 수 있어요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Would you go lower if I took it today, right now?",
+      "questionKo": "오늘 바로 사면 더 낮춰주실 수 있어요?",
       "questionAudio": "q015.mp3",
       "answer": "Sure, same-day purchase gets you five off, so eighty-five.",
+      "answerKo": "네, 당일 구매하시면 5달러 할인돼서 85달러예요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "Can we agree on a round number then, like eighty?",
+      "questionKo": "그럼 딱 떨어지게 80달러로 합의할까요?",
       "questionAudio": "q016.mp3",
       "answer": "That works for me, let's just call it eighty even.",
+      "answerKo": "저도 좋아요, 그냥 정확히 80달러로 하죠.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Is there any discount available for returning customers like me?",
+      "questionKo": "저 같은 재구매 고객한테 할인 있어요?",
       "questionAudio": "q017.mp3",
       "answer": "Yes, returning customers get an automatic ten percent off too.",
+      "answerKo": "네, 재구매 고객분들은 자동으로 10% 할인돼요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Oh nice, so that would bring it down even further then?",
+      "questionKo": "오 좋네요, 그럼 거기서 더 내려가는 거예요?",
       "questionAudio": "q018.mp3",
       "answer": "Right, with that discount it comes to seventy-two.",
+      "answerKo": "맞아요, 그 할인까지 하면 72달러예요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "That's a great price, I'll take it at seventy-two.",
+      "questionKo": "좋은 가격이네요, 72달러에 살게요.",
       "questionAudio": "q019.mp3",
       "answer": "Perfect, I'll get that wrapped up for you right now.",
+      "answerKo": "네, 바로 포장해 드릴게요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "Would you accept store credit instead of cash for a future purchase?",
+      "questionKo": "현금 대신 나중에 쓸 수 있는 매장 크레딧으로 받아주실 수 있어요?",
       "questionAudio": "q020.mp3",
       "answer": "I can offer a bit extra if you take store credit instead.",
+      "answerKo": "매장 크레딧으로 받으시면 좀 더 얹어드릴 수 있어요.",
       "answerAudio": "a020.mp3"
     },
     {
       "question": "Actually, cash works better for me this time, thanks.",
+      "questionKo": "사실 이번엔 현금이 더 편해서요, 감사합니다.",
       "questionAudio": "q021.mp3",
       "answer": "No problem at all, cash it is then, seventy-two total.",
+      "answerKo": "전혀 문제없어요, 그럼 현금으로 총 72달러예요.",
       "answerAudio": "a021.mp3"
     },
     {
       "question": "Is there room to negotiate the delivery fee as well?",
+      "questionKo": "배송비도 좀 조정 가능해요?",
       "questionAudio": "q022.mp3",
       "answer": "A little, I can cut the delivery fee in half for you.",
+      "answerKo": "조금은요, 배송비 절반으로 깎아 드릴 수 있어요.",
       "answerAudio": "a022.mp3"
     },
     {
       "question": "That would help a lot, let's do that then.",
+      "questionKo": "그럼 정말 도움 될 것 같아요, 그렇게 해주세요.",
       "questionAudio": "q023.mp3",
       "answer": "Sounds good, I'll adjust the total before you check out.",
+      "answerKo": "네, 결제 전에 총액 조정해 드릴게요.",
       "answerAudio": "a023.mp3"
     }
   ]

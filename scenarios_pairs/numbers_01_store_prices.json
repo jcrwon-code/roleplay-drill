@@ -3,170 +3,226 @@
   "turns": [
     {
       "question": "Excuse me, how much is this jacket?",
+      "questionKo": "저기요, 이 재킷 얼마예요?",
       "questionAudio": "q000.mp3",
       "answer": "That one's marked at eighty-nine dollars.",
+      "answerKo": "그건 89달러로 나와 있어요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Is it on sale at all, or is that the regular price?",
+      "questionKo": "세일하는 거예요, 아니면 원래 가격이에요?",
       "questionAudio": "q001.mp3",
       "answer": "Yes, actually, it's fifteen dollars off, so it comes to seventy-four.",
+      "answerKo": "네, 15달러 할인돼서 74달러예요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Nice, that's a good discount. What about this scarf next to it?",
+      "questionKo": "오, 할인 괜찮네요. 옆에 있는 이 스카프는요?",
       "questionAudio": "q002.mp3",
       "answer": "The scarf is twelve fifty on its own.",
+      "answerKo": "스카프는 단품으로 12달러 50센트예요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "Would you get a better deal buying the jacket and scarf together?",
+      "questionKo": "재킷이랑 스카프 같이 사면 더 싸게 돼요?",
       "questionAudio": "q003.mp3",
       "answer": "Yeah, as a set they come to eighty dollars even.",
+      "answerKo": "네, 세트로 하면 딱 80달러예요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "That's a solid deal. Does that price already include tax?",
+      "questionKo": "괜찮은 가격이네요. 그 가격에 세금 포함된 거예요?",
       "questionAudio": "q004.mp3",
       "answer": "No, tax gets added at checkout, so with tax it's about eighty-six.",
+      "answerKo": "아니요, 세금은 계산할 때 붙어서 세금 포함하면 86달러 정도예요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Got it. And how much would shipping add if I have it delivered?",
+      "questionKo": "알겠어요. 그럼 배송시키면 배송비는 얼마 더 붙어요?",
       "questionAudio": "q005.mp3",
       "answer": "Shipping would add another six ninety-nine on top.",
+      "answerKo": "배송비는 6달러 99센트 더 추가돼요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "I think I'll just carry it home then, that's fine.",
+      "questionKo": "그럼 그냥 제가 들고 갈게요, 괜찮아요.",
       "questionAudio": "q006.mp3",
       "answer": "Sounds good, I'll ring that up for you now.",
+      "answerKo": "좋아요, 지금 계산해 드릴게요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Actually, how much do I owe you for everything together?",
+      "questionKo": "그런데 전부 합쳐서 얼마 내면 돼요?",
       "questionAudio": "q007.mp3",
       "answer": "All together, it comes to eighty-six dollars even.",
+      "answerKo": "다 합쳐서 정확히 86달러예요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Do you take cards, or is it cash only here?",
+      "questionKo": "카드 되나요, 아니면 현금만 받아요?",
       "questionAudio": "q008.mp3",
       "answer": "We take cards, whichever is easier for you.",
+      "answerKo": "카드도 받아요, 편하신 걸로 하세요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Great, I'll just use my card then, thank you.",
+      "questionKo": "좋아요, 그럼 카드로 할게요, 감사합니다.",
       "questionAudio": "q009.mp3",
       "answer": "Perfect, let me get that processed for you right now.",
+      "answerKo": "네, 바로 결제 도와드릴게요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Hi, could you check the price on these shoes for me? I don't see a tag.",
+      "questionKo": "안녕하세요, 이 신발 가격 좀 확인해 주실래요? 태그가 안 보여서요.",
       "questionAudio": "q010.mp3",
       "answer": "Sure, let me check -- those are seventy-five dollars a pair.",
+      "answerKo": "네, 확인해 볼게요. 한 켤레에 75달러예요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Is there a discount if I buy two pairs instead of one?",
+      "questionKo": "한 켤레 말고 두 켤레 사면 할인돼요?",
       "questionAudio": "q011.mp3",
       "answer": "Yes, actually, two pairs brings it down to sixty-five each.",
+      "answerKo": "네, 두 켤레 사시면 한 켤레당 65달러로 내려가요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "That's a nice savings. What's the price difference between this pair and the one over there?",
+      "questionKo": "꽤 절약되네요. 이거랑 저기 있는 거랑 가격 차이가 얼마나 나요?",
       "questionAudio": "q012.mp3",
       "answer": "This one's about ten dollars more than that other pair.",
+      "answerKo": "이게 저것보다 10달러 정도 더 비싸요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "Okay, I think I'll just get the two pairs of these then.",
+      "questionKo": "알겠어요, 그럼 이걸로 두 켤레 살게요.",
       "questionAudio": "q013.mp3",
       "answer": "Great choice, that'll come to one hundred thirty for both.",
+      "answerKo": "좋은 선택이에요, 두 켤레 합쳐서 130달러예요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Is there a price break if I add a third pair too?",
+      "questionKo": "세 켤레째 추가하면 가격이 더 내려가요?",
       "questionAudio": "q014.mp3",
       "answer": "Actually yes, three or more brings each pair down to sixty.",
+      "answerKo": "네, 세 켤레 이상이면 한 켤레당 60달러로 내려가요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Oh, that changes things. Let's do three pairs then.",
+      "questionKo": "오, 그럼 얘기가 다르네요. 그럼 세 켤레로 할게요.",
       "questionAudio": "q015.mp3",
       "answer": "Perfect, three pairs comes to one hundred eighty total.",
+      "answerKo": "좋아요, 세 켤레면 총 180달러예요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "What's the total with tax included on that?",
+      "questionKo": "세금 포함하면 총 얼마예요?",
       "questionAudio": "q016.mp3",
       "answer": "With tax, it comes out to about one ninety-five.",
+      "answerKo": "세금 포함하면 195달러 정도 나와요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "That works for me. Do you know the price per pound on the bags too, in case I need one?",
+      "questionKo": "좋아요. 혹시 가방도 파운드당 가격 아세요? 하나 필요할 수도 있어서요.",
       "questionAudio": "q017.mp3",
       "answer": "The bags aren't sold by weight, they're just three dollars each.",
+      "answerKo": "가방은 무게로 안 팔고 그냥 개당 3달러예요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "I'll take one bag as well then, thanks.",
+      "questionKo": "그럼 가방도 하나 살게요, 감사합니다.",
       "questionAudio": "q018.mp3",
       "answer": "No problem, I'll add that to your total right now.",
+      "answerKo": "네, 지금 총액에 추가해 드릴게요.",
       "answerAudio": "a018.mp3"
     },
     {
       "question": "How much is the whole living room set?",
+      "questionKo": "거실 세트 전체는 얼마예요?",
       "questionAudio": "q019.mp3",
       "answer": "The whole set comes to one hundred twenty dollars.",
+      "answerKo": "세트 전체가 120달러예요.",
       "answerAudio": "a019.mp3"
     },
     {
       "question": "What's the total for everything if I add the lamp too?",
+      "questionKo": "램프까지 추가하면 전체 합계가 얼마예요?",
       "questionAudio": "q020.mp3",
       "answer": "With the lamp, your total comes to one thirty-four eighty.",
+      "answerKo": "램프까지 하면 총 134달러 80센트예요.",
       "answerAudio": "a020.mp3"
     },
     {
       "question": "Is there a membership discount I could use here?",
+      "questionKo": "여기서 쓸 수 있는 멤버십 할인 있어요?",
       "questionAudio": "q021.mp3",
       "answer": "Yes, with membership it drops to one twenty-seven fifty.",
+      "answerKo": "네, 멤버십 쓰시면 127달러 50센트로 내려가요.",
       "answerAudio": "a021.mp3"
     },
     {
       "question": "How much would express shipping add on top of that?",
+      "questionKo": "빠른 배송 추가하면 얼마 더 붙어요?",
       "questionAudio": "q022.mp3",
       "answer": "Express shipping is an extra twelve dollars.",
+      "answerKo": "빠른 배송은 12달러 추가예요.",
       "answerAudio": "a022.mp3"
     },
     {
       "question": "Okay, and how much do I need to spend for free shipping instead?",
+      "questionKo": "그럼 무료 배송 받으려면 얼마 이상 사야 돼요?",
       "questionAudio": "q023.mp3",
       "answer": "You'd need to spend at least one hundred fifty for that.",
+      "answerKo": "최소 150달러는 넘게 사셔야 돼요.",
       "answerAudio": "a023.mp3"
     },
     {
       "question": "I'm already past that, so I should qualify then, right?",
+      "questionKo": "저는 이미 그거 넘었으니까 해당되는 거 맞죠?",
       "questionAudio": "q024.mp3",
       "answer": "You're right, that qualifies you for free shipping already.",
+      "answerKo": "맞아요, 이미 무료 배송 조건 충족하셨어요.",
       "answerAudio": "a024.mp3"
     },
     {
       "question": "Great, that saves me the twelve dollars then.",
+      "questionKo": "잘됐네요, 그럼 12달러 절약되는 거네요.",
       "questionAudio": "q025.mp3",
       "answer": "Exactly, so your final total is one twenty-seven fifty.",
+      "answerKo": "맞아요, 그래서 최종 금액은 127달러 50센트예요.",
       "answerAudio": "a025.mp3"
     },
     {
       "question": "What's the price without the membership discount, just curious?",
+      "questionKo": "그냥 궁금해서 그런데, 멤버십 할인 없이는 가격이 얼마예요?",
       "questionAudio": "q026.mp3",
       "answer": "Without it, the same order would be one thirty-four eighty.",
+      "answerKo": "할인 없으면 같은 주문이 134달러 80센트예요.",
       "answerAudio": "a026.mp3"
     },
     {
       "question": "Good thing I signed up for membership today then.",
+      "questionKo": "오늘 멤버십 가입하길 잘했네요.",
       "questionAudio": "q027.mp3",
       "answer": "It really does pay off on bigger orders like this one.",
+      "answerKo": "이렇게 큰 주문일수록 확실히 이득이에요.",
       "answerAudio": "a027.mp3"
     }
   ]

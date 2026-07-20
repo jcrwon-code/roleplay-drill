@@ -3,116 +3,154 @@
   "turns": [
     {
       "question": "What's popular here that I should try?",
+      "questionKo": "여기서 인기 있는 메뉴 중에 추천해 주실 만한 거 있을까요?",
       "questionAudio": "q000.mp3",
       "answer": "A lot of people love the caramel macchiato.",
+      "answerKo": "카라멜 마키아토 엄청 인기 많아요.",
       "answerAudio": "a000.mp3"
     },
     {
       "question": "Is that one very sweet, or more balanced?",
+      "questionKo": "그거 되게 달아요, 아니면 좀 균형 잡힌 맛인가요?",
       "questionAudio": "q001.mp3",
       "answer": "It's on the sweeter side, honestly, but really good.",
+      "answerKo": "솔직히 좀 달긴 한데, 진짜 맛있어요.",
       "answerAudio": "a001.mp3"
     },
     {
       "question": "Good to know. What's the difference between that and a latte?",
+      "questionKo": "알려주셔서 감사해요. 그거랑 라떼는 뭐가 다른가요?",
       "questionAudio": "q002.mp3",
       "answer": "A latte is smoother, less caramel flavor up front.",
+      "answerKo": "라떼가 더 부드럽고 처음부터 카라멜 맛이 덜 나요.",
       "answerAudio": "a002.mp3"
     },
     {
       "question": "What about a cappuccino, how's that different from both?",
+      "questionKo": "카푸치노는 어때요? 두 개랑 비교해서 어떤 차이가 있나요?",
       "questionAudio": "q003.mp3",
       "answer": "A cappuccino has more foam and less milk overall.",
+      "answerKo": "카푸치노는 거품이 더 많고 우유 양은 전체적으로 적고요.",
       "answerAudio": "a003.mp3"
     },
     {
       "question": "Do you have any dairy-free options if I wanted to try one of these?",
+      "questionKo": "혹시 이거 중에 유제품 안 들어가는 메뉴 있을까요?",
       "questionAudio": "q004.mp3",
       "answer": "Yes, we have oat, soy, and almond milk available.",
+      "answerKo": "네, 오트 밀크랑 두유, 아몬드 밀크 다 준비되어 있어요.",
       "answerAudio": "a004.mp3"
     },
     {
       "question": "Perfect, I think I'll go with the caramel macchiato using oat milk.",
+      "questionKo": "좋아요, 오트 밀크로 캐러멜 마키아토로 할게요.",
       "questionAudio": "q005.mp3",
       "answer": "Great choice, that combination is really popular here.",
+      "answerKo": "좋은 선택이세요. 그 조합 여기에서 진짜 인기 많아요.",
       "answerAudio": "a005.mp3"
     },
     {
       "question": "What's in the seasonal drink this month?",
+      "questionKo": "이번 달 시즌 음료에는 뭐가 나오나요?",
       "questionAudio": "q006.mp3",
       "answer": "It's got pumpkin spice and a bit of cinnamon.",
+      "answerKo": "펌킨 스파이스랑 계피가 들어있어요.",
       "answerAudio": "a006.mp3"
     },
     {
       "question": "Is it very sweet, or does the spice balance it out?",
+      "questionKo": "너무 달지 않고 향신료가 균형을 잡아주는 편인가요?",
       "questionAudio": "q007.mp3",
       "answer": "It's balanced pretty well, not overly sugary at all.",
+      "answerKo": "단맛이 과하지 않고 꽤 균형 잡혀 있어요.",
       "answerAudio": "a007.mp3"
     },
     {
       "question": "Do you have any decaf versions of that one?",
+      "questionKo": "그거 디카페인으로도 되나요?",
       "questionAudio": "q008.mp3",
       "answer": "Yes, almost anything on the menu can be made decaf.",
+      "answerKo": "네, 메뉴에 있는 건 거의 다 디카페인으로 가능해요.",
       "answerAudio": "a008.mp3"
     },
     {
       "question": "Good, I try to avoid caffeine later in the day. Is the flavor the same either way?",
+      "questionKo": "네, 저는 나중에 카페인 섭취를 피하려고 하거든요. 맛은 똑같은가요?",
       "questionAudio": "q009.mp3",
       "answer": "Pretty much identical, you won't notice much difference.",
+      "answerKo": "거의 똑같아서 차이 못 느끼실 거예요.",
       "answerAudio": "a009.mp3"
     },
     {
       "question": "Perfect, I'll go with the decaf version of that then.",
+      "questionKo": "좋아요, 그럼 디카페인으로 할게요.",
       "questionAudio": "q010.mp3",
       "answer": "Great choice, I'll get that started for you.",
+      "answerKo": "좋은 선택이시네요. 바로 만들어 드릴게요.",
       "answerAudio": "a010.mp3"
     },
     {
       "question": "Do you have any seasonal food that pairs well with it?",
+      "questionKo": "이 음료랑 잘 어울리는 시즌 메뉴 같은 거 있나요?",
       "questionAudio": "q011.mp3",
       "answer": "Yes, we've got a seasonal pastry that goes really well with it.",
+      "answerKo": "네, 거기에 정말 잘 어울리는 시즌 한정 페이스트리가 있어요.",
       "answerAudio": "a011.mp3"
     },
     {
       "question": "I'll take one of those too then, thanks.",
+      "questionKo": "그것도 하나 주세요, 감사합니다.",
       "questionAudio": "q012.mp3",
       "answer": "Perfect, I'll add that to your order.",
+      "answerKo": "완벽하네요. 주문에 추가할게요.",
       "answerAudio": "a012.mp3"
     },
     {
       "question": "What's the strongest coffee you have, I need something powerful today?",
+      "questionKo": "여기서 제일 진한 커피는 뭔가요? 오늘 좀 강렬한 게 필요해서요.",
       "questionAudio": "q013.mp3",
       "answer": "Probably our dark roast, it's pretty bold.",
+      "answerKo": "아마 다크 로스트가 좋을 것 같아요. 되게 진해요.",
       "answerAudio": "a013.mp3"
     },
     {
       "question": "Is the cold brew stronger than that, or about the same?",
+      "questionKo": "콜드 브루가 그거보다 더 진한가요, 아니면 비슷해요?",
       "questionAudio": "q014.mp3",
       "answer": "The cold brew is usually a bit more concentrated, actually.",
+      "answerKo": "콜드브루는 사실 좀 더 농축된 맛이 나요.",
       "answerAudio": "a014.mp3"
     },
     {
       "question": "Interesting, what's the difference between cold brew and regular iced coffee?",
+      "questionKo": "흥미롭네요. 콜드 브루랑 일반 아이스 아메리카노 차이가 뭐예요?",
       "questionAudio": "q015.mp3",
       "answer": "Cold brew is steeped longer, so it comes out smoother.",
+      "answerKo": "콜드브루는 우려내는 시간이 길어서 더 부드럽게 나와요.",
       "answerAudio": "a015.mp3"
     },
     {
       "question": "That sounds like exactly what I need this morning.",
+      "questionKo": "아침에 딱 필요한 거 같아요.",
       "questionAudio": "q016.mp3",
       "answer": "It's a great pick for days when you need the extra kick.",
+      "answerKo": "활력 충전이 필요할 때 정말 좋은 선택이에요.",
       "answerAudio": "a016.mp3"
     },
     {
       "question": "Does it come in a bigger size than what's listed?",
+      "questionKo": "표시된 사이즈보다 더 큰 걸로도 가능한가요?",
       "questionAudio": "q017.mp3",
       "answer": "Yes, we go up to a venti if you want the largest option.",
+      "answerKo": "네, 가장 큰 사이즈인 벤티까지 가능해요.",
       "answerAudio": "a017.mp3"
     },
     {
       "question": "Let's do that then, venti cold brew, please.",
+      "questionKo": "그럼 그렇게 해주세요. 벤티 사이즈 콜드 브루 부탁드립니다.",
       "questionAudio": "q018.mp3",
       "answer": "You got it, one venti cold brew coming right up.",
+      "answerKo": "알겠습니다. 벤티 콜드브루 바로 준비해 드릴게요.",
       "answerAudio": "a018.mp3"
     }
   ]
