@@ -187,6 +187,7 @@ class MicVad {
     speechThreshold = 0.04,
     silenceMs = 1800,
     maxWaitMs = 20000,
+    maxTotalMs = 30000,
     pollMs = 60,
   } = {}) {
     return new Promise((resolve) => {
@@ -198,6 +199,15 @@ class MicVad {
         if (stopped) { resolve(); return; }
         const level = this.getLevel();
         const now = Date.now();
+
+        // Hard ceiling regardless of state: mic gain/echo/background noise
+        // can keep the level pinned above threshold so silence never gets
+        // sustained for silenceMs -- without this, the drill hangs forever
+        // waiting for a silence window that will never come.
+        if (now - startTime >= maxTotalMs) {
+          resolve();
+          return;
+        }
 
         if (level > speechThreshold) {
           spokeYet = true;
