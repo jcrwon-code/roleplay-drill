@@ -134,7 +134,13 @@ function playAudio(url) {
     sharedAudioEl.onended = resolve;
     sharedAudioEl.onerror = reject;
     sharedAudioEl.src = url;
-    sharedAudioEl.play().catch(reject);
+    sharedAudioEl.play().catch((err) => {
+      // Autoplay can be blocked (e.g. gesture window expired while waiting on
+      // a mic-permission prompt). Retry once from a fresh play() call before
+      // giving up -- most engines allow this once the element already has a
+      // loaded src, even without a fresh gesture.
+      sharedAudioEl.play().catch(reject);
+    });
   });
 }
 
@@ -278,7 +284,12 @@ async function runScenario(fileName, vad) {
       // AI asks, I answer.
       setActiveRow(rowEls, i, "question");
       statusEl.textContent = "Listening to AI...";
-      await playAudio(audioDir + turn.questionAudio);
+      try {
+        await playAudio(audioDir + turn.questionAudio);
+      } catch (err) {
+        console.error("playAudio failed, skipping line", err);
+        statusEl.textContent = "Audio failed, skipping...";
+      }
       if (stopped) break;
 
       setActiveRow(rowEls, i, "answer");
@@ -294,7 +305,12 @@ async function runScenario(fileName, vad) {
 
       setActiveRow(rowEls, i, "answer");
       statusEl.textContent = "Listening to AI...";
-      await playAudio(audioDir + turn.answerAudio);
+      try {
+        await playAudio(audioDir + turn.answerAudio);
+      } catch (err) {
+        console.error("playAudio failed, skipping line", err);
+        statusEl.textContent = "Audio failed, skipping...";
+      }
       statusEl.textContent = "";
     }
   }
