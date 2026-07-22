@@ -40,8 +40,16 @@
     "file": "scenarios_pairs/greetings_10_long_term_and_phone.json"
   },
   {
+    "name": "hosting_01_welcoming_guest",
+    "file": "scenarios_pairs/hosting_01_welcoming_guest.json"
+  },
+  {
     "name": "indirect_questions_01_polite_inquiries",
     "file": "scenarios_pairs/indirect_questions_01_polite_inquiries.json"
+  },
+  {
+    "name": "interview_01_job_interview",
+    "file": "scenarios_pairs/interview_01_job_interview.json"
   },
   {
     "name": "numbers_01_store_prices",
@@ -82,6 +90,10 @@
   {
     "name": "numbers_10_large_amounts",
     "file": "scenarios_pairs/numbers_10_large_amounts.json"
+  },
+  {
+    "name": "reunion_01_old_friend",
+    "file": "scenarios_pairs/reunion_01_old_friend.json"
   },
   {
     "name": "starbucks_01_entering",

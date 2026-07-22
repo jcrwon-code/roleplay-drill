@@ -1,0 +1,61 @@
+{
+  "name": "hosting_01_welcoming_guest",
+  "turns": [
+    {
+      "question": "You made it! Come on, let's go inside, it's freezing out here.",
+      "questionKo": "왔구나! 자, 안으로 들어가자, 밖에 너무 춥다.",
+      "questionAudio": "q000.mp3",
+      "answer": "Thank you so much for having me -- I don't want to cause any trouble though.",
+      "answerKo": "초대해줘서 정말 고마워, 근데 폐 끼치고 싶진 않아.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Don't even worry about that. Would you care to join us for dinner? We just sat down.",
+      "questionKo": "그런 걱정 하지 마. 저녁 같이 먹을래? 이제 막 앉았어.",
+      "questionAudio": "q001.mp3",
+      "answer": "I'd love that, actually -- I haven't eaten since this morning.",
+      "answerKo": "완전 좋지, 사실 아침 이후로 아무것도 안 먹었어.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Perfect timing then. I'd like you to meet my sister, by the way -- she's visiting for the week.",
+      "questionKo": "타이밍 완벽하네. 참, 내 여동생 소개할게, 이번 주 놀러 왔어.",
+      "questionAudio": "q002.mp3",
+      "answer": "So nice to meet you -- I've heard so much about you already.",
+      "answerKo": "만나서 정말 반가워요, 얘기 진짜 많이 들었어요.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "All good, I promise. So, do you need a place to stay tonight, or are you heading back after this?",
+      "questionKo": "다 좋은 얘기니까 걱정 마. 근데 오늘 밤 묵을 곳은 있어, 아니면 이따 바로 돌아가?",
+      "questionAudio": "q003.mp3",
+      "answer": "If it's not too much trouble, a place to stay would be amazing -- the last train already left.",
+      "answerKo": "너무 번거롭지 않으면 하룻밤 신세 지면 정말 좋을 것 같아, 막차가 이미 끊겼거든.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Not a problem at all, we have a guest room ready. Got anything else you need for tonight?",
+      "questionKo": "전혀 문제없어, 손님방 준비돼 있어. 오늘 밤 필요한 거 또 있어?",
+      "questionAudio": "q004.mp3",
+      "answer": "Just a charger, if you happen to have a spare one lying around.",
+      "answerKo": "충전기만 있으면 돼, 혹시 남는 거 있으면.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "I think so -- I'll dig one out after dinner. Anyway, I haven't seen you in a while, so tell me everything.",
+      "questionKo": "아마 있을 거야, 저녁 먹고 찾아볼게. 아무튼 진짜 오랜만이니까 그동안 있었던 얘기 다 해줘.",
+      "questionAudio": "q005.mp3",
+      "answer": "Where do I even start -- I don't even know how to say this without sounding like a whole novel.",
+      "answerKo": "어디서부터 얘기해야 하지, 소설 한 편처럼 안 들리게 말할 자신이 없네.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Take your time, we've got all night. Come on, sit down and relax first.",
+      "questionKo": "천천히 해, 밤새 시간 있으니까. 자, 일단 앉아서 좀 쉬어.",
+      "questionAudio": "q006.mp3",
+      "answer": "Thanks -- honestly, this is exactly what I needed after this week.",
+      "answerKo": "고마워, 솔직히 이번 주 보내고 딱 이런 시간이 필요했어.",
+      "answerAudio": "a006.mp3"
+    }
+  ]
+}

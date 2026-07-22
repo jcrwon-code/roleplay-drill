@@ -7,7 +7,7 @@
 // foreground requests (that's what made first use feel frozen/slow on a
 // weaker device/network -- see PROJECT_LOG.md).
 
-const CACHE_NAME = "roleplay-v13";
+const CACHE_NAME = "roleplay-v14";
 const APP_SHELL_BATCH_SIZE = 10;
 const AUDIO_BATCH_SIZE = 6;
 const AUDIO_BATCH_DELAY_MS = 250;

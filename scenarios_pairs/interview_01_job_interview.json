@@ -1,0 +1,85 @@
+{
+  "name": "interview_01_job_interview",
+  "turns": [
+    {
+      "question": "Thanks for coming in today. Before we start, could I get your full name for our records?",
+      "questionKo": "오늘 와주셔서 감사합니다. 시작하기 전에, 기록을 위해 성함을 여쭤봐도 될까요?",
+      "questionAudio": "q000.mp3",
+      "answer": "Of course -- it's Jordan Lee.",
+      "answerKo": "그럼요, 조던 리입니다.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Great, thanks Jordan. Can I ask you a couple of questions about your background?",
+      "questionKo": "좋아요, 조던. 경력에 대해 몇 가지 질문 드려도 될까요?",
+      "questionAudio": "q001.mp3",
+      "answer": "Sure, go ahead -- ask me anything.",
+      "answerKo": "네, 얼마든지 물어보세요.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "How many hours a day do you usually spend on actual hands-on work, not counting meetings?",
+      "questionKo": "회의 시간 빼고, 하루에 실제 실무에 보통 몇 시간 정도 쓰시나요?",
+      "questionAudio": "q002.mp3",
+      "answer": "Probably five or six, once the morning meetings are out of the way.",
+      "answerKo": "오전 회의 끝나고 나면 보통 5~6시간 정도예요.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "That's fair. What would you like to say about why you're leaving your current job?",
+      "questionKo": "그렇군요. 지금 직장을 떠나려는 이유에 대해서는 어떻게 말씀하고 싶으세요?",
+      "questionAudio": "q003.mp3",
+      "answer": "Honestly, I don't want to cause any problems for my old team, so let's just say I'm ready for a new challenge.",
+      "answerKo": "솔직히 예전 팀에 괜히 문제 만들고 싶지 않아서요, 그냥 새로운 도전이 필요했다고 해두죠.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Fair enough. I won't push on that. Have you worked with our design software before?",
+      "questionKo": "좋습니다, 더 안 물을게요. 저희 디자인 소프트웨어는 써보신 적 있으세요?",
+      "questionAudio": "q004.mp3",
+      "answer": "I'll be honest, I don't know anything about that particular one yet, but I pick up new tools fast.",
+      "answerKo": "솔직히 그 프로그램은 아직 전혀 몰라요, 근데 새 툴은 빨리 배우는 편이에요.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "That's good to hear. Is there anything else you'd like to show me -- a portfolio, past projects?",
+      "questionKo": "다행이네요. 혹시 저한테 더 보여주실 만한 게 있나요, 포트폴리오나 이전 작업물 같은 거요?",
+      "questionAudio": "q005.mp3",
+      "answer": "Actually, yes -- I brought a few samples on my tablet, if you'd like to see them now.",
+      "answerKo": "네, 사실 태블릿에 샘플 몇 개 가져왔어요, 지금 보여드려도 될까요?",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "I'd love that. Go ahead and pull them up.",
+      "questionKo": "좋죠, 한번 보여주세요.",
+      "questionAudio": "q006.mp3",
+      "answer": "Here -- this one's a rebrand project I led last year.",
+      "answerKo": "여기요, 작년에 제가 이끌었던 리브랜딩 프로젝트예요.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Impressive. One last thing -- do you have any questions for me?",
+      "questionKo": "인상적이네요. 마지막으로, 저한테 궁금한 거 있으세요?",
+      "questionAudio": "q007.mp3",
+      "answer": "Yes, actually -- what would you say is the biggest challenge for someone starting on this team?",
+      "answerKo": "네, 사실 있어요, 이 팀에 새로 합류하면 가장 큰 어려움이 뭐라고 생각하세요?",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Good question. Probably the pace -- things move fast here, so you have to be comfortable asking for help early.",
+      "questionKo": "좋은 질문이네요. 아마 속도일 거예요, 여기는 일이 빨리 진행돼서 일찍 도움을 요청하는 데 익숙해져야 해요.",
+      "questionAudio": "q008.mp3",
+      "answer": "That actually sounds like a good fit for me -- I'd rather ask early than guess wrong.",
+      "answerKo": "저한테는 오히려 잘 맞을 것 같아요, 잘못 짐작하느니 일찍 물어보는 게 낫거든요.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Great answer. We'll be in touch by the end of the week either way.",
+      "questionKo": "좋은 답변이네요. 결과가 어떻든 이번 주 안에 연락드릴게요.",
+      "questionAudio": "q009.mp3",
+      "answer": "Sounds good, thank you so much for your time today.",
+      "answerKo": "네 좋습니다, 오늘 시간 내주셔서 정말 감사합니다.",
+      "answerAudio": "a009.mp3"
+    }
+  ]
+}

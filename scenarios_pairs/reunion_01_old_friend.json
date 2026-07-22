@@ -1,0 +1,69 @@
+{
+  "name": "reunion_01_old_friend",
+  "turns": [
+    {
+      "question": "Wait -- is that you? I haven't seen you in a while!",
+      "questionKo": "어, 잠깐, 너 맞아? 오랜만이다!",
+      "questionAudio": "q000.mp3",
+      "answer": "Oh my gosh, yeah, it's me! I don't even know how to say how happy I am right now.",
+      "answerKo": "어머, 응, 나야! 지금 얼마나 반가운지 말로 표현을 못하겠어.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Did I ever tell you how many times I thought about looking you up?",
+      "questionKo": "너 찾아볼까 몇 번이나 생각했는지 내가 얘기했었나?",
+      "questionAudio": "q001.mp3",
+      "answer": "No, you never told me that -- I thought you'd forgotten all about me.",
+      "answerKo": "아니, 그런 얘기 안 했잖아, 난 네가 나 완전히 잊은 줄 알았어.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Never. Actually, I want you to meet someone -- this is my partner, Maya.",
+      "questionKo": "절대 아니지. 사실 소개해주고 싶은 사람이 있어, 내 파트너 마야야.",
+      "questionAudio": "q002.mp3",
+      "answer": "I've never met you before, but he's told me so much about you already.",
+      "answerKo": "처음 뵙는데, 이 사람한테 얘기 많이 들었어요.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "All good things, I promise. So how many hours a day do you still spend at that little bakery of yours?",
+      "questionKo": "좋은 얘기만 했어, 약속해. 근데 너 그 작은 빵집엔 하루에 몇 시간이나 아직도 있어?",
+      "questionAudio": "q003.mp3",
+      "answer": "Honestly, probably ten -- I still don't know how to say no to a new recipe idea.",
+      "answerKo": "솔직히 열 시간쯤? 새 레시피 아이디어엔 아직도 거절을 못하겠더라고.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "That sounds exactly like you. Would you two care to join us for dinner tonight?",
+      "questionKo": "완전 너답다. 오늘 저녁 우리랑 같이 식사할래?",
+      "questionAudio": "q004.mp3",
+      "answer": "We'd love that -- we don't have any plans tonight anyway.",
+      "answerKo": "완전 좋지, 어차피 오늘 저녁 딱히 계획도 없었어.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Perfect. Come on, let's go inside and grab a table before it gets busy.",
+      "questionKo": "좋았어. 자, 안에 들어가서 붐비기 전에 자리 잡자.",
+      "questionAudio": "q005.mp3",
+      "answer": "Sounds good -- lead the way, I still remember you always know the best spots.",
+      "answerKo": "좋아, 앞장서, 너 항상 좋은 자리 아는 거 아직 기억나.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "I hope you're not mad I never texted back last year, by the way.",
+      "questionKo": "그나저나 작년에 답장 안 한 거, 화 안 났으면 좋겠는데.",
+      "questionAudio": "q006.mp3",
+      "answer": "Not at all -- I got busy too, so I don't want to cause any drama over something that small.",
+      "answerKo": "전혀, 나도 바빴어서, 그런 작은 일로 괜히 분위기 어색하게 만들고 싶지 않아.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Good, because I really did miss having you around.",
+      "questionKo": "다행이다, 사실 네가 옆에 없어서 진짜 아쉬웠거든.",
+      "questionAudio": "q007.mp3",
+      "answer": "Same here. Let's make sure we don't lose touch again this time.",
+      "answerKo": "나도 그래. 이번엔 진짜 연락 끊기지 말자.",
+      "answerAudio": "a007.mp3"
+    }
+  ]
+}
