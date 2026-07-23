@@ -88,6 +88,10 @@
     "file": "scenarios_pairs/numbers_10_large_amounts.json"
   },
   {
+    "name": "restaurant_01_ordering_dinner",
+    "file": "scenarios_pairs/restaurant_01_ordering_dinner.json"
+  },
+  {
     "name": "smalltalk_01_catching_up",
     "file": "scenarios_pairs/smalltalk_01_catching_up.json"
   },
@@ -98,6 +102,10 @@
   {
     "name": "smalltalk_03_daily_chat_with_samantha",
     "file": "scenarios_pairs/smalltalk_03_daily_chat_with_samantha.json"
+  },
+  {
+    "name": "smalltalk_04_weekend_and_gadgets",
+    "file": "scenarios_pairs/smalltalk_04_weekend_and_gadgets.json"
   },
   {
     "name": "starbucks_01_entering",

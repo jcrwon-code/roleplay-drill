@@ -1,0 +1,69 @@
+{
+  "name": "smalltalk_04_weekend_and_gadgets",
+  "turns": [
+    {
+      "question": "So, any plans for the weekend, Samantha?",
+      "questionKo": "그래서, 샤만다 이번 주말에 계획 있어요?",
+      "questionAudio": "q000.mp3",
+      "answer": "I'm actually visiting my grandparents this time.",
+      "answerKo": "사실 이번엔 조부모님 뵈러 가요.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Oh nice, how long will you stay?",
+      "questionKo": "오 좋네요, 얼마나 있다 와요?",
+      "questionAudio": "q001.mp3",
+      "answer": "Just for two nights, then I'm back Sunday evening.",
+      "answerKo": "이틀만요, 일요일 저녁에 돌아와요.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "That sounds nice. Can you bring them my regards?",
+      "questionKo": "좋네요. 제 안부도 좀 전해주실래요?",
+      "questionAudio": "q002.mp3",
+      "answer": "Of course, they'll love hearing that.",
+      "answerKo": "그럼요, 좋아하실 거예요.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Enjoy your weekend! By the way, what phone do you have these days?",
+      "questionKo": "주말 잘 보내요! 근데 요즘 무슨 폰 써요?",
+      "questionAudio": "q003.mp3",
+      "answer": "I actually just got the latest iPhone, funny enough.",
+      "answerKo": "사실 얼마 전에 최신 아이폰 샀어요, 신기하게도.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Oh nice, how long does the battery last on that one?",
+      "questionKo": "오 좋네요, 배터리는 얼마나 가요?",
+      "questionAudio": "q004.mp3",
+      "answer": "Pretty much all day if I'm not gaming on it.",
+      "answerKo": "게임만 안 하면 거의 하루 종일 가요.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Not bad. Isn't it expensive, though?",
+      "questionKo": "나쁘지 않네요. 근데 비싸지 않아요?",
+      "questionAudio": "q005.mp3",
+      "answer": "It was, honestly, but my old one finally gave out.",
+      "answerKo": "솔직히 비싸긴 했는데, 예전 폰이 결국 완전히 맛이 갔어요.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Fair enough. Does it have a good camera at least?",
+      "questionKo": "그럴 만하네요. 그래도 카메라는 좋아요?",
+      "questionAudio": "q006.mp3",
+      "answer": "Actually yeah, it's probably the best camera I've had.",
+      "answerKo": "네 사실 지금까지 써본 것 중에 카메라가 제일 좋아요.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Nice, that's good to hear -- have a great trip this weekend.",
+      "questionKo": "좋네요, 다행이다. 이번 주말 여행 잘 다녀와요.",
+      "questionAudio": "q007.mp3",
+      "answer": "Thanks, I will -- talk to you when I'm back.",
+      "answerKo": "고마워요, 다녀와서 연락할게요.",
+      "answerAudio": "a007.mp3"
+    }
+  ]
+}

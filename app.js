@@ -60,6 +60,7 @@ const CATEGORY_LABELS = {
   starbucks: "Starbucks",
   smalltalk: "Small Talk",
   directions: "Asking Directions",
+  restaurant: "Restaurant",
 };
 
 function categoryOf(name) {

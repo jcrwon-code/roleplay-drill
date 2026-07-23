@@ -1,0 +1,77 @@
+{
+  "name": "restaurant_01_ordering_dinner",
+  "turns": [
+    {
+      "question": "Good evening, are you ready to order, ma'am?",
+      "questionKo": "안녕하세요, 주문하시겠어요?",
+      "questionAudio": "q000.mp3",
+      "answer": "Yes, I'd like a steak, please.",
+      "answerKo": "네, 스테이크로 할게요.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Of course. How would you like your steak?",
+      "questionKo": "네. 스테이크는 어떻게 익혀드릴까요?",
+      "questionAudio": "q001.mp3",
+      "answer": "Medium, please, if that's possible.",
+      "answerKo": "미디엄으로 부탁드려요, 가능하다면요.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Absolutely. Would you like some bread while you wait?",
+      "questionKo": "물론이죠. 기다리시는 동안 빵 좀 드릴까요?",
+      "questionAudio": "q002.mp3",
+      "answer": "That would be lovely, thank you.",
+      "answerKo": "좋아요, 감사합니다.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "And don't you want a drink with that?",
+      "questionKo": "그리고 음료는 필요 없으세요?",
+      "questionAudio": "q003.mp3",
+      "answer": "Actually, sure -- just a sparkling water is fine.",
+      "answerKo": "아, 좋아요. 탄산수면 될 것 같아요.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Great choice. I'll get that started for you right away.",
+      "questionKo": "좋은 선택이세요. 바로 준비해드릴게요.",
+      "questionAudio": "q004.mp3",
+      "answer": "Thank you so much.",
+      "answerKo": "정말 감사합니다.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Is everything okay with your meal?",
+      "questionKo": "음식은 입맛에 맞으세요?",
+      "questionAudio": "q005.mp3",
+      "answer": "It's wonderful, actually -- reminds me of a dish I cook at home.",
+      "answerKo": "정말 맛있어요, 사실 집에서 제가 해먹는 요리가 생각나네요.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Oh really? What do you usually cook?",
+      "questionKo": "아 정말요? 보통 뭐 요리하세요?",
+      "questionAudio": "q006.mp3",
+      "answer": "Mostly stir-fried vegetables, or sometimes a curry if I have time.",
+      "answerKo": "주로 야채볶음이요, 시간 있으면 카레도 하고요.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "That sounds delicious -- could you teach me how to make it sometime?",
+      "questionKo": "맛있겠네요, 언제 만드는 법 좀 가르쳐주실래요?",
+      "questionAudio": "q007.mp3",
+      "answer": "Sure, I'd be happy to show you next time you're over.",
+      "answerKo": "그럼요, 다음에 놀러 오시면 보여드릴게요.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "I'll hold you to that. Shall I bring the bill now?",
+      "questionKo": "꼭 그래야 해요. 계산서 가져다드릴까요?",
+      "questionAudio": "q008.mp3",
+      "answer": "Yes, please, whenever you're ready.",
+      "answerKo": "네, 준비되시면 부탁드려요.",
+      "answerAudio": "a008.mp3"
+    }
+  ]
+}
