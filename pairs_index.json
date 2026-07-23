@@ -1,5 +1,9 @@
 [
   {
+    "name": "directions_01_asking_a_stranger",
+    "file": "scenarios_pairs/directions_01_asking_a_stranger.json"
+  },
+  {
     "name": "greetings_01_first_meeting",
     "file": "scenarios_pairs/greetings_01_first_meeting.json"
   },
@@ -82,6 +86,14 @@
   {
     "name": "numbers_10_large_amounts",
     "file": "scenarios_pairs/numbers_10_large_amounts.json"
+  },
+  {
+    "name": "smalltalk_01_catching_up",
+    "file": "scenarios_pairs/smalltalk_01_catching_up.json"
+  },
+  {
+    "name": "smalltalk_02_daily_routine",
+    "file": "scenarios_pairs/smalltalk_02_daily_routine.json"
   },
   {
     "name": "starbucks_01_entering",

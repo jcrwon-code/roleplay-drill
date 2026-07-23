@@ -58,6 +58,8 @@ const CATEGORY_LABELS = {
   greetings: "Greetings",
   numbers: "Numbers",
   starbucks: "Starbucks",
+  smalltalk: "Small Talk",
+  directions: "Asking Directions",
 };
 
 function categoryOf(name) {

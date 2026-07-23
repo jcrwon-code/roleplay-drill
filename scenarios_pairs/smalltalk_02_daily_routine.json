@@ -1,0 +1,69 @@
+{
+  "name": "smalltalk_02_daily_routine",
+  "turns": [
+    {
+      "question": "So how do you usually get to work?",
+      "questionKo": "출근은 보통 어떻게 해?",
+      "questionAudio": "q000.mp3",
+      "answer": "I ride my bike most days, it's honestly the easiest way.",
+      "answerKo": "거의 매일 자전거 타, 솔직히 그게 제일 편해.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Doesn't that take forever, though?",
+      "questionKo": "근데 그거 되게 오래 걸리지 않아?",
+      "questionAudio": "q001.mp3",
+      "answer": "Not really, it only takes about twenty minutes.",
+      "answerKo": "아니, 딱 20분 정도밖에 안 걸려.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "What do you do when it's raining, though?",
+      "questionKo": "근데 비 올 땐 어떻게 해?",
+      "questionAudio": "q002.mp3",
+      "answer": "Then I just take the train instead.",
+      "answerKo": "그럴 땐 그냥 지하철 타.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Smart. Traffic gets pretty bad in the mornings around here, right?",
+      "questionKo": "똑똑하네. 여기 아침엔 교통 꽤 막히지?",
+      "questionAudio": "q003.mp3",
+      "answer": "Oh, definitely -- the roads are always jammed by eight.",
+      "answerKo": "완전, 8시쯤 되면 도로가 항상 꽉 막혀.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Yeah, I was stuck for almost an hour this morning myself.",
+      "questionKo": "맞아, 나도 오늘 아침에 거의 한 시간 갇혀있었어.",
+      "questionAudio": "q004.mp3",
+      "answer": "That's rough. Did you end up being late?",
+      "answerKo": "힘들었겠다. 그래서 결국 늦었어?",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "A little, but I texted my manager so it was fine.",
+      "questionKo": "조금, 근데 매니저한테 문자 보내서 괜찮았어.",
+      "questionAudio": "q005.mp3",
+      "answer": "Good thinking. Do you usually make time to exercise too?",
+      "answerKo": "잘했네. 근데 운동할 시간은 보통 내는 편이야?",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Yeah, I try to get out four times a week.",
+      "questionKo": "응, 일주일에 네 번 정도는 하려고 해.",
+      "questionAudio": "q006.mp3",
+      "answer": "Nice, what do you usually do?",
+      "answerKo": "좋다, 보통 뭐 해?",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Mostly swimming and walking, honestly, nothing too intense.",
+      "questionKo": "주로 수영이랑 걷기, 솔직히 크게 힘든 건 안 해.",
+      "questionAudio": "q007.mp3",
+      "answer": "That sounds like a good balance to me.",
+      "answerKo": "균형 잘 잡힌 것 같다.",
+      "answerAudio": "a007.mp3"
+    }
+  ]
+}

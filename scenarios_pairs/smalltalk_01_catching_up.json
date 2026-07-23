@@ -1,0 +1,69 @@
+{
+  "name": "smalltalk_01_catching_up",
+  "turns": [
+    {
+      "question": "Hey, are you doing okay? You look pretty tired today.",
+      "questionKo": "저기, 괜찮아? 오늘 되게 피곤해 보인다.",
+      "questionAudio": "q000.mp3",
+      "answer": "Honestly, not really -- I stayed up way too late last night.",
+      "answerKo": "솔직히 별로야, 어젯밤에 너무 늦게까지 안 잤어.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Ah, that'll do it. Want me to grab you a coffee before the meeting?",
+      "questionKo": "아, 그래서 그렇구나. 회의 전에 커피 한 잔 갖다줄까?",
+      "questionAudio": "q001.mp3",
+      "answer": "That would be amazing, thank you.",
+      "answerKo": "완전 좋지, 고마워.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "No problem. So how's the new job treating you, by the way?",
+      "questionKo": "그럼 그럼. 근데 새 직장은 어때?",
+      "questionAudio": "q002.mp3",
+      "answer": "It's actually going really well -- way better than my last one.",
+      "answerKo": "사실 진짜 괜찮아, 예전 직장보다 훨씬 나아.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "That's great to hear! What's the biggest difference?",
+      "questionKo": "다행이다! 가장 큰 차이가 뭐야?",
+      "questionAudio": "q003.mp3",
+      "answer": "My manager actually listens when I bring up ideas, which is new for me.",
+      "answerKo": "매니저가 내가 의견 내면 진짜 들어줘, 나한텐 새로운 경험이야.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "Nice. Speaking of which, did you end up finding a place near the office?",
+      "questionKo": "좋네. 그러고 보니, 회사 근처에 집은 구했어?",
+      "questionAudio": "q004.mp3",
+      "answer": "Yeah, I did -- it's close enough that I can walk most days.",
+      "answerKo": "응, 구했어. 거의 매일 걸어올 수 있을 정도로 가까워.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Lucky you. It's supposed to get cold and foggy later, so bring a jacket if you head out.",
+      "questionKo": "좋겠다. 이따 춥고 안개 낀다니까 나갈 거면 겉옷 챙겨.",
+      "questionAudio": "q005.mp3",
+      "answer": "Good call, I'll grab one before lunch.",
+      "answerKo": "좋은 정보다, 점심 전에 챙겨야겠다.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "By the way, a bunch of us are getting lunch around one -- want to join?",
+      "questionKo": "참, 우리 1시쯤 몇 명이 점심 먹으러 가는데, 같이 갈래?",
+      "questionAudio": "q006.mp3",
+      "answer": "I'd love that, count me in.",
+      "answerKo": "완전 좋지, 나도 껴줘.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "Perfect. I'll swing by your desk when it's time.",
+      "questionKo": "좋아. 시간 되면 자리로 부르러 갈게.",
+      "questionAudio": "q007.mp3",
+      "answer": "Sounds good, see you then.",
+      "answerKo": "좋아, 그때 봐.",
+      "answerAudio": "a007.mp3"
+    }
+  ]
+}
