@@ -1,0 +1,141 @@
+{
+  "name": "smalltalk_03_daily_chat_with_samantha",
+  "turns": [
+    {
+      "question": "Are you feeling okay, Samantha? You seem a little off today.",
+      "questionKo": "샤만다, 오늘 괜찮아요? 좀 안 좋아 보여요.",
+      "questionAudio": "q000.mp3",
+      "answer": "No, I feel quite tired -- I stayed up too late last night.",
+      "answerKo": "아니요, 좀 피곤해요. 어젯밤에 너무 늦게 잤어요.",
+      "answerAudio": "a000.mp3"
+    },
+    {
+      "question": "Didn't you sleep well? Want me to grab you something?",
+      "questionKo": "잠을 잘 못 잤어요? 뭐 좀 갖다줄까요?",
+      "questionAudio": "q001.mp3",
+      "answer": "That would be great, thanks -- maybe just some water for now.",
+      "answerKo": "좋아요, 고마워요. 일단 물 한 잔이면 될 것 같아요.",
+      "answerAudio": "a001.mp3"
+    },
+    {
+      "question": "Sure thing. So how do you usually get to work these days?",
+      "questionKo": "그럼요. 근데 요즘 출근은 보통 어떻게 해요?",
+      "questionAudio": "q002.mp3",
+      "answer": "I usually ride my bicycle, actually.",
+      "answerKo": "사실 보통 자전거를 타요.",
+      "answerAudio": "a002.mp3"
+    },
+    {
+      "question": "Doesn't that take a long time, though?",
+      "questionKo": "근데 그거 시간 오래 걸리지 않아요?",
+      "questionAudio": "q003.mp3",
+      "answer": "Not really -- it only takes about twenty minutes.",
+      "answerKo": "아니요, 한 20분밖에 안 걸려요.",
+      "answerAudio": "a003.mp3"
+    },
+    {
+      "question": "And what happens when it rains?",
+      "questionKo": "비 오면 어떻게 해요?",
+      "questionAudio": "q004.mp3",
+      "answer": "Then I just take the underground train instead.",
+      "answerKo": "그럴 땐 그냥 지하철 타요.",
+      "answerAudio": "a004.mp3"
+    },
+    {
+      "question": "Makes sense. Isn't traffic pretty bad here in the mornings too?",
+      "questionKo": "그렇겠네요. 여기 아침엔 교통도 꽤 막히지 않아요?",
+      "questionAudio": "q005.mp3",
+      "answer": "Yeah, the roads are always jammed around that time.",
+      "answerKo": "네, 그 시간엔 항상 도로가 꽉 막혀요.",
+      "answerAudio": "a005.mp3"
+    },
+    {
+      "question": "Speaking of getting around -- is there an ATM anywhere near here?",
+      "questionKo": "그러고 보니, 혹시 이 근처에 ATM 있어요?",
+      "questionAudio": "q006.mp3",
+      "answer": "Yes, there's one at the mall, actually.",
+      "answerKo": "네, 사실 쇼핑몰에 하나 있어요.",
+      "answerAudio": "a006.mp3"
+    },
+    {
+      "question": "How do I get there from here?",
+      "questionKo": "여기서 어떻게 가면 돼요?",
+      "questionAudio": "q007.mp3",
+      "answer": "Just walk straight for about two blocks and you'll see it.",
+      "answerKo": "그냥 두 블록 정도 직진하면 보일 거예요.",
+      "answerAudio": "a007.mp3"
+    },
+    {
+      "question": "Do you think it's open right now?",
+      "questionKo": "지금 열려 있을까요?",
+      "questionAudio": "q008.mp3",
+      "answer": "Should be -- I think that one runs pretty much all day.",
+      "answerKo": "열려 있을 거예요, 아마 거의 하루 종일 열 걸요.",
+      "answerAudio": "a008.mp3"
+    },
+    {
+      "question": "Good to know. Anyway, are you more of an extrovert or an introvert, Samantha?",
+      "questionKo": "다행이네요. 근데 샤만다는 외향적인 편이에요, 내향적인 편이에요?",
+      "questionAudio": "q009.mp3",
+      "answer": "Honestly, I'm more of an introvert.",
+      "answerKo": "솔직히 저는 내향적인 편이에요.",
+      "answerAudio": "a009.mp3"
+    },
+    {
+      "question": "Don't you like being around people, then?",
+      "questionKo": "그럼 사람들이랑 어울리는 거 안 좋아해요?",
+      "questionAudio": "q010.mp3",
+      "answer": "I do, just not in huge groups -- how about parties, for example?",
+      "answerKo": "좋아하긴 하는데, 큰 무리는 좀. 예를 들면 파티 같은 건 어때요?",
+      "answerAudio": "a010.mp3"
+    },
+    {
+      "question": "Ha, fair question -- so how do you usually have fun, then?",
+      "questionKo": "하, 좋은 질문이네요. 그럼 보통 뭘로 즐거움을 느껴요?",
+      "questionAudio": "q011.mp3",
+      "answer": "My idea of fun is just lying in bed with a good book, honestly.",
+      "answerKo": "솔직히 제 즐거움은 그냥 침대에 누워서 좋은 책 읽는 거예요.",
+      "answerAudio": "a011.mp3"
+    },
+    {
+      "question": "That sounds nice, actually. By the way, how's the weather been for you?",
+      "questionKo": "그거 괜찮네요. 근데 그쪽 날씨는 어때요?",
+      "questionAudio": "q012.mp3",
+      "answer": "It's cold and a bit foggy today.",
+      "answerKo": "오늘은 춥고 안개도 좀 꼈어요.",
+      "answerAudio": "a012.mp3"
+    },
+    {
+      "question": "Oh, how cold is it exactly?",
+      "questionKo": "아, 정확히 얼마나 추워요?",
+      "questionAudio": "q013.mp3",
+      "answer": "Maybe around eight degrees Celsius.",
+      "answerKo": "한 8도 정도 될 거예요.",
+      "answerAudio": "a013.mp3"
+    },
+    {
+      "question": "Should I bring an umbrella later?",
+      "questionKo": "이따 우산 챙겨야 할까요?",
+      "questionAudio": "q014.mp3",
+      "answer": "Good idea -- it might rain any time.",
+      "answerKo": "좋은 생각이에요, 언제 비 올지 몰라요.",
+      "answerAudio": "a014.mp3"
+    },
+    {
+      "question": "One more thing -- do you practice English daily, Samantha?",
+      "questionKo": "하나만 더요, 샤만다는 영어 매일 연습해요?",
+      "questionAudio": "q015.mp3",
+      "answer": "Yes, I practice every single day, actually.",
+      "answerKo": "네, 사실 매일매일 연습해요.",
+      "answerAudio": "a015.mp3"
+    },
+    {
+      "question": "Is it difficult to learn?",
+      "questionKo": "배우기 어려워요?",
+      "questionAudio": "q016.mp3",
+      "answer": "Grammar's hard, but the vocabulary's pretty easy for me.",
+      "answerKo": "문법은 어려운데, 단어는 저한테 꽤 쉬워요.",
+      "answerAudio": "a016.mp3"
+    }
+  ]
+}

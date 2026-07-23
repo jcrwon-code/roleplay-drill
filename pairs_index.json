@@ -96,6 +96,10 @@
     "file": "scenarios_pairs/smalltalk_02_daily_routine.json"
   },
   {
+    "name": "smalltalk_03_daily_chat_with_samantha",
+    "file": "scenarios_pairs/smalltalk_03_daily_chat_with_samantha.json"
+  },
+  {
     "name": "starbucks_01_entering",
     "file": "scenarios_pairs/starbucks_01_entering.json"
   },
